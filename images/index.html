@@ -89,40 +89,60 @@
       pointer-events: none;
     }
 
+    /* Force all slide content to stay within viewport */
+    .reveal .slides section {
+      display: flex !important;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      padding: 1.2em 1em;
+      box-sizing: border-box;
+      overflow: hidden;
+    }
+
     /* Butterfly slides */
     .reveal .butterfly-img {
-      max-height: 42vh;
-      max-width: 80%;
+      max-height: 32vh;
+      max-width: 70%;
       border-radius: 6px;
       box-shadow: 0 8px 32px rgba(0,0,0,0.5), 0 0 0 1px rgba(74,124,89,0.3);
-      margin-bottom: 0.5em;
+      margin-bottom: 0.3em;
+      object-fit: contain;
+      flex-shrink: 1;
+      min-height: 0;
     }
 
     .reveal .caption {
       color: var(--fl-cream);
-      font-size: 0.85em;
-      margin: 0.3em 0 0.05em;
+      font-size: 0.8em;
+      margin: 0.15em 0 0;
       font-weight: 600;
       letter-spacing: 0.03em;
+      flex-shrink: 0;
     }
     .reveal .sci-name {
       color: var(--fl-gold);
-      font-size: 0.65em;
+      font-size: 0.6em;
       font-style: italic;
-      margin-bottom: 0.6em;
+      margin-bottom: 0.3em;
+      flex-shrink: 0;
     }
     .reveal .alt-desc {
       color: var(--fl-sand);
-      font-size: 0.42em;
-      line-height: 1.65;
+      font-size: 0.38em;
+      line-height: 1.55;
       max-width: 720px;
       margin: 0 auto;
       text-align: left;
       opacity: 0.82;
       background: rgba(26,46,26,0.5);
-      padding: 0.8em 1.1em;
+      padding: 0.6em 1em;
       border-radius: 4px;
       border-left: 3px solid var(--fl-leaf);
+      flex-shrink: 1;
+      overflow-y: auto;
+      min-height: 0;
     }
 
     /* Navigation & progress */
@@ -240,8 +260,10 @@
     transition: 'fade',
     transitionSpeed: 'slow',
     backgroundTransition: 'fade',
-    center: true,
-    margin: 0.08,
+    center: false,
+    margin: 0.04,
+    height: 700,
+    width: 960,
   });
 </script>
 
