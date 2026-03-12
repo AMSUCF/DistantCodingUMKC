@@ -186,4 +186,95 @@ The renamed images, alt text file (`alt-text.md`), and slideshow are all in the 
 
 ---
 
+## Example 4: Complex Projects with Claude Code on the Desktop
+
+<div class="example-card" markdown="1">
+<span class="tag">Advanced</span>
+
+### From Terminal to Full-Stack Projects
+
+The previous examples used Claude Code through the web interface, which connects to a GitHub repository remotely. For more complex, iterative projects -- building full applications, working with local files, running tests, installing dependencies -- you can install Claude Code directly on your machine and run it from the command line.
+
+This opens up significantly more capability: Claude can read and write files across your entire project, run shell commands, install packages, execute scripts, and iterate on errors in real time. Combined with brainstorming tools, this becomes a powerful environment for designing and building ambitious digital humanities projects from scratch.
+
+</div>
+
+### Steps
+
+<ol class="steps">
+<li>
+
+**Download and install Claude Code.** Visit [claude.ai/code](https://claude.ai/code) and follow the installation instructions for your operating system. This requires Node.js (v18+). On most systems, you can install it with:
+
+```
+npm install -g @anthropic-ai/claude-code
+```
+
+</li>
+<li>
+
+**Open your terminal** (Terminal on Mac, Command Prompt or PowerShell on Windows) and navigate to a project folder -- ideally a GitHub repository you've already cloned or initialized:
+
+```
+cd ~/projects/my-dh-project
+```
+
+If you don't have a project folder yet, create one and initialize a git repository:
+
+```
+mkdir my-dh-project && cd my-dh-project && git init
+```
+
+</li>
+<li>
+
+**Launch Claude Code** by typing `claude` in that folder. Claude will start an interactive session with full access to your project directory. On first launch, you'll authenticate with your Anthropic account.
+
+```
+claude
+```
+
+</li>
+<li>
+
+**Activate the brainstorming plugin.** Once inside the Claude Code session, type `/install` and select the **superpowers** plugin. This adds extended capabilities for project planning and brainstorming. After installation, use the `/brainstorm` command to begin designing a project collaboratively:
+
+<div class="prompt-block">
+/brainstorm I want to build an interactive timeline of women in computing from Ada Lovelace to the present, with primary source excerpts, portraits, and a network visualization showing mentorship and collaboration connections between figures
+</div>
+
+The brainstorming mode helps you think through architecture, scope, data sources, and implementation strategy before writing code. Claude will ask clarifying questions, suggest approaches, identify potential challenges, and help you break an ambitious idea into manageable pieces.
+
+</li>
+<li>
+
+**Build iteratively.** After brainstorming, you can move directly into implementation. Claude Code on the desktop can:
+
+- Create and edit files across your entire project
+- Run build tools, linters, and test suites
+- Install npm/pip/etc. dependencies
+- Debug errors by reading stack traces and fixing code
+- Commit and push to GitHub
+- Iterate based on your feedback in real time
+
+This is where the workflow shifts from single-prompt generation (as in Examples 1-3) to an ongoing collaborative development process -- closer to pair programming than to filling out a form.
+
+</li>
+</ol>
+
+### What You Can Build
+
+With Claude Code on the desktop and brainstorming tools, the scope of possible projects expands significantly. Some examples relevant to digital humanities:
+
+- **Interactive archives** with search, filtering, and metadata visualization
+- **Mapping projects** combining GIS data with narrative and primary sources
+- **Network visualizations** of historical correspondence, citation patterns, or social connections
+- **Custom text analysis tools** with NLP pipelines tailored to specific corpora
+- **Digital exhibits** with multimedia, timelines, and curatorial commentary
+- **Pedagogical tools** -- interactive exercises, annotation platforms, or game-based learning environments
+
+The key difference from the web-based workflow is that Claude Code on the desktop can handle projects with many files, complex dependencies, and iterative development cycles -- the kind of work that typically requires a dedicated developer.
+
+---
+
 *More examples coming soon.*
