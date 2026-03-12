@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Florida Butterflies</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/theme/black.css" id="theme">
+  <style>
+    /* ── Florida native plant palette ──────────────────────────────────
+       Inspired by saw palmetto fronds, live oak canopy, sabal palm,
+       coreopsis (state wildflower), and sandy pine flatwoods.
+       ─────────────────────────────────────────────────────────────── */
+    :root {
+      --fl-deep:    #1a2e1a;   /* live-oak canopy shadow */
+      --fl-mid:     #2d4a2d;   /* saw palmetto green */
+      --fl-leaf:    #4a7c59;   /* sabal palm frond */
+      --fl-sand:    #e8dcc8;   /* sandy soil */
+      --fl-gold:    #d4a843;   /* coreopsis yellow */
+      --fl-bark:    #6b4e3d;   /* pine bark */
+      --fl-cream:   #f5f0e6;   /* shell white */
+    }
+
+    .reveal {
+      font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    }
+
+    /* Background: layered gradient evoking pine flatwoods at dusk */
+    .reveal .slides {
+      text-align: center;
+    }
+    body {
+      background: linear-gradient(160deg, var(--fl-deep) 0%, #1f3620 40%, #2a3d28 70%, #1a2416 100%);
+    }
+    .reveal {
+      background: transparent;
+    }
+
+    /* Title slide */
+    .reveal h1 {
+      font-size: 2.4em;
+      color: var(--fl-cream);
+      text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+      margin-bottom: 0.2em;
+      font-weight: 400;
+      letter-spacing: 0.02em;
+    }
+    .reveal .title-sub {
+      color: var(--fl-gold);
+      font-size: 0.75em;
+      font-style: italic;
+      letter-spacing: 0.06em;
+    }
+    .reveal .title-rule {
+      width: 120px;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--fl-gold), transparent);
+      margin: 1em auto;
+      border: none;
+    }
+    .reveal .title-note {
+      color: var(--fl-sand);
+      font-size: 0.5em;
+      opacity: 0.7;
+      margin-top: 1em;
+    }
+
+    /* Decorative corner frond borders on each slide */
+    .reveal section::before {
+      content: '';
+      position: absolute;
+      top: 12px; left: 12px;
+      width: 60px; height: 60px;
+      border-top: 2px solid var(--fl-leaf);
+      border-left: 2px solid var(--fl-leaf);
+      opacity: 0.4;
+      border-radius: 2px 0 0 0;
+      pointer-events: none;
+    }
+    .reveal section::after {
+      content: '';
+      position: absolute;
+      bottom: 12px; right: 12px;
+      width: 60px; height: 60px;
+      border-bottom: 2px solid var(--fl-leaf);
+      border-right: 2px solid var(--fl-leaf);
+      opacity: 0.4;
+      border-radius: 0 0 2px 0;
+      pointer-events: none;
+    }
+
+    /* Butterfly slides */
+    .reveal .butterfly-img {
+      max-height: 42vh;
+      max-width: 80%;
+      border-radius: 6px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.5), 0 0 0 1px rgba(74,124,89,0.3);
+      margin-bottom: 0.5em;
+    }
+
+    .reveal .caption {
+      color: var(--fl-cream);
+      font-size: 0.85em;
+      margin: 0.3em 0 0.05em;
+      font-weight: 600;
+      letter-spacing: 0.03em;
+    }
+    .reveal .sci-name {
+      color: var(--fl-gold);
+      font-size: 0.65em;
+      font-style: italic;
+      margin-bottom: 0.6em;
+    }
+    .reveal .alt-desc {
+      color: var(--fl-sand);
+      font-size: 0.42em;
+      line-height: 1.65;
+      max-width: 720px;
+      margin: 0 auto;
+      text-align: left;
+      opacity: 0.82;
+      background: rgba(26,46,26,0.5);
+      padding: 0.8em 1.1em;
+      border-radius: 4px;
+      border-left: 3px solid var(--fl-leaf);
+    }
+
+    /* Navigation & progress */
+    .reveal .controls { color: var(--fl-gold); }
+    .reveal .progress { color: var(--fl-leaf); height: 3px; }
+    .reveal .slide-number {
+      color: var(--fl-sand);
+      font-family: inherit;
+      font-size: 0.55em;
+      opacity: 0.6;
+    }
+  </style>
+</head>
+<body>
+
+<div class="reveal">
+  <div class="slides">
+
+    <!-- Title slide -->
+    <section>
+      <h1>Florida Butterflies</h1>
+      <hr class="title-rule">
+      <p class="title-sub">A photographic field guide</p>
+      <p class="title-note">Southeastern United States &middot; 8 species</p>
+    </section>
+
+    <!-- 1. Spicebush Swallowtail -->
+    <section>
+      <img class="butterfly-img"
+           src="spicebush-swallowtail.png"
+           alt="A Spicebush Swallowtail butterfly resting with wings spread open on low green grass and clover. The wings are predominantly black with a row of pale cream-yellow marginal spots along the outer edges of both the forewings and hindwings. The hindwings display striking iridescent blue scaling across their upper surface, along with a single small orange eyespot near the inner margin. The butterfly is viewed from above at a slight angle, with the full wingspan visible against the bright green ground cover and a few dry leaf fragments.">
+      <p class="caption">Spicebush Swallowtail</p>
+      <p class="sci-name">Papilio troilus</p>
+      <div class="alt-desc">A Spicebush Swallowtail butterfly resting with wings spread open on low green grass and clover. The wings are predominantly black with a row of pale cream-yellow marginal spots along the outer edges of both the forewings and hindwings. The hindwings display striking iridescent blue scaling across their upper surface, along with a single small orange eyespot near the inner margin. The butterfly is viewed from above at a slight angle, with the full wingspan visible against the bright green ground cover and a few dry leaf fragments.</div>
+    </section>
+
+    <!-- 2. Eastern Tiger Swallowtail -->
+    <section>
+      <img class="butterfly-img"
+           src="eastern-tiger-swallowtail.png"
+           alt="An Eastern Tiger Swallowtail butterfly perched on a thin branch amid green compound leaves and small pink flower clusters, photographed against a clear blue sky. The large wings are bright yellow with bold black tiger-stripe bands running vertically across the forewings. The hindwings show a border of blue scaling near the tail and a row of yellow marginal spots. The characteristic pointed tail extensions are visible on the hindwings. The butterfly is viewed from below at an angle, with wings held partially open, catching direct sunlight.">
+      <p class="caption">Eastern Tiger Swallowtail</p>
+      <p class="sci-name">Papilio glaucus</p>
+      <div class="alt-desc">An Eastern Tiger Swallowtail butterfly perched on a thin branch amid green compound leaves and small pink flower clusters, photographed against a clear blue sky. The large wings are bright yellow with bold black tiger-stripe bands running vertically across the forewings. The hindwings show a border of blue scaling near the tail and a row of yellow marginal spots. The characteristic pointed tail extensions are visible on the hindwings. The butterfly is viewed from below at an angle, with wings held partially open, catching direct sunlight.</div>
+    </section>
+
+    <!-- 3. Painted Lady -->
+    <section>
+      <img class="butterfly-img"
+           src="painted-lady.png"
+           alt="A Painted Lady butterfly perched on rain-speckled white snapdragon flowers with its wings held partially open. The forewings show a warm orange base color with irregular black patches, black tips marked with white spots, and brown patterning. The hindwing undersides are visible, displaying an intricate mosaic of brown, tan, orange, and white with small eyespots. The butterfly's body is covered in fine brown and tan hairs. Water droplets are visible on both the flower petals and the butterfly's wings, suggesting recent rain.">
+      <p class="caption">Painted Lady</p>
+      <p class="sci-name">Vanessa cardui</p>
+      <div class="alt-desc">A Painted Lady butterfly perched on rain-speckled white snapdragon flowers with its wings held partially open. The forewings show a warm orange base color with irregular black patches, black tips marked with white spots, and brown patterning. The hindwing undersides are visible, displaying an intricate mosaic of brown, tan, orange, and white with small eyespots. The butterfly's body is covered in fine brown and tan hairs. Water droplets are visible on both the flower petals and the butterfly's wings, suggesting recent rain.</div>
+    </section>
+
+    <!-- 4. White Peacock -->
+    <section>
+      <img class="butterfly-img"
+           src="white-peacock.png"
+           alt="A White Peacock butterfly resting with wings fully spread on a broad green leaf, viewed from directly above. The wings are pale silvery-white to light tan with a delicate pattern of brown and warm orange bands running parallel to the wing margins. Small dark eyespots with pale centers are visible on both the forewings and hindwings. The wing edges have a subtle scalloped brown border. The overall effect is soft and muted compared to more boldly colored species, with the butterfly's pale coloring contrasting against the deep green foliage.">
+      <p class="caption">White Peacock</p>
+      <p class="sci-name">Anartia jatrophae</p>
+      <div class="alt-desc">A White Peacock butterfly resting with wings fully spread on a broad green leaf, viewed from directly above. The wings are pale silvery-white to light tan with a delicate pattern of brown and warm orange bands running parallel to the wing margins. Small dark eyespots with pale centers are visible on both the forewings and hindwings. The wing edges have a subtle scalloped brown border. The overall effect is soft and muted compared to more boldly colored species, with the butterfly's pale coloring contrasting against the deep green foliage.</div>
+    </section>
+
+    <!-- 5. Monarch -->
+    <section>
+      <img class="butterfly-img"
+           src="monarch.png"
+           alt="A Monarch butterfly feeding on a cluster of bright orange butterfly weed (Asclepias tuberosa) flowers, surrounded by dense green foliage. The wings are held open, showing the iconic pattern of deep orange panels divided by black veins, with a wide black border containing two rows of small white spots. The forewing tips are black with larger white and orange spots. The butterfly's black body is visible with white speckles. The warm orange of the wings closely echoes the orange of the milkweed flowers beneath it.">
+      <p class="caption">Monarch</p>
+      <p class="sci-name">Danaus plexippus</p>
+      <div class="alt-desc">A Monarch butterfly feeding on a cluster of bright orange butterfly weed (Asclepias tuberosa) flowers, surrounded by dense green foliage. The wings are held open, showing the iconic pattern of deep orange panels divided by black veins, with a wide black border containing two rows of small white spots. The forewing tips are black with larger white and orange spots. The butterfly's black body is visible with white speckles. The warm orange of the wings closely echoes the orange of the milkweed flowers beneath it.</div>
+    </section>
+
+    <!-- 6. Zebra Longwing -->
+    <section>
+      <img class="butterfly-img"
+           src="zebra-longwing.png"
+           alt="A Zebra Longwing butterfly with wings spread open, perched on green foliage in dappled warm light. The distinctively elongated, narrow wings are jet black with bold pale yellow horizontal stripes running across both the forewings and hindwings. The wing shape is noticeably longer and narrower than most other butterfly species, giving it a distinctive silhouette. The butterfly is viewed from above at a slight angle, with sunlight highlighting the contrast between the black and yellow banding pattern. Green leaves and hints of pink flowers are visible in the background.">
+      <p class="caption">Zebra Longwing</p>
+      <p class="sci-name">Heliconius charithonia</p>
+      <div class="alt-desc">A Zebra Longwing butterfly with wings spread open, perched on green foliage in dappled warm light. The distinctively elongated, narrow wings are jet black with bold pale yellow horizontal stripes running across both the forewings and hindwings. The wing shape is noticeably longer and narrower than most other butterfly species, giving it a distinctive silhouette. The butterfly is viewed from above at a slight angle, with sunlight highlighting the contrast between the black and yellow banding pattern. Green leaves and hints of pink flowers are visible in the background.</div>
+    </section>
+
+    <!-- 7. Ceraunus Blue -->
+    <section>
+      <img class="butterfly-img"
+           src="ceraunus-blue.png"
+           alt="A small Ceraunus Blue butterfly clinging to the side of a green, elongated flower bud or seed head, photographed in profile with wings closed. The wing undersides display an intricate pattern of brown and white wavy lines and irregular markings on a pale grayish-white background. A prominent eyespot on the hindwing features a vivid metallic blue center ringed in black with a thin orange arc. The butterfly's small size is evident relative to the plant structure. The background is a soft, blurred gray-blue, isolating the delicate detail of the wing pattern.">
+      <p class="caption">Ceraunus Blue</p>
+      <p class="sci-name">Hemiargus ceraunus</p>
+      <div class="alt-desc">A small Ceraunus Blue butterfly clinging to the side of a green, elongated flower bud or seed head, photographed in profile with wings closed. The wing undersides display an intricate pattern of brown and white wavy lines and irregular markings on a pale grayish-white background. A prominent eyespot on the hindwing features a vivid metallic blue center ringed in black with a thin orange arc. The butterfly's small size is evident relative to the plant structure. The background is a soft, blurred gray-blue, isolating the delicate detail of the wing pattern.</div>
+    </section>
+
+    <!-- 8. Great Southern White -->
+    <section>
+      <img class="butterfly-img"
+           src="great-southern-white.png"
+           alt="A Great Southern White butterfly perched on a slender green stem or leaf with its wings held closed, viewed in profile. The wings are pale white to slightly cream-colored with faint grayish-green scaling visible along the veins on the underside. The body is white with a slightly fuzzy thorax, and the dark compound eyes and slender antennae with clubbed tips are clearly visible. The butterfly is surrounded by narrow green leaves, with a dark background that accentuates the pale, almost luminous quality of the wings.">
+      <p class="caption">Great Southern White</p>
+      <p class="sci-name">Ascia monuste</p>
+      <div class="alt-desc">A Great Southern White butterfly perched on a slender green stem or leaf with its wings held closed, viewed in profile. The wings are pale white to slightly cream-colored with faint grayish-green scaling visible along the veins on the underside. The body is white with a slightly fuzzy thorax, and the dark compound eyes and slender antennae with clubbed tips are clearly visible. The butterfly is surrounded by narrow green leaves, with a dark background that accentuates the pale, almost luminous quality of the wings.</div>
+    </section>
+
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: 'c/t',
+    transition: 'fade',
+    transitionSpeed: 'slow',
+    backgroundTransition: 'fade',
+    center: true,
+    margin: 0.08,
+  });
+</script>
+
+</body>
+</html>
