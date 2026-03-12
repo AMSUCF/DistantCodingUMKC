@@ -1,0 +1,6127 @@
+{
+  "texts": [
+    {
+      "id": "pg32677.txt",
+      "title": "The Invention of the Sewing Machine",
+      "author": "Grace Rogers Cooper",
+      "year": "1968",
+      "wordCount": 37685,
+      "uniqueWords": 4766,
+      "top50": [
+        {
+          "word": "machine",
+          "count": 1175
+        },
+        {
+          "word": "sewing",
+          "count": 722
+        },
+        {
+          "word": "patent",
+          "count": 375
+        },
+        {
+          "word": "machines",
+          "count": 331
+        },
+        {
+          "word": "thread",
+          "count": 216
+        },
+        {
+          "word": "howe",
+          "count": 214
+        },
+        {
+          "word": "needle",
+          "count": 194
+        },
+        {
+          "word": "company",
+          "count": 172
+        },
+        {
+          "word": "smithsonian",
+          "count": 144
+        },
+        {
+          "word": "singer",
+          "count": 139
+        },
+        {
+          "word": "photo",
+          "count": 134
+        },
+        {
+          "word": "wilson",
+          "count": 126
+        },
+        {
+          "word": "william",
+          "count": 108
+        },
+        {
+          "word": "stitch",
+          "count": 101
+        },
+        {
+          "word": "july",
+          "count": 95
+        },
+        {
+          "word": "manufactured",
+          "count": 95
+        },
+        {
+          "word": "april",
+          "count": 92
+        },
+        {
+          "word": "june",
+          "count": 91
+        },
+        {
+          "word": "used",
+          "count": 87
+        },
+        {
+          "word": "march",
+          "count": 84
+        },
+        {
+          "word": "aug",
+          "count": 84
+        },
+        {
+          "word": "patents",
+          "count": 78
+        },
+        {
+          "word": "charles",
+          "count": 77
+        },
+        {
+          "word": "shuttle",
+          "count": 77
+        },
+        {
+          "word": "model",
+          "count": 76
+        },
+        {
+          "word": "american",
+          "count": 75
+        },
+        {
+          "word": "chainstitch",
+          "count": 73
+        },
+        {
+          "word": "manufacture",
+          "count": 70
+        },
+        {
+          "word": "george",
+          "count": 70
+        },
+        {
+          "word": "loop",
+          "count": 69
+        },
+        {
+          "word": "nov",
+          "count": 69
+        },
+        {
+          "word": "feb",
+          "count": 68
+        },
+        {
+          "word": "jan",
+          "count": 67
+        },
+        {
+          "word": "clark",
+          "count": 66
+        },
+        {
+          "word": "serial",
+          "count": 64
+        },
+        {
+          "word": "dec",
+          "count": 63
+        },
+        {
+          "word": "stitching",
+          "count": 62
+        },
+        {
+          "word": "james",
+          "count": 62
+        },
+        {
+          "word": "cloth",
+          "count": 61
+        },
+        {
+          "word": "years",
+          "count": 60
+        },
+        {
+          "word": "although",
+          "count": 60
+        },
+        {
+          "word": "combination",
+          "count": 59
+        },
+        {
+          "word": "manufacturing",
+          "count": 58
+        },
+        {
+          "word": "family",
+          "count": 58
+        },
+        {
+          "word": "oct",
+          "count": 58
+        },
+        {
+          "word": "illustrated",
+          "count": 57
+        },
+        {
+          "word": "hand",
+          "count": 55
+        },
+        {
+          "word": "mfg",
+          "count": 55
+        },
+        {
+          "word": "wheeler",
+          "count": 54
+        },
+        {
+          "word": "baker",
+          "count": 54
+        }
+      ]
+    },
+    {
+      "id": "pg33154.txt",
+      "title": "The Telephone",
+      "author": "A. E. Dolbear",
+      "year": "1877",
+      "wordCount": 16623,
+      "uniqueWords": 2688,
+      "top50": [
+        {
+          "word": "sound",
+          "count": 126
+        },
+        {
+          "word": "electricity",
+          "count": 113
+        },
+        {
+          "word": "magnet",
+          "count": 111
+        },
+        {
+          "word": "current",
+          "count": 88
+        },
+        {
+          "word": "wire",
+          "count": 77
+        },
+        {
+          "word": "vibrations",
+          "count": 63
+        },
+        {
+          "word": "iron",
+          "count": 62
+        },
+        {
+          "word": "air",
+          "count": 60
+        },
+        {
+          "word": "motion",
+          "count": 55
+        },
+        {
+          "word": "second",
+          "count": 48
+        },
+        {
+          "word": "wave",
+          "count": 48
+        },
+        {
+          "word": "length",
+          "count": 44
+        },
+        {
+          "word": "instrument",
+          "count": 43
+        },
+        {
+          "word": "battery",
+          "count": 40
+        },
+        {
+          "word": "form",
+          "count": 39
+        },
+        {
+          "word": "coil",
+          "count": 39
+        },
+        {
+          "word": "pitch",
+          "count": 39
+        },
+        {
+          "word": "magnetism",
+          "count": 37
+        },
+        {
+          "word": "sounds",
+          "count": 37
+        },
+        {
+          "word": "fork",
+          "count": 34
+        },
+        {
+          "word": "direction",
+          "count": 33
+        },
+        {
+          "word": "telephone",
+          "count": 31
+        },
+        {
+          "word": "electric",
+          "count": 31
+        },
+        {
+          "word": "light",
+          "count": 31
+        },
+        {
+          "word": "inch",
+          "count": 31
+        },
+        {
+          "word": "tube",
+          "count": 31
+        },
+        {
+          "word": "action",
+          "count": 30
+        },
+        {
+          "word": "circuit",
+          "count": 30
+        },
+        {
+          "word": "times",
+          "count": 30
+        },
+        {
+          "word": "musical",
+          "count": 29
+        },
+        {
+          "word": "electro",
+          "count": 29
+        },
+        {
+          "word": "plate",
+          "count": 27
+        },
+        {
+          "word": "matter",
+          "count": 26
+        },
+        {
+          "word": "instruments",
+          "count": 25
+        },
+        {
+          "word": "magnetic",
+          "count": 24
+        },
+        {
+          "word": "heat",
+          "count": 24
+        },
+        {
+          "word": "tone",
+          "count": 23
+        },
+        {
+          "word": "inches",
+          "count": 23
+        },
+        {
+          "word": "feet",
+          "count": 23
+        },
+        {
+          "word": "heard",
+          "count": 23
+        },
+        {
+          "word": "steel",
+          "count": 22
+        },
+        {
+          "word": "piece",
+          "count": 22
+        },
+        {
+          "word": "opposite",
+          "count": 22
+        },
+        {
+          "word": "case",
+          "count": 22
+        },
+        {
+          "word": "overtones",
+          "count": 22
+        },
+        {
+          "word": "rod",
+          "count": 21
+        },
+        {
+          "word": "place",
+          "count": 20
+        },
+        {
+          "word": "used",
+          "count": 20
+        },
+        {
+          "word": "connected",
+          "count": 20
+        },
+        {
+          "word": "soft",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "id": "pg34765.txt",
+      "title": "The Story of the Atlantic Telegraph",
+      "author": "Henry M. Field",
+      "year": "1866",
+      "wordCount": 86781,
+      "uniqueWords": 8048,
+      "top50": [
+        {
+          "word": "cable",
+          "count": 630
+        },
+        {
+          "word": "sea",
+          "count": 303
+        },
+        {
+          "word": "atlantic",
+          "count": 259
+        },
+        {
+          "word": "telegraph",
+          "count": 259
+        },
+        {
+          "word": "field",
+          "count": 256
+        },
+        {
+          "word": "miles",
+          "count": 247
+        },
+        {
+          "word": "company",
+          "count": 232
+        },
+        {
+          "word": "ship",
+          "count": 228
+        },
+        {
+          "word": "day",
+          "count": 211
+        },
+        {
+          "word": "board",
+          "count": 172
+        },
+        {
+          "word": "england",
+          "count": 158
+        },
+        {
+          "word": "ocean",
+          "count": 146
+        },
+        {
+          "word": "line",
+          "count": 145
+        },
+        {
+          "word": "newfoundland",
+          "count": 135
+        },
+        {
+          "word": "enterprise",
+          "count": 130
+        },
+        {
+          "word": "men",
+          "count": 130
+        },
+        {
+          "word": "twenty",
+          "count": 121
+        },
+        {
+          "word": "success",
+          "count": 115
+        },
+        {
+          "word": "london",
+          "count": 115
+        },
+        {
+          "word": "whole",
+          "count": 112
+        },
+        {
+          "word": "ships",
+          "count": 110
+        },
+        {
+          "word": "government",
+          "count": 108
+        },
+        {
+          "word": "expedition",
+          "count": 108
+        },
+        {
+          "word": "public",
+          "count": 106
+        },
+        {
+          "word": "world",
+          "count": 104
+        },
+        {
+          "word": "eastern",
+          "count": 104
+        },
+        {
+          "word": "across",
+          "count": 103
+        },
+        {
+          "word": "deep",
+          "count": 101
+        },
+        {
+          "word": "years",
+          "count": 100
+        },
+        {
+          "word": "man",
+          "count": 99
+        },
+        {
+          "word": "morning",
+          "count": 96
+        },
+        {
+          "word": "niagara",
+          "count": 93
+        },
+        {
+          "word": "without",
+          "count": 88
+        },
+        {
+          "word": "night",
+          "count": 88
+        },
+        {
+          "word": "half",
+          "count": 86
+        },
+        {
+          "word": "american",
+          "count": 85
+        },
+        {
+          "word": "passed",
+          "count": 85
+        },
+        {
+          "word": "bottom",
+          "count": 84
+        },
+        {
+          "word": "captain",
+          "count": 83
+        },
+        {
+          "word": "shore",
+          "count": 82
+        },
+        {
+          "word": "water",
+          "count": 82
+        },
+        {
+          "word": "went",
+          "count": 80
+        },
+        {
+          "word": "america",
+          "count": 77
+        },
+        {
+          "word": "laid",
+          "count": 77
+        },
+        {
+          "word": "seemed",
+          "count": 77
+        },
+        {
+          "word": "never",
+          "count": 75
+        },
+        {
+          "word": "agamemnon",
+          "count": 74
+        },
+        {
+          "word": "sent",
+          "count": 72
+        },
+        {
+          "word": "brought",
+          "count": 71
+        },
+        {
+          "word": "lay",
+          "count": 70
+        }
+      ]
+    },
+    {
+      "id": "pg53481.txt",
+      "title": "Printing Telegraphy... A New Era Begins",
+      "author": "Edward E. Kleinschmidt",
+      "year": "1967",
+      "wordCount": 14601,
+      "uniqueWords": 2675,
+      "top50": [
+        {
+          "word": "kleinschmidt",
+          "count": 160
+        },
+        {
+          "word": "telegraph",
+          "count": 136
+        },
+        {
+          "word": "code",
+          "count": 131
+        },
+        {
+          "word": "company",
+          "count": 126
+        },
+        {
+          "word": "system",
+          "count": 93
+        },
+        {
+          "word": "printer",
+          "count": 77
+        },
+        {
+          "word": "morkrum",
+          "count": 75
+        },
+        {
+          "word": "apparatus",
+          "count": 70
+        },
+        {
+          "word": "printing",
+          "count": 59
+        },
+        {
+          "word": "start",
+          "count": 51
+        },
+        {
+          "word": "teletype",
+          "count": 50
+        },
+        {
+          "word": "western",
+          "count": 48
+        },
+        {
+          "word": "tape",
+          "count": 47
+        },
+        {
+          "word": "used",
+          "count": 45
+        },
+        {
+          "word": "electric",
+          "count": 43
+        },
+        {
+          "word": "unit",
+          "count": 43
+        },
+        {
+          "word": "corporation",
+          "count": 42
+        },
+        {
+          "word": "union",
+          "count": 39
+        },
+        {
+          "word": "speed",
+          "count": 39
+        },
+        {
+          "word": "using",
+          "count": 38
+        },
+        {
+          "word": "operation",
+          "count": 38
+        },
+        {
+          "word": "service",
+          "count": 38
+        },
+        {
+          "word": "development",
+          "count": 37
+        },
+        {
+          "word": "morse",
+          "count": 36
+        },
+        {
+          "word": "companies",
+          "count": 36
+        },
+        {
+          "word": "operating",
+          "count": 35
+        },
+        {
+          "word": "telephone",
+          "count": 33
+        },
+        {
+          "word": "morton",
+          "count": 33
+        },
+        {
+          "word": "equipment",
+          "count": 32
+        },
+        {
+          "word": "telex",
+          "count": 31
+        },
+        {
+          "word": "systems",
+          "count": 30
+        },
+        {
+          "word": "stop",
+          "count": 30
+        },
+        {
+          "word": "line",
+          "count": 29
+        },
+        {
+          "word": "field",
+          "count": 28
+        },
+        {
+          "word": "transmission",
+          "count": 28
+        },
+        {
+          "word": "krum",
+          "count": 28
+        },
+        {
+          "word": "laboratories",
+          "count": 28
+        },
+        {
+          "word": "words",
+          "count": 28
+        },
+        {
+          "word": "minute",
+          "count": 28
+        },
+        {
+          "word": "teleprinter",
+          "count": 27
+        },
+        {
+          "word": "signal",
+          "count": 27
+        },
+        {
+          "word": "current",
+          "count": 27
+        },
+        {
+          "word": "edward",
+          "count": 26
+        },
+        {
+          "word": "transmitting",
+          "count": 26
+        },
+        {
+          "word": "receiving",
+          "count": 26
+        },
+        {
+          "word": "operated",
+          "count": 26
+        },
+        {
+          "word": "teletypewriter",
+          "count": 26
+        },
+        {
+          "word": "typewriter",
+          "count": 25
+        },
+        {
+          "word": "keyboard",
+          "count": 24
+        },
+        {
+          "word": "president",
+          "count": 24
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    "machine",
+    "company",
+    "telegraph",
+    "patent",
+    "machines",
+    "sea",
+    "field",
+    "miles",
+    "thread",
+    "day",
+    "needle",
+    "england",
+    "years",
+    "line",
+    "board",
+    "used",
+    "american",
+    "current",
+    "men",
+    "second",
+    "london",
+    "wire",
+    "sound",
+    "received",
+    "twenty"
+  ],
+  "keyTermMatrix": {
+    "pg32677.txt": {
+      "machine": 1175,
+      "company": 172,
+      "telegraph": 0,
+      "patent": 375,
+      "machines": 331,
+      "sea": 1,
+      "field": 6,
+      "miles": 1,
+      "thread": 216,
+      "day": 6,
+      "needle": 194,
+      "england": 35,
+      "years": 60,
+      "line": 3,
+      "board": 3,
+      "used": 87,
+      "american": 75,
+      "current": 1,
+      "men": 14,
+      "second": 46,
+      "london": 16,
+      "wire": 5,
+      "sound": 0,
+      "received": 51,
+      "twenty": 5
+    },
+    "pg33154.txt": {
+      "machine": 10,
+      "company": 0,
+      "telegraph": 8,
+      "patent": 1,
+      "machines": 7,
+      "sea": 1,
+      "field": 0,
+      "miles": 10,
+      "thread": 5,
+      "day": 1,
+      "needle": 15,
+      "england": 3,
+      "years": 16,
+      "line": 16,
+      "board": 12,
+      "used": 20,
+      "american": 0,
+      "current": 88,
+      "men": 5,
+      "second": 48,
+      "london": 3,
+      "wire": 77,
+      "sound": 126,
+      "received": 2,
+      "twenty": 11
+    },
+    "pg34765.txt": {
+      "machine": 13,
+      "company": 232,
+      "telegraph": 259,
+      "patent": 2,
+      "machines": 5,
+      "sea": 303,
+      "field": 256,
+      "miles": 247,
+      "thread": 4,
+      "day": 211,
+      "needle": 1,
+      "england": 158,
+      "years": 100,
+      "line": 145,
+      "board": 172,
+      "used": 21,
+      "american": 85,
+      "current": 40,
+      "men": 130,
+      "second": 47,
+      "london": 115,
+      "wire": 56,
+      "sound": 16,
+      "received": 67,
+      "twenty": 121
+    },
+    "pg53481.txt": {
+      "machine": 18,
+      "company": 126,
+      "telegraph": 136,
+      "patent": 13,
+      "machines": 17,
+      "sea": 0,
+      "field": 28,
+      "miles": 1,
+      "thread": 0,
+      "day": 6,
+      "needle": 0,
+      "england": 5,
+      "years": 19,
+      "line": 29,
+      "board": 2,
+      "used": 45,
+      "american": 10,
+      "current": 27,
+      "men": 3,
+      "second": 7,
+      "london": 10,
+      "wire": 5,
+      "sound": 1,
+      "received": 22,
+      "twenty": 5
+    }
+  },
+  "concordance": {
+    "machine": {
+      "pg32677.txt": [
+        {
+          "left": "institution press the invention the sewing",
+          "keyword": "machine",
+          "right": "illustration grace rogers cooper curator textiles"
+        },
+        {
+          "left": "acknowledgments viii early efforts elements successful",
+          "keyword": "machine",
+          "right": "the sewing machine combination less expensive"
+        },
+        {
+          "left": "efforts elements successful machine the sewing",
+          "keyword": "machine",
+          "right": "combination less expensive machines appendixes notes"
+        },
+        {
+          "left": "development and commercial use the sewing",
+          "keyword": "machine",
+          "right": "american sewing machine companies the century"
+        },
+        {
+          "left": "use the sewing machine american sewing",
+          "keyword": "machine",
+          "right": "companies the century iii chronological list"
+        },
+        {
+          "left": "the century iii chronological list sewing",
+          "keyword": "machine",
+          "right": "patent models the smithsonian collections century"
+        },
+        {
+          "left": "models the smithsonian collections century sewing",
+          "keyword": "machine",
+          "right": "leaflets the smithsonian collections brief history"
+        },
+        {
+          "left": "but many century people the sewing",
+          "keyword": "machine",
+          "right": "was probably awe inspiring space capsule"
+        },
+        {
+          "left": "was more than justified the sewing",
+          "keyword": "machine",
+          "right": "became the first widely advertised consumer"
+        },
+        {
+          "left": "protests those who feared the new",
+          "keyword": "machine",
+          "right": "was threat their livelihood the practical"
+        },
+        {
+          "left": "threat their livelihood the practical sewing",
+          "keyword": "machine",
+          "right": "not the result one man genius"
+        },
+        {
+          "left": "that did not invent the sewing",
+          "keyword": "machine",
+          "right": "howe work with the sewing machine"
+        },
+        {
+          "left": "machine howe work with the sewing",
+          "keyword": "machine",
+          "right": "was important and did patent certain"
+        },
+        {
+          "left": "the turning point since the sewing",
+          "keyword": "machine",
+          "right": "has been considered some one the"
+        },
+        {
+          "left": "the invention the history the sewing",
+          "keyword": "machine",
+          "right": "development into practical popular commodity since"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "stones gems and resins the first",
+          "keyword": "machine",
+          "right": "for developing electricity was made otto"
+        },
+        {
+          "left": "otto von guericke magdeburg about his",
+          "keyword": "machine",
+          "right": "consisted ball sulphur about six inches"
+        },
+        {
+          "left": "chance they were placed near electrical",
+          "keyword": "machine",
+          "right": "with which galvani was experimenting that"
+        },
+        {
+          "left": "the flow continuous the common form",
+          "keyword": "machine",
+          "right": "for doing this may understood reference"
+        },
+        {
+          "left": "and much more efficient magneto electric",
+          "keyword": "machine",
+          "right": "has been made changing the form"
+        },
+        {
+          "left": "this seen every spark from electric",
+          "keyword": "machine",
+          "right": "the flash lightning and the electric"
+        },
+        {
+          "left": "upon when the wheel common electrical",
+          "keyword": "machine",
+          "right": "turned the product electricity force very"
+        },
+        {
+          "left": "motion due the physical structure the",
+          "keyword": "machine",
+          "right": "like manner magnet may considered machine"
+        },
+        {
+          "left": "machine like manner magnet may considered",
+          "keyword": "machine",
+          "right": "means which mechanical motion may converted"
+        },
+        {
+          "left": "anthracite coal and diamond hence magnet",
+          "keyword": "machine",
+          "right": "which other forces acting upon are"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "brakes firmly which once stopped the",
+          "keyword": "machine",
+          "right": "the effect was bring heavy strain"
+        },
+        {
+          "left": "had watched closely the paying out",
+          "keyword": "machine",
+          "right": "was put together the deck and"
+        },
+        {
+          "left": "man remedy the defects the old",
+          "keyword": "machine",
+          "right": "and make one that would work"
+        },
+        {
+          "left": "before everett was installed the large",
+          "keyword": "machine",
+          "right": "works easton and amos southwark where"
+        },
+        {
+          "left": "had occupied the year before the",
+          "keyword": "machine",
+          "right": "was set motion and all saw"
+        },
+        {
+          "left": "one fourth the weight the old",
+          "keyword": "machine",
+          "right": "its construction was much more simple"
+        },
+        {
+          "left": "sea without jar the paying out",
+          "keyword": "machine",
+          "right": "therefore are far from claiming wholly"
+        },
+        {
+          "left": "trip was satisfactory the paying out",
+          "keyword": "machine",
+          "right": "everett worked well and the electric"
+        },
+        {
+          "left": "heard but the strange rattling the",
+          "keyword": "machine",
+          "right": "the cable was running out the"
+        },
+        {
+          "left": "shut down that the paying out",
+          "keyword": "machine",
+          "right": "could not move but still the"
+        },
+        {
+          "left": "men were kept the wheels the",
+          "keyword": "machine",
+          "right": "prevent their stopping the stern the"
+        },
+        {
+          "left": "the bow and the paying out",
+          "keyword": "machine",
+          "right": "was the stern the ship had"
+        },
+        {
+          "left": "the bow and grasped the pulling",
+          "keyword": "machine",
+          "right": "and the engine began puff with"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "application filed october potts stated this",
+          "keyword": "machine",
+          "right": "has also the advantage being able"
+        },
+        {
+          "left": "short the morse code the present",
+          "keyword": "machine",
+          "right": "preferably employ five unit code which"
+        },
+        {
+          "left": "shute vice president thought well the",
+          "keyword": "machine",
+          "right": "and after testing gave kleinschmidt order"
+        },
+        {
+          "left": "and expected your appearance with your",
+          "keyword": "machine",
+          "right": "continue upon observing the change systems"
+        },
+        {
+          "left": "and western electric the western electric",
+          "keyword": "machine",
+          "right": "was given the number potts and"
+        },
+        {
+          "left": "keyboard operated morse code perforator this",
+          "keyword": "machine",
+          "right": "returned author customer after being used"
+        },
+        {
+          "left": "had some ideas for printing telegraph",
+          "keyword": "machine",
+          "right": "and needed financial backing carry his"
+        },
+        {
+          "left": "last krum then set about building",
+          "keyword": "machine",
+          "right": "which was demonstrated and looked promising"
+        },
+        {
+          "left": "howard had been working perfect automatic",
+          "keyword": "machine",
+          "right": "which would send the printed word"
+        },
+        {
+          "left": "engineers the traffic department decided krum",
+          "keyword": "machine",
+          "right": "held the most promise for their"
+        },
+        {
+          "left": "copying the dispatches before him the",
+          "keyword": "machine",
+          "right": "perforated paper tape with series holes"
+        },
+        {
+          "left": "twenty four hours trying design such",
+          "keyword": "machine",
+          "right": "completely baffled one small detail they"
+        },
+        {
+          "left": "fountain and the spot designed the",
+          "keyword": "machine",
+          "right": "the back envelope this simplex machine"
+        },
+        {
+          "left": "machine the back envelope this simplex",
+          "keyword": "machine",
+          "right": "the morkrum and the one developed"
+        },
+        {
+          "left": "had heard various attempts operate typesetting",
+          "keyword": "machine",
+          "right": "such linotype intertype directly from the"
+        }
+      ]
+    },
+    "company": {
+      "pg32677.txt": [
+        {
+          "left": "serial numbers also difficult task individual",
+          "keyword": "company",
+          "right": "records this type have not survived"
+        },
+        {
+          "left": "thank bogart thompson the singer manufacturing",
+          "keyword": "company",
+          "right": "for his cooperation arranging for the"
+        },
+        {
+          "left": "organized the first french sewing machine",
+          "keyword": "company",
+          "right": "the revolution however brought this enterprise"
+        },
+        {
+          "left": "machine litigation developed the the singer",
+          "keyword": "company",
+          "right": "searched out the hunt machine had"
+        },
+        {
+          "left": "helped finance the patent july the",
+          "keyword": "company",
+          "right": "was located villefranche sur saone but"
+        },
+        {
+          "left": "the author from thompson the singer",
+          "keyword": "company",
+          "right": "believed have been one the machines"
+        },
+        {
+          "left": "and especially the east boston flour",
+          "keyword": "company",
+          "right": "sews about one yard per minute"
+        },
+        {
+          "left": "his first royalty license wheeler wilson",
+          "keyword": "company",
+          "right": "within few months licenses were also"
+        },
+        {
+          "left": "immediate supervision elias formed his own",
+          "keyword": "company",
+          "right": "and continued manufacture sewing machines requested"
+        },
+        {
+          "left": "formed new copartnership wheeler wilson and",
+          "keyword": "company",
+          "right": "they began the manufacture the machines"
+        },
+        {
+          "left": "the first machine produced the new",
+          "keyword": "company",
+          "right": "though the patent for the stationary"
+        },
+        {
+          "left": "under the eye the inventor the",
+          "keyword": "company",
+          "right": "machine shop watertown connecticut that every"
+        },
+        {
+          "left": "was substantial basis october and stock",
+          "keyword": "company",
+          "right": "was formed under the name wheeler"
+        },
+        {
+          "left": "under the name wheeler wilson manufacturing",
+          "keyword": "company",
+          "right": "little more than year later december"
+        },
+        {
+          "left": "other manufacturers followed when the stock",
+          "keyword": "company",
+          "right": "was formed wilson retired from active"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "suggested bishop mullock the electric telegraph",
+          "keyword": "company",
+          "right": "newfoundland project gisborne failure the company"
+        },
+        {
+          "left": "company newfoundland project gisborne failure the",
+          "keyword": "company",
+          "right": "chapter page gisborne comes new york"
+        },
+        {
+          "left": "new york newfoundland and london telegraph",
+          "keyword": "company",
+          "right": "chapter page the land line newfoundland"
+        },
+        {
+          "left": "electricians result experiments the atlantic telegraph",
+          "keyword": "company",
+          "right": "organized applies the government for aid"
+        },
+        {
+          "left": "field made the general manager the",
+          "keyword": "company",
+          "right": "the squadron assemble plymouth and put"
+        },
+        {
+          "left": "chapter xiii page attempts revive the",
+          "keyword": "company",
+          "right": "the government asked for aid but"
+        },
+        {
+          "left": "cable broken chapter page formation new",
+          "keyword": "company",
+          "right": "the anglo american new cable made"
+        },
+        {
+          "left": "government will give every facility the",
+          "keyword": "company",
+          "right": "either english american who will undertake"
+        },
+        {
+          "left": "chief officer the nova scotia telegraph",
+          "keyword": "company",
+          "right": "returned that province resigned his situation"
+        },
+        {
+          "left": "the newfoundland telegraph having organized local",
+          "keyword": "company",
+          "right": "for the purpose constructing the first"
+        },
+        {
+          "left": "and such others might become shareholders",
+          "keyword": "company",
+          "right": "called the newfoundland electric telegraph company"
+        },
+        {
+          "left": "company called the newfoundland electric telegraph",
+          "keyword": "company",
+          "right": "was passed granting exclusive right erect"
+        },
+        {
+          "left": "york where organized under this charter",
+          "keyword": "company",
+          "right": "which tebbets and holbrook were prominent"
+        },
+        {
+          "left": "new york newfoundland and london telegraph",
+          "keyword": "company",
+          "right": "the spring the following year gisborne"
+        },
+        {
+          "left": "success when most unexpectedly those the",
+          "keyword": "company",
+          "right": "who were furnish the needful funds"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "backers formed the american telegraph typewriter",
+          "keyword": "company",
+          "right": "and sold shares claiming great profitable"
+        },
+        {
+          "left": "voltage feature proved impractical and the",
+          "keyword": "company",
+          "right": "folded barclay the western union telegraph"
+        },
+        {
+          "left": "folded barclay the western union telegraph",
+          "keyword": "company",
+          "right": "designed printing apparatus and perforated tape"
+        },
+        {
+          "left": "tape punch was supplied the morkrum",
+          "keyword": "company",
+          "right": "page printer which was later converted"
+        },
+        {
+          "left": "tape was supplied the kleinschmidt electric",
+          "keyword": "company",
+          "right": "the western union multiplex was effective"
+        },
+        {
+          "left": "bell laboratories western electric the morkrum",
+          "keyword": "company",
+          "right": "the kleinschmidt electric company well the"
+        },
+        {
+          "left": "the morkrum company the kleinschmidt electric",
+          "keyword": "company",
+          "right": "well the companies wright potts and"
+        },
+        {
+          "left": "the telegraph system the rowland telegraphic",
+          "keyword": "company",
+          "right": "which had limited use the early"
+        },
+        {
+          "left": "patents were purchased the kleinschmidt electric",
+          "keyword": "company",
+          "right": "paper issued siemens halske germany january"
+        },
+        {
+          "left": "trade name kelso another the aseptuloid",
+          "keyword": "company",
+          "right": "for making vaccination shields some readers"
+        },
+        {
+          "left": "communications convention held los angeles the",
+          "keyword": "company",
+          "right": "name given this venture was the"
+        },
+        {
+          "left": "venture was the national telephone selector",
+          "keyword": "company",
+          "right": "located greenwich street new york city"
+        },
+        {
+          "left": "were eventually sold the hall signal",
+          "keyword": "company",
+          "right": "doing development work for others and"
+        },
+        {
+          "left": "and exhibited the western union telegraph",
+          "keyword": "company",
+          "right": "benjamin their chief engineer and emmett"
+        },
+        {
+          "left": "restaurant soon thereafter the kleinschmidt electric",
+          "keyword": "company",
+          "right": "was organized with the brothers incorporating"
+        }
+      ]
+    },
+    "telegraph": {
+      "pg33154.txt": [
+        {
+          "left": "greater quantity prescott his work the",
+          "keyword": "telegraph",
+          "right": "states that the time required produce"
+        },
+        {
+          "left": "latter class the common toy string",
+          "keyword": "telegraph",
+          "right": "lovers telegraph example this class two"
+        },
+        {
+          "left": "the common toy string telegraph lovers",
+          "keyword": "telegraph",
+          "right": "example this class two tin boxes"
+        },
+        {
+          "left": "place has also been used multiple",
+          "keyword": "telegraph",
+          "right": "many eight operators sending messages simultaneously"
+        },
+        {
+          "left": "far all the marvels the electric",
+          "keyword": "telegraph",
+          "right": "the popular impression has been concerning"
+        },
+        {
+          "left": "the elongation magnetized bar magneto electric",
+          "keyword": "telegraph",
+          "right": "electro magnetic instrument for demonstrating the"
+        },
+        {
+          "left": "slipped two bobbins taken from old",
+          "keyword": "telegraph",
+          "right": "register and were already fitted half"
+        },
+        {
+          "left": "telephone circuit has been made upon",
+          "keyword": "telegraph",
+          "right": "poles having other wires upon them"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "storyofatlantict fielrich the story the atlantic",
+          "keyword": "telegraph",
+          "right": "henry field field books travel from"
+        },
+        {
+          "left": "illustrated small the story the atlantic",
+          "keyword": "telegraph",
+          "right": "illustrated illustration cyrus field the story"
+        },
+        {
+          "left": "cyrus field the story the atlantic",
+          "keyword": "telegraph",
+          "right": "henry field since the discovery columbus"
+        },
+        {
+          "left": "name will forever associated the atlantic",
+          "keyword": "telegraph",
+          "right": "said the late chief justice chase"
+        },
+        {
+          "left": "toil was the price the atlantic",
+          "keyword": "telegraph",
+          "right": "cost its projector and not years"
+        },
+        {
+          "left": "records that the enterprise the atlantic",
+          "keyword": "telegraph",
+          "right": "owed its inception the faith and"
+        },
+        {
+          "left": "europe suggested bishop mullock the electric",
+          "keyword": "telegraph",
+          "right": "company newfoundland project gisborne failure the"
+        },
+        {
+          "left": "cyrus field who conceives the idea",
+          "keyword": "telegraph",
+          "right": "across the atlantic ocean practicable two"
+        },
+        {
+          "left": "the new york newfoundland and london",
+          "keyword": "telegraph",
+          "right": "company chapter page the land line"
+        },
+        {
+          "left": "and electricians result experiments the atlantic",
+          "keyword": "telegraph",
+          "right": "company organized applies the government for"
+        },
+        {
+          "left": "unconditional guarantee failure the red sea",
+          "keyword": "telegraph",
+          "right": "scientific experiments cables laid the mediterranean"
+        },
+        {
+          "left": "last years death story the atlantic",
+          "keyword": "telegraph",
+          "right": "chapter the barrier the sea when"
+        },
+        {
+          "left": "subject this was the first suggestion",
+          "keyword": "telegraph",
+          "right": "across newfoundland his letter here given"
+        },
+        {
+          "left": "the erection working and maintenance the",
+          "keyword": "telegraph",
+          "right": "but suppose our government will give"
+        },
+        {
+          "left": "same time the attention frederick gisborne",
+          "keyword": "telegraph",
+          "right": "operator was attracted similar project being"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "having been associated with the printing",
+          "keyword": "telegraph",
+          "right": "for more than sixty years have"
+        },
+        {
+          "left": "that all the old time electric",
+          "keyword": "telegraph",
+          "right": "systems appears that only those using"
+        },
+        {
+          "left": "time come long have our railroad",
+          "keyword": "telegraph",
+          "right": "operators radio amateurs police systems certain"
+        },
+        {
+          "left": "lands who are associated with the",
+          "keyword": "telegraph",
+          "right": "industry for assembling information have gathered"
+        },
+        {
+          "left": "might said evolvement the old printing",
+          "keyword": "telegraph",
+          "right": "systems such systems over the years"
+        },
+        {
+          "left": "there was need for businessman printing",
+          "keyword": "telegraph",
+          "right": "means type out messages directly and"
+        },
+        {
+          "left": "that dream starting with the earliest",
+          "keyword": "telegraph",
+          "right": "experimenters being able correspond instantly with"
+        },
+        {
+          "left": "after the turn the century that",
+          "keyword": "telegraph",
+          "right": "engineers began earnest think about system"
+        },
+        {
+          "left": "frequent letters now order provide practical",
+          "keyword": "telegraph",
+          "right": "system permitting the interconnection apparatus throughout"
+        },
+        {
+          "left": "requiring minimum number electrical impulses operate",
+          "keyword": "telegraph",
+          "right": "printer various types relay systems using"
+        },
+        {
+          "left": "and cardwell backers formed the american",
+          "keyword": "telegraph",
+          "right": "typewriter company and sold shares claiming"
+        },
+        {
+          "left": "company folded barclay the western union",
+          "keyword": "telegraph",
+          "right": "company designed printing apparatus and perforated"
+        },
+        {
+          "left": "control elements could replace the relays",
+          "keyword": "telegraph",
+          "right": "companies the united states were mostly"
+        },
+        {
+          "left": "the quest for more efficient printing",
+          "keyword": "telegraph",
+          "right": "system persisted and various types were"
+        },
+        {
+          "left": "some were used message service the",
+          "keyword": "telegraph",
+          "right": "companies they did not appear have"
+        }
+      ]
+    },
+    "patent": {
+      "pg32677.txt": [
+        {
+          "left": "century iii chronological list sewing machine",
+          "keyword": "patent",
+          "right": "models the smithsonian collections century sewing"
+        },
+        {
+          "left": "consumer appliance pioneered installment buying and",
+          "keyword": "patent",
+          "right": "pooling and revolutionized the ready made"
+        },
+        {
+          "left": "sewing machine was important and did",
+          "keyword": "patent",
+          "right": "certain improvements but his work was"
+        },
+        {
+          "left": "their activities secret avoid payment royalties",
+          "keyword": "patent",
+          "right": "holders evidence these companies difficult find"
+        },
+        {
+          "left": "however using the commercial machines the",
+          "keyword": "patent",
+          "right": "collection for which know one limiting"
+        },
+        {
+          "left": "date the machine was deposited the",
+          "keyword": "patent",
+          "right": "office and using the records that"
+        },
+        {
+          "left": "living london who was granted british",
+          "keyword": "patent",
+          "right": "for two pointed needle fig the"
+        },
+        {
+          "left": "fig the invention was described the",
+          "keyword": "patent",
+          "right": "follows the muslin being put into"
+        },
+        {
+          "left": "records can found establish that weisenthal",
+          "keyword": "patent",
+          "right": "was put any commercial use during"
+        },
+        {
+          "left": "although the idea was incorporated into",
+          "keyword": "patent",
+          "right": "the machine was entirely overlooked for"
+        },
+        {
+          "left": "entirely overlooked for almost century the",
+          "keyword": "patent",
+          "right": "itself was classed under wearing apparel"
+        },
+        {
+          "left": "useful applications this portentously titled british",
+          "keyword": "patent",
+          "right": "was issued english cabinetmaker thomas saint"
+        },
+        {
+          "left": "for making various varnish compositions the",
+          "keyword": "patent",
+          "right": "contains descriptions three separate machines the"
+        },
+        {
+          "left": "enchained the next loop thread the",
+          "keyword": "patent",
+          "right": "described thread tighteners above and below"
+        },
+        {
+          "left": "kinds material other than the british",
+          "keyword": "patent",
+          "right": "records contemporary reference saint machine has"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "have already been taken secure letters",
+          "keyword": "patent",
+          "right": "according the laws the united states"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "comparing the distance run observation and",
+          "keyword": "patent",
+          "right": "log there was difference sixteen miles"
+        },
+        {
+          "left": "sir william thomson obtained his first",
+          "keyword": "patent",
+          "right": "within the three succeeding years effected"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "arrangement the following excerpt from cardwell",
+          "keyword": "patent",
+          "right": "december may interest describes the code"
+        },
+        {
+          "left": "apparatus phase the following excerpt from",
+          "keyword": "patent",
+          "right": "application louis potts later become research"
+        },
+        {
+          "left": "afresh were for each signal later",
+          "keyword": "patent",
+          "right": "application filed october potts stated this"
+        },
+        {
+          "left": "acquisition would broaden the kleinschmidt company",
+          "keyword": "patent",
+          "right": "situation the proposal was carried and"
+        },
+        {
+          "left": "his own indeed filed his first",
+          "keyword": "patent",
+          "right": "application august which proposed the use"
+        },
+        {
+          "left": "the controlling feature their first joint",
+          "keyword": "patent",
+          "right": "describes plan for accomplishing synchronized reception"
+        },
+        {
+          "left": "companies when morton started suit for",
+          "keyword": "patent",
+          "right": "infringement against his rivals counter suit"
+        },
+        {
+          "left": "for share basis was exclusive foreign",
+          "keyword": "patent",
+          "right": "rights but did include patent rights"
+        },
+        {
+          "left": "foreign patent rights but did include",
+          "keyword": "patent",
+          "right": "rights canada and mexico the sale"
+        },
+        {
+          "left": "institute brooklyn continue after the sale",
+          "keyword": "patent",
+          "right": "rights canada mexico and the united"
+        },
+        {
+          "left": "remained the european and other foreign",
+          "keyword": "patent",
+          "right": "rights still with the original morkrum"
+        },
+        {
+          "left": "apparatus their attention submitting models and",
+          "keyword": "patent",
+          "right": "applications for their evaluation after numerous"
+        },
+        {
+          "left": "however his offer for the sale",
+          "keyword": "patent",
+          "right": "rights and models was rejected discouraged"
+        }
+      ]
+    },
+    "machines": {
+      "pg32677.txt": [
+        {
+          "left": "the sewing machine combination less expensive",
+          "keyword": "machines",
+          "right": "appendixes notes the development and commercial"
+        },
+        {
+          "left": "date known companies the dating individual",
+          "keyword": "machines",
+          "right": "based their serial numbers also difficult"
+        },
+        {
+          "left": "not survived however using the commercial",
+          "keyword": "machines",
+          "right": "the patent collection for which know"
+        },
+        {
+          "left": "established for many the better known",
+          "keyword": "machines",
+          "right": "acknowledgments greatly indebted the late frederick"
+        },
+        {
+          "left": "the gift excellent collection century sewing",
+          "keyword": "machines",
+          "right": "the smithsonian and for allowing use"
+        },
+        {
+          "left": "permitting study their collection old sewing",
+          "keyword": "machines",
+          "right": "grace rogers cooper chapter one illustration"
+        },
+        {
+          "left": "gentlemen scanning the latest model sewing",
+          "keyword": "machines",
+          "right": "reflects the pinnacle reached the new"
+        },
+        {
+          "left": "and other articles means tools and",
+          "keyword": "machines",
+          "right": "also invented for that purpose and"
+        },
+        {
+          "left": "the patent contains descriptions three separate",
+          "keyword": "machines",
+          "right": "the second these was for stitching"
+        },
+        {
+          "left": "two decades the century produce such",
+          "keyword": "machines",
+          "right": "february french patent was issued thomas"
+        },
+        {
+          "left": "principle developed duncan was used embroidery",
+          "keyword": "machines",
+          "right": "modified form for many years several"
+        },
+        {
+          "left": "edition the writer the article sewing",
+          "keyword": "machines",
+          "right": "states that john knowles invented and"
+        },
+        {
+          "left": "ever been found that any these",
+          "keyword": "machines",
+          "right": "performed the actual stitching operation illustration"
+        },
+        {
+          "left": "the stitch for utilitarian purposes had",
+          "keyword": "machines",
+          "right": "stitching army clothing paris shop but"
+        },
+        {
+          "left": "into the shop and destroyed the",
+          "keyword": "machines",
+          "right": "thimonnier fled paris penniless four years"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "coil there are now many forms",
+          "keyword": "machines",
+          "right": "for developing electricity from the motion"
+        },
+        {
+          "left": "they are generally called magneto electric",
+          "keyword": "machines",
+          "right": "the action involved these machines important"
+        },
+        {
+          "left": "electric machines the action involved these",
+          "keyword": "machines",
+          "right": "important its bearing upon telephony necessitate"
+        },
+        {
+          "left": "motion the parts lasts magneto electric",
+          "keyword": "machines",
+          "right": "such transient currents are practically useless"
+        },
+        {
+          "left": "connecting wires where the current wanted",
+          "keyword": "machines",
+          "right": "have been built upon this plan"
+        },
+        {
+          "left": "siemen armature the latest pattern such",
+          "keyword": "machines",
+          "right": "known the gramme and its peculiarity"
+        },
+        {
+          "left": "force through such mechanism magneto electric",
+          "keyword": "machines",
+          "right": "produces electricity great abundance which again"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "success the construction the paying out",
+          "keyword": "machines",
+          "right": "this had been the great defect"
+        },
+        {
+          "left": "thus complete and the paying out",
+          "keyword": "machines",
+          "right": "position the ships were ready make"
+        },
+        {
+          "left": "all went well the paying out",
+          "keyword": "machines",
+          "right": "worked smoothly and the cable ran"
+        },
+        {
+          "left": "canning nor clifford ever quitted the",
+          "keyword": "machines",
+          "right": "for instant toward the middle the"
+        },
+        {
+          "left": "manufacture the cable was finished the",
+          "keyword": "machines",
+          "right": "which for eight months had been"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "attest their ruggedness late some these",
+          "keyword": "machines",
+          "right": "were reported still use five years"
+        },
+        {
+          "left": "the company received order for five",
+          "keyword": "machines",
+          "right": "include spare equip the new york"
+        },
+        {
+          "left": "was filled short time and the",
+          "keyword": "machines",
+          "right": "were put test illustration fig kleinschmidt"
+        },
+        {
+          "left": "corporation kleinschmidt watched the operation his",
+          "keyword": "machines",
+          "right": "service almost every day and was"
+        },
+        {
+          "left": "along the wires into the receiving",
+          "keyword": "machines",
+          "right": "newspaper offices these impulses actuated telegraph"
+        },
+        {
+          "left": "relays and set the receiving morkrum",
+          "keyword": "machines",
+          "right": "automatically reproducing the letters which the"
+        },
+        {
+          "left": "still remembers the first printing telegraph",
+          "keyword": "machines",
+          "right": "the article says fact helped make"
+        },
+        {
+          "left": "the morkrum company shipped the first",
+          "keyword": "machines",
+          "right": "headquarters bailey went along with the"
+        },
+        {
+          "left": "headquarters bailey went along with the",
+          "keyword": "machines",
+          "right": "install and maintain them although remained"
+        },
+        {
+          "left": "the receiving mechanism but still the",
+          "keyword": "machines",
+          "right": "made use typewheel our biggest job"
+        },
+        {
+          "left": "making printers for use with multiplex",
+          "keyword": "machines",
+          "right": "morton was afraid that kleinschmidt was"
+        },
+        {
+          "left": "kleinschmidt the same time are the",
+          "keyword": "machines",
+          "right": "which make teletype commercially important the"
+        },
+        {
+          "left": "western union first order was for",
+          "keyword": "machines",
+          "right": "each this amounted total such quantity"
+        },
+        {
+          "left": "step further and operate our typesetting",
+          "keyword": "machines",
+          "right": "directly from the telegraph circuit you"
+        },
+        {
+          "left": "with each new issue all twx",
+          "keyword": "machines",
+          "right": "were converted direct dialing operation making"
+        }
+      ]
+    },
+    "sea": {
+      "pg32677.txt": [
+        {
+          "left": "clothing required sailors about ship out",
+          "keyword": "sea",
+          "right": "the stores that kept these supplies"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "was thrown the shores the mediterranean",
+          "keyword": "sea",
+          "right": "when rubbed would attract light bodies"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "ships for the final conquest the",
+          "keyword": "sea",
+          "right": "history records that the enterprise the"
+        },
+        {
+          "left": "ocean practicable two elements mastered the",
+          "keyword": "sea",
+          "right": "and the electric current letters lieutenant"
+        },
+        {
+          "left": "second attempt successful chapter page deep",
+          "keyword": "sea",
+          "right": "soundings lieutenant berryman the dolphin and"
+        },
+        {
+          "left": "the squadron assemble plymouth and put",
+          "keyword": "sea",
+          "right": "june new method laying cable beginning"
+        },
+        {
+          "left": "give unconditional guarantee failure the red",
+          "keyword": "sea",
+          "right": "telegraph scientific experiments cables laid the"
+        },
+        {
+          "left": "the year before dragging the deep",
+          "keyword": "sea",
+          "right": "repeated failures cable finally recovered and"
+        },
+        {
+          "left": "atlantic telegraph chapter the barrier the",
+          "keyword": "sea",
+          "right": "when columbus sailed from the shores"
+        },
+        {
+          "left": "ocean the west was mare tenebrosum",
+          "keyword": "sea",
+          "right": "darkness into which only the boldest"
+        },
+        {
+          "left": "africa but when came cross the",
+          "keyword": "sea",
+          "right": "had grope his way almost blindly"
+        },
+        {
+          "left": "warn the voyager away from such",
+          "keyword": "sea",
+          "right": "and shore sailing west from cape"
+        },
+        {
+          "left": "wealth the island drawn from the",
+          "keyword": "sea",
+          "right": "its chief trade its fisheries and"
+        },
+        {
+          "left": "who were passing and fro the",
+          "keyword": "sea",
+          "right": "was one these excursions around the"
+        },
+        {
+          "left": "about forty one forty five miles",
+          "keyword": "sea",
+          "right": "paul island with deep soundings one"
+        },
+        {
+          "left": "could lay bridle the neck the",
+          "keyword": "sea",
+          "right": "the attempt seemed idle that xerxes"
+        },
+        {
+          "left": "nautical difficulties the undertaking asking the",
+          "keyword": "sea",
+          "right": "were itself barrier too great overcome"
+        }
+      ]
+    },
+    "field": {
+      "pg32677.txt": [
+        {
+          "left": "the ablest the early inventors the",
+          "keyword": "field",
+          "right": "mechanical stitching and probably the most"
+        },
+        {
+          "left": "speed production permitted permeate the entire",
+          "keyword": "field",
+          "right": "products manufactured any type stitching from"
+        },
+        {
+          "left": "year many attempted enter this new",
+          "keyword": "field",
+          "right": "manufacture some were not able make"
+        },
+        {
+          "left": "has made competition this consumer product",
+          "keyword": "field",
+          "right": "increasingly difficult the countless varieties american"
+        },
+        {
+          "left": "time other inventors had joined the",
+          "keyword": "field",
+          "right": "with machines that were more practical"
+        },
+        {
+          "left": "regiment connecticut volunteers went into the",
+          "keyword": "field",
+          "right": "and served enlisted man occasion when"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "the story the atlantic telegraph henry",
+          "keyword": "field",
+          "right": "field books travel from the lakes"
+        },
+        {
+          "left": "story the atlantic telegraph henry field",
+          "keyword": "field",
+          "right": "books travel from the lakes killarney"
+        },
+        {
+          "left": "the atlantic telegraph illustrated illustration cyrus",
+          "keyword": "field",
+          "right": "the story the atlantic telegraph henry"
+        },
+        {
+          "left": "the story the atlantic telegraph henry",
+          "keyword": "field",
+          "right": "since the discovery columbus nothing has"
+        },
+        {
+          "left": "york charles scribner sons copyright henry",
+          "keyword": "field",
+          "right": "press little astor place new york"
+        },
+        {
+          "left": "york preface the recent death cyrus",
+          "keyword": "field",
+          "right": "recalls attention the great enterprise with"
+        },
+        {
+          "left": "gisborne comes new york introduced cyrus",
+          "keyword": "field",
+          "right": "who conceives the idea telegraph across"
+        },
+        {
+          "left": "and professor morse chapter iii page",
+          "keyword": "field",
+          "right": "enlists capitalists the enterprise commission newfoundland"
+        },
+        {
+          "left": "atlantic the telegraphic plateau chapter page",
+          "keyword": "field",
+          "right": "london the english engineers and electricians"
+        },
+        {
+          "left": "contract for cable chapter vii page",
+          "keyword": "field",
+          "right": "returns america seeks aid from the"
+        },
+        {
+          "left": "broken chapter page preparations for expedition",
+          "keyword": "field",
+          "right": "made the general manager the company"
+        },
+        {
+          "left": "america commercial revolution wrought the cable",
+          "keyword": "field",
+          "right": "and the elevated railroads new york"
+        },
+        {
+          "left": "instantly there were other richmonds the",
+          "keyword": "field",
+          "right": "those who had had part the"
+        },
+        {
+          "left": "that met the astor house matthew",
+          "keyword": "field",
+          "right": "engineer who had been engaged building"
+        },
+        {
+          "left": "suspension bridges the south and west",
+          "keyword": "field",
+          "right": "listened his story with interest and"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "pace with the rapid advances the",
+          "keyword": "field",
+          "right": "printed communications hardly day passes that"
+        },
+        {
+          "left": "contributions over the years the telegraph",
+          "keyword": "field",
+          "right": "devised printer apparatus using the five"
+        },
+        {
+          "left": "the morkrum companies the printing telegraph",
+          "keyword": "field",
+          "right": "and finally their joint efforts which"
+        },
+        {
+          "left": "had discontinued further developments the telegraph",
+          "keyword": "field",
+          "right": "proposed the purchase his patents stating"
+        },
+        {
+          "left": "president the firm entered the telegraph",
+          "keyword": "field",
+          "right": "quite accident young electrical engineer named"
+        },
+        {
+          "left": "invention and went into the teaching",
+          "keyword": "field",
+          "right": "proved very successful professor armour tech"
+        },
+        {
+          "left": "the world giving some recollections first",
+          "keyword": "field",
+          "right": "maintenance man royal roy bailey then"
+        },
+        {
+          "left": "and receiver maintain synchronism held the",
+          "keyword": "field",
+          "right": "for long time thus limiting telegraph"
+        },
+        {
+          "left": "massachusetts and now back the telegraph",
+          "keyword": "field",
+          "right": "chapter morkrum kleinschmidt corporation later renamed"
+        },
+        {
+          "left": "experienced the telegraph and associated apparatus",
+          "keyword": "field",
+          "right": "satisfactory arrangement was consummated with the"
+        },
+        {
+          "left": "for different applications useful the telegraph",
+          "keyword": "field",
+          "right": "was largely due the close cooperation"
+        },
+        {
+          "left": "direction number new devices the teleprinter",
+          "keyword": "field",
+          "right": "were developed including ultra high speed"
+        },
+        {
+          "left": "light weight transportable teleprinter for tactical",
+          "keyword": "field",
+          "right": "use and asked his father could"
+        },
+        {
+          "left": "toward tactical light weight printer for",
+          "keyword": "field",
+          "right": "use should pointed out that teletypewriters"
+        },
+        {
+          "left": "were asked build ten printers for",
+          "keyword": "field",
+          "right": "tests this was done and after"
+        }
+      ]
+    },
+    "miles": {
+      "pg32677.txt": [
+        {
+          "left": "gove howard charles howland wilmington del",
+          "keyword": "miles",
+          "right": "greenwood cincinnati ohio hood batelle wells"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "wire the secondary coil over fifty",
+          "keyword": "miles",
+          "right": "length and made wire which but"
+        },
+        {
+          "left": "secondary coil two hundred and eighty",
+          "keyword": "miles",
+          "right": "long and has turns this coil"
+        },
+        {
+          "left": "former was found have velocity over",
+          "keyword": "miles",
+          "right": "second while the electricity from battery"
+        },
+        {
+          "left": "electricity from battery may move slowly",
+          "keyword": "miles",
+          "right": "second but this very largely matter"
+        },
+        {
+          "left": "matter conductors its velocity seldom above",
+          "keyword": "miles",
+          "right": "second ordinary telegraphic lines the electricity"
+        },
+        {
+          "left": "the electro magnet the extremity line",
+          "keyword": "miles",
+          "right": "iron wire about seconds and that"
+        },
+        {
+          "left": "length the line for example line",
+          "keyword": "miles",
+          "right": "length amounts about seconds also states"
+        },
+        {
+          "left": "rushing along the rate forty fifty",
+          "keyword": "miles",
+          "right": "per hour appears sharply defined even"
+        },
+        {
+          "left": "radiant energy light which equal about",
+          "keyword": "miles",
+          "right": "second sound before explaining the relation"
+        },
+        {
+          "left": "would electric wave more than fifty",
+          "keyword": "miles",
+          "right": "long these induced electric currents are"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "the land line newfoundland four hundred",
+          "keyword": "miles",
+          "right": "road built work two years attempt"
+        },
+        {
+          "left": "and captain anderson expedition twelve hundred",
+          "keyword": "miles",
+          "right": "laid safely when the cable broken"
+        },
+        {
+          "left": "the mainland the west about sixty",
+          "keyword": "miles",
+          "right": "from cape ray stretched the long"
+        },
+        {
+          "left": "twenty one hundred and fifty five",
+          "keyword": "miles",
+          "right": "from the west ireland now would"
+        },
+        {
+          "left": "then about forty one forty five",
+          "keyword": "miles",
+          "right": "sea paul island with deep soundings"
+        },
+        {
+          "left": "cape breton little more than twelve",
+          "keyword": "miles",
+          "right": "thus not only practicable bring america"
+        },
+        {
+          "left": "between england and ireland sixty two",
+          "keyword": "miles",
+          "right": "realized presents not the least difficulty"
+        },
+        {
+          "left": "john cape ray nearly four hundred",
+          "keyword": "miles",
+          "right": "length and the submarine cable between"
+        },
+        {
+          "left": "island from john carbonear distance sixty",
+          "keyword": "miles",
+          "right": "the fourth september set out upon"
+        },
+        {
+          "left": "ray had constructed some thirty forty",
+          "keyword": "miles",
+          "right": "road and was proceeding with every"
+        },
+        {
+          "left": "survey through three hundred and fifty",
+          "keyword": "miles",
+          "right": "wood and wilderness was arduous undertaking"
+        },
+        {
+          "left": "the nearest points about sixteen hundred",
+          "keyword": "miles",
+          "right": "and the bottom the sea between"
+        },
+        {
+          "left": "enough lay coil wire sixteen hundred",
+          "keyword": "miles",
+          "right": "length though have fear but that"
+        },
+        {
+          "left": "the distance sixteen hundred and eleven",
+          "keyword": "miles",
+          "right": "from cape charles cape lewis labrador"
+        },
+        {
+          "left": "the distance sixteen hundred and one",
+          "keyword": "miles",
+          "right": "chapter iii the company organized and"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "which the sending operators were typing",
+          "keyword": "miles",
+          "right": "away the tests demonstrated that the"
+        }
+      ]
+    },
+    "thread": {
+      "pg32677.txt": [
+        {
+          "left": "the smithsonian collections brief history cotton",
+          "keyword": "thread",
+          "right": "biographical sketches bibliography indexes geographical index"
+        },
+        {
+          "left": "been with common needle and length",
+          "keyword": "thread",
+          "right": "the thread might silk flax wool"
+        },
+        {
+          "left": "common needle and length thread the",
+          "keyword": "thread",
+          "right": "might silk flax wool sinew other"
+        },
+        {
+          "left": "and hole eye for receiving the",
+          "keyword": "thread",
+          "right": "the other end simple was the"
+        },
+        {
+          "left": "the common needle fig with its",
+          "keyword": "thread",
+          "right": "carrying eye had been ingenious improvement"
+        },
+        {
+          "left": "needle pierced the fabric caught the",
+          "keyword": "thread",
+          "right": "from below the surface and pulled"
+        },
+        {
+          "left": "the first entry and caught the",
+          "keyword": "thread",
+          "right": "again pulling second loop through the"
+        },
+        {
+          "left": "first time the use continuous length",
+          "keyword": "thread",
+          "right": "this time the chainstitch was used"
+        },
+        {
+          "left": "carrying straight needle and continuous supply",
+          "keyword": "thread",
+          "right": "from spool the motion was derived"
+        },
+        {
+          "left": "forked needle fig that pushed the",
+          "keyword": "thread",
+          "right": "through hole made preceding thrust the"
+        },
+        {
+          "left": "made preceding thrust the awl the",
+          "keyword": "thread",
+          "right": "was caught looper and detained that"
+        },
+        {
+          "left": "then became enchained the next loop",
+          "keyword": "thread",
+          "right": "the patent described thread tighteners above"
+        },
+        {
+          "left": "next loop thread the patent described",
+          "keyword": "thread",
+          "right": "tighteners above and below the work"
+        },
+        {
+          "left": "but was limited carrying short length",
+          "keyword": "thread",
+          "right": "necessitating frequent rethreading the machine may"
+        },
+        {
+          "left": "passing through they were supplied with",
+          "keyword": "thread",
+          "right": "from spools means peculiarly formed hooks"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "long and then suspending the straw",
+          "keyword": "thread",
+          "right": "that balanced horizontally bring the vibrating"
+        },
+        {
+          "left": "stretched and the line made cotton",
+          "keyword": "thread",
+          "right": "the greater the tension the better"
+        },
+        {
+          "left": "the better the sound transmitted the",
+          "keyword": "thread",
+          "right": "supported intervals running through loop the"
+        },
+        {
+          "left": "three feet long attached supports the",
+          "keyword": "thread",
+          "right": "pierces the membrane and attached small"
+        },
+        {
+          "left": "end covered with stretched calfskin instead",
+          "keyword": "thread",
+          "right": "copper relay wire employed any small"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "poet while exquisitely fine feels each",
+          "keyword": "thread",
+          "right": "and lives along the line and"
+        },
+        {
+          "left": "which was delivered was but mere",
+          "keyword": "thread",
+          "right": "continued hold only leaving silvery phosphorous"
+        },
+        {
+          "left": "the sum total all this lay",
+          "keyword": "thread",
+          "right": "across ocean russell compared elephant stretching"
+        },
+        {
+          "left": "her helm and coil the film",
+          "keyword": "thread",
+          "right": "like cable over her bows that"
+        }
+      ]
+    },
+    "day": {
+      "pg32677.txt": [
+        {
+          "left": "shop successful were share equally worked",
+          "keyword": "day",
+          "right": "and night sleeping but three four"
+        },
+        {
+          "left": "night sleeping but three four hours",
+          "keyword": "day",
+          "right": "out the twenty four and eating"
+        },
+        {
+          "left": "four and eating generally but once",
+          "keyword": "day",
+          "right": "knew must make for the forty"
+        },
+        {
+          "left": "was enough three clock the next",
+          "keyword": "day",
+          "right": "the machine was finished took new"
+        },
+        {
+          "left": "and chevrons another letter the same",
+          "keyword": "day",
+          "right": "messers hebrard louisiana steam clothing factory"
+        },
+        {
+          "left": "one the noisiest men boston one",
+          "keyword": "day",
+          "right": "howe overheard his employer bellowing man"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "important principles that are invaluable telegraphy",
+          "keyword": "day",
+          "right": "were wholly unknown but may here"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "for even the great discoverers that",
+          "keyword": "day",
+          "right": "their search for new realms conquer"
+        },
+        {
+          "left": "western portion his diocese lying one",
+          "keyword": "day",
+          "right": "becalmed his yacht sight cape north"
+        },
+        {
+          "left": "incalculable advantage this country hope the",
+          "keyword": "day",
+          "right": "not far distant when john will"
+        },
+        {
+          "left": "taken stronger hands footnotes the fourth",
+          "keyword": "day",
+          "right": "december accomplished the survey through three"
+        },
+        {
+          "left": "little about shortening communication with europe",
+          "keyword": "day",
+          "right": "two relays boats and carrier pigeons"
+        },
+        {
+          "left": "the conclusions which even that early",
+          "keyword": "day",
+          "right": "scientific men were beginning arrive national"
+        },
+        {
+          "left": "generosity the centre new york stands",
+          "keyword": "day",
+          "right": "massive building erected cost nearly million"
+        },
+        {
+          "left": "into our views and from that",
+          "keyword": "day",
+          "right": "this has been efficient and consistent"
+        },
+        {
+          "left": "now before the papers john that",
+          "keyword": "day",
+          "right": "containing the discussions the legislature and"
+        },
+        {
+          "left": "meet for organization six clock that",
+          "keyword": "day",
+          "right": "that hour they came the house"
+        },
+        {
+          "left": "providence gives men strength for their",
+          "keyword": "day",
+          "right": "imposes burdens they are able bear"
+        },
+        {
+          "left": "new york found the demand increasing",
+          "keyword": "day",
+          "right": "day the minds which had grasped"
+        },
+        {
+          "left": "york found the demand increasing day",
+          "keyword": "day",
+          "right": "the minds which had grasped the"
+        },
+        {
+          "left": "brett had faith even that early",
+          "keyword": "day",
+          "right": "and entered heartily into the schemes"
+        },
+        {
+          "left": "recall the morning departure the seventh",
+          "keyword": "day",
+          "right": "august never did voyage begin with"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "advances the field printed communications hardly",
+          "keyword": "day",
+          "right": "passes that not read new development"
+        },
+        {
+          "left": "operation his machines service almost every",
+          "keyword": "day",
+          "right": "and was continually the lookout for"
+        },
+        {
+          "left": "borrowed help with this job one",
+          "keyword": "day",
+          "right": "after some correspondence with samuel samuel"
+        },
+        {
+          "left": "the old method was the same",
+          "keyword": "day",
+          "right": "and day out sending operators took"
+        },
+        {
+          "left": "method was the same day and",
+          "keyword": "day",
+          "right": "out sending operators took dispatches translated"
+        },
+        {
+          "left": "irregular error much ten fifteen minutes",
+          "keyword": "day",
+          "right": "convinced that his clock was right"
+        }
+      ]
+    },
+    "needle": {
+      "pg32677.txt": [
+        {
+          "left": "fabric together had been with common",
+          "keyword": "needle",
+          "right": "and length thread the thread might"
+        },
+        {
+          "left": "wool sinew other fibrous material the",
+          "keyword": "needle",
+          "right": "whether bone silver bronze steel some"
+        },
+        {
+          "left": "other end simple was the common",
+          "keyword": "needle",
+          "right": "fig with its thread carrying eye"
+        },
+        {
+          "left": "making garments and household furnishings the",
+          "keyword": "needle",
+          "right": "was also used for decorative stitching"
+        },
+        {
+          "left": "was for this purpose that the",
+          "keyword": "needle",
+          "right": "the seemingly perfect tool that defied"
+        },
+        {
+          "left": "production one the forms that the",
+          "keyword": "needle",
+          "right": "took the process adaptation was that"
+        },
+        {
+          "left": "century the hook had been reduced",
+          "keyword": "needle",
+          "right": "size and inserted into handle and"
+        },
+        {
+          "left": "taut drum shaped frame the hooked",
+          "keyword": "needle",
+          "right": "pierced the fabric caught the thread"
+        },
+        {
+          "left": "and pulled loop the top the",
+          "keyword": "needle",
+          "right": "reentered the fabric stitch length from"
+        },
+        {
+          "left": "tambour embroidery the crochet small hooked",
+          "keyword": "needle",
+          "right": "soon became known tambour needle new"
+        },
+        {
+          "left": "hooked needle soon became known tambour",
+          "keyword": "needle",
+          "right": "new type needle was invented for"
+        },
+        {
+          "left": "became known tambour needle new type",
+          "keyword": "needle",
+          "right": "was invented for producing embroidery stitches"
+        },
+        {
+          "left": "invented for producing embroidery stitches this",
+          "keyword": "needle",
+          "right": "had pass completely through the fabric"
+        },
+        {
+          "left": "granted british patent for two pointed",
+          "keyword": "needle",
+          "right": "fig the invention was described the"
+        },
+        {
+          "left": "being put into frame worked with",
+          "keyword": "needle",
+          "right": "that has two points one the"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "wire voltaic circuit acts upon magnetic",
+          "keyword": "needle",
+          "right": "and that the needle tends set"
+        },
+        {
+          "left": "upon magnetic needle and that the",
+          "keyword": "needle",
+          "right": "tends set itself right angles the"
+        },
+        {
+          "left": "the laws the motion the magnetic",
+          "keyword": "needle",
+          "right": "when acted upon current electricity traversing"
+        },
+        {
+          "left": "held over and parallel with magnetic",
+          "keyword": "needle",
+          "right": "which was free move and therefore"
+        },
+        {
+          "left": "into convenient form for use steel",
+          "keyword": "needle",
+          "right": "has generally been used for the"
+        },
+        {
+          "left": "has generally been used for the",
+          "keyword": "needle",
+          "right": "compass the directive power the magnet"
+        },
+        {
+          "left": "helix wire and galvanometer and the",
+          "keyword": "needle",
+          "right": "will indicate its direction the magnet"
+        },
+        {
+          "left": "approach the permanent magnet the galvanometer",
+          "keyword": "needle",
+          "right": "would seen move the nail approached"
+        },
+        {
+          "left": "touch the magnet the movement the",
+          "keyword": "needle",
+          "right": "would suddenly much hastened but would"
+        },
+        {
+          "left": "the opposite direction indicated the galvanometer",
+          "keyword": "needle",
+          "right": "which moves according ampere law mentioned"
+        },
+        {
+          "left": "fly wheel the deflection the galvanometer",
+          "keyword": "needle",
+          "right": "has been proved the mathematical labors"
+        },
+        {
+          "left": "space when pith ball moves galvanometer",
+          "keyword": "needle",
+          "right": "turns can directly produce light this"
+        },
+        {
+          "left": "end will noticed that the galvanometer",
+          "keyword": "needle",
+          "right": "will but slightly deflected the blue"
+        },
+        {
+          "left": "upon coil wire and move galvanometer",
+          "keyword": "needle",
+          "right": "the bar permitted recover its original"
+        },
+        {
+          "left": "the focus this beam fine cambric",
+          "keyword": "needle",
+          "right": "without magnetism was placed that the"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "small piece wire not longer than",
+          "keyword": "needle",
+          "right": "that some accident for they did"
+        }
+      ]
+    },
+    "england": {
+      "pg32677.txt": [
+        {
+          "left": "reflected the work the earlier years",
+          "keyword": "england",
+          "right": "edward newton and thomas archbold invented"
+        },
+        {
+          "left": "bean machine were patented subsequent years",
+          "keyword": "england",
+          "right": "and america the same principle was"
+        },
+        {
+          "left": "effect the development the sewing machine",
+          "keyword": "england",
+          "right": "footnotes charles karch needles historical and"
+        },
+        {
+          "left": "wilson the south kensington museum london",
+          "keyword": "england",
+          "right": "sewing machine news vol ibid erich"
+        },
+        {
+          "left": "used the inventor carry the machine",
+          "keyword": "england",
+          "right": "smithsonian photo elements successful machine the"
+        },
+        {
+          "left": "years both the united states and",
+          "keyword": "england",
+          "right": "trying interest manufacturers building his sewing"
+        },
+        {
+          "left": "print works and bleach works new",
+          "keyword": "england",
+          "right": "and especially the east boston flour"
+        },
+        {
+          "left": "unaware parallel efforts inventors distant new",
+          "keyword": "england",
+          "right": "after illness moved pittsfield massachusetts and"
+        },
+        {
+          "left": "stock and retired paris and later",
+          "keyword": "england",
+          "right": "where died illustration figure this grover"
+        },
+        {
+          "left": "patent for more details howe years",
+          "keyword": "england",
+          "right": "see his biographical sketch the machine"
+        },
+        {
+          "left": "ibid june vol van slyck new",
+          "keyword": "england",
+          "right": "manufactures and manufactories vol see his"
+        },
+        {
+          "left": "see globe and winchendon mass new",
+          "keyword": "england",
+          "right": "fosket and savage fosket and savage"
+        },
+        {
+          "left": "raymond nettleton raymond fig brattleboro new",
+          "keyword": "england",
+          "right": "charles raymond also figs grout white"
+        },
+        {
+          "left": "the machine was purchased crewe cheshire",
+          "keyword": "england",
+          "right": "stamped pat april beckwith foreign pats"
+        },
+        {
+          "left": "this machine very similar the new",
+          "keyword": "england",
+          "right": "machines its feed threading looping mechanism"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "this when was first made known",
+          "keyword": "england",
+          "right": "was very startling and was one"
+        },
+        {
+          "left": "this view now advocated organ builder",
+          "keyword": "england",
+          "right": "herman smith but whether discovered before"
+        },
+        {
+          "left": "sir william thompson said his return",
+          "keyword": "england",
+          "right": "this the greatest far all the"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "the capital and the undaunted courage",
+          "keyword": "england",
+          "right": "but when all these conditions were"
+        },
+        {
+          "left": "their countrymen whom the great commoner",
+          "keyword": "england",
+          "right": "john bright pronounced the columbus our"
+        },
+        {
+          "left": "bill passed chapter viii page return",
+          "keyword": "england",
+          "right": "the niagara captain hudson the agamemnon"
+        },
+        {
+          "left": "lost three times the ships return",
+          "keyword": "england",
+          "right": "meeting the directors shall they abandon"
+        },
+        {
+          "left": "xviii page the afterglow honors conferred",
+          "keyword": "england",
+          "right": "and america commercial revolution wrought the"
+        },
+        {
+          "left": "the old and yet though large",
+          "keyword": "england",
+          "right": "and near our coast few americans"
+        },
+        {
+          "left": "saturday last regarding telegraphic communication between",
+          "keyword": "england",
+          "right": "and ireland which said that the"
+        },
+        {
+          "left": "would not well call the attention",
+          "keyword": "england",
+          "right": "and america the extraordinary capabilities john"
+        },
+        {
+          "left": "but should the telegraphic communication between",
+          "keyword": "england",
+          "right": "and ireland sixty two miles realized"
+        },
+        {
+          "left": "financial arrangements with them and proceeded",
+          "keyword": "england",
+          "right": "contract for the cable from cape"
+        },
+        {
+          "left": "such time the experiments then making",
+          "keyword": "england",
+          "right": "with submarine cables should warrant similar"
+        },
+        {
+          "left": "can never fully told the gentlemen",
+          "keyword": "england",
+          "right": "who dwell home ease and who"
+        },
+        {
+          "left": "this field was sent the company",
+          "keyword": "england",
+          "right": "the close order cable span the"
+        },
+        {
+          "left": "from continent continent the scientific men",
+          "keyword": "england",
+          "right": "were not generally educated that point"
+        },
+        {
+          "left": "complete was advancing and the cable",
+          "keyword": "england",
+          "right": "was finished and shipped board the"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "limited four five letters per second",
+          "keyword": "england",
+          "right": "too there was work being done"
+        },
+        {
+          "left": "that there would good market for",
+          "keyword": "england",
+          "right": "especially keyboard punch for the creed"
+        },
+        {
+          "left": "halske and later the creed company",
+          "keyword": "england",
+          "right": "all which have discussed briefly teletypewriter"
+        },
+        {
+          "left": "types answerback devices were designed both",
+          "keyword": "england",
+          "right": "and germany which finally developed into"
+        },
+        {
+          "left": "type pallet print the character creed",
+          "keyword": "england",
+          "right": "later brought out new design their"
+        }
+      ]
+    },
+    "years": {
+      "pg32677.txt": [
+        {
+          "left": "smithsonian photo early efforts for thousands",
+          "keyword": "years",
+          "right": "the only means stitching two pieces"
+        },
+        {
+          "left": "embroidery machines modified form for many",
+          "keyword": "years",
+          "right": "several early attempts his was the"
+        },
+        {
+          "left": "put the machine into practical operation",
+          "keyword": "years",
+          "right": "later madersperger again attempted invent sewing"
+        },
+        {
+          "left": "found was the second edition eighty",
+          "keyword": "years",
+          "right": "progress the united states the machine"
+        },
+        {
+          "left": "barthelemy thimonnier french tailor after several",
+          "keyword": "years",
+          "right": "fruitless effort invented machine for which"
+        },
+        {
+          "left": "machines thimonnier fled paris penniless four",
+          "keyword": "years",
+          "right": "later had obtained new financial help"
+        },
+        {
+          "left": "und gewerbe vienna for over fifteen",
+          "keyword": "years",
+          "right": "from the mid the early the"
+        },
+        {
+          "left": "allows his discovery slumber for eighteen",
+          "keyword": "years",
+          "right": "with probability its ever being brought"
+        },
+        {
+          "left": "the reflected the work the earlier",
+          "keyword": "years",
+          "right": "england edward newton and thomas archbold"
+        },
+        {
+          "left": "versions bean machine were patented subsequent",
+          "keyword": "years",
+          "right": "england and america the same principle"
+        },
+        {
+          "left": "his invention howe spent three discouraging",
+          "keyword": "years",
+          "right": "both the united states and england"
+        },
+        {
+          "left": "enter the manufacturing competition for many",
+          "keyword": "years",
+          "right": "profited substantially from the royalty terms"
+        },
+        {
+          "left": "manufacture the amasa howe machines two",
+          "keyword": "years",
+          "right": "passed before the factory was completed"
+        },
+        {
+          "left": "and wilson foremost competitor the early",
+          "keyword": "years",
+          "right": "sewing machine manufacture was the singer"
+        },
+        {
+          "left": "machine has within the last two",
+          "keyword": "years",
+          "right": "acquired wide celebrity and established its"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "the equator more than two thousand",
+          "keyword": "years",
+          "right": "ago was noticed the greeks that"
+        },
+        {
+          "left": "would have advanced the study hundred",
+          "keyword": "years",
+          "right": "that say would probably have left"
+        },
+        {
+          "left": "had made during the preceding thousand",
+          "keyword": "years",
+          "right": "the month june franklin made that"
+        },
+        {
+          "left": "its identity for the next forty",
+          "keyword": "years",
+          "right": "the natural philosophers both europe and"
+        },
+        {
+          "left": "the chinese more than three thousand",
+          "keyword": "years",
+          "right": "ago traversing those vast steppes tartary"
+        },
+        {
+          "left": "been discovered within the last fifty",
+          "keyword": "years",
+          "right": "which are destined important mankind that"
+        },
+        {
+          "left": "and modified but little during thirty",
+          "keyword": "years",
+          "right": "consisted cell contain fluid which was"
+        },
+        {
+          "left": "the rays this was effected few",
+          "keyword": "years",
+          "right": "ago draper new york took the"
+        },
+        {
+          "left": "this work wheatstone proved good many",
+          "keyword": "years",
+          "right": "ago that the duration the electric"
+        },
+        {
+          "left": "had been gradually diminishing for some",
+          "keyword": "years",
+          "right": "until she could not hear all"
+        },
+        {
+          "left": "called quality tone timbre about twenty",
+          "keyword": "years",
+          "right": "ago that great german physicist helmholtz"
+        },
+        {
+          "left": "the old violins made two hundred",
+          "keyword": "years",
+          "right": "ago the amati family cremona are"
+        },
+        {
+          "left": "man who played upon for number",
+          "keyword": "years",
+          "right": "would seem change subtracting some the"
+        },
+        {
+          "left": "intensity the overtones intervals during many",
+          "keyword": "years",
+          "right": "and then compare them this has"
+        },
+        {
+          "left": "all the author telephone for several",
+          "keyword": "years",
+          "right": "past regularly recurring duties have taken"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "that anything truly great born twelve",
+          "keyword": "years",
+          "right": "unceasing toil was the price the"
+        },
+        {
+          "left": "telegraph cost its projector and not",
+          "keyword": "years",
+          "right": "lighted the assurance success but that"
+        },
+        {
+          "left": "that were often darkened with despair",
+          "keyword": "years",
+          "right": "which was restlessly crossing and recrossing"
+        },
+        {
+          "left": "hundred miles road built work two",
+          "keyword": "years",
+          "right": "attempt lay cable across the gulf"
+        },
+        {
+          "left": "gulf brief history the next five",
+          "keyword": "years",
+          "right": "chapter xiv page the enterprise renewed"
+        },
+        {
+          "left": "city tour round the world last",
+          "keyword": "years",
+          "right": "death story the atlantic telegraph chapter"
+        },
+        {
+          "left": "general newfoundland and afterwards for many",
+          "keyword": "years",
+          "right": "british consul new york was during"
+        },
+        {
+          "left": "right erect telegraphs newfoundland for thirty",
+          "keyword": "years",
+          "right": "with certain concessions land way encouragement"
+        },
+        {
+          "left": "mighty gulf the atlantic but several",
+          "keyword": "years",
+          "right": "after when the temporary success the"
+        },
+        {
+          "left": "nor even his own reputation ten",
+          "keyword": "years",
+          "right": "before professor morse had expressed not"
+        },
+        {
+          "left": "his life had been for many",
+          "keyword": "years",
+          "right": "one incessant devotion business had accumulated"
+        },
+        {
+          "left": "achieved indeed this faith had avowed",
+          "keyword": "years",
+          "right": "before letter written early august tenth"
+        },
+        {
+          "left": "the spirit which sustained through long",
+          "keyword": "years",
+          "right": "discouragement and disaster when its friends"
+        },
+        {
+          "left": "scheme advanced through the next twelve",
+          "keyword": "years",
+          "right": "will our province relate footnotes born"
+        },
+        {
+          "left": "hoped enjoy and that for twelve",
+          "keyword": "years",
+          "right": "was almost without home crossing and"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "printing telegraph for more than sixty",
+          "keyword": "years",
+          "right": "have felt the urge write sum"
+        },
+        {
+          "left": "telegraph systems such systems over the",
+          "keyword": "years",
+          "right": "while not rapidly today were also"
+        },
+        {
+          "left": "this had been known for many",
+          "keyword": "years",
+          "right": "but not the way was after"
+        },
+        {
+          "left": "known for his contributions over the",
+          "keyword": "years",
+          "right": "the telegraph field devised printer apparatus"
+        },
+        {
+          "left": "machines were reported still use five",
+          "keyword": "years",
+          "right": "later kleinschmidt started experimental shop fulton"
+        },
+        {
+          "left": "the war period see figure the",
+          "keyword": "years",
+          "right": "and the western union telegraph company"
+        },
+        {
+          "left": "author customer after being used thirty",
+          "keyword": "years",
+          "right": "illustration fig typebar page printer kleinschmidt"
+        },
+        {
+          "left": "western union expanded see figure several",
+          "keyword": "years",
+          "right": "later western union efficiency engineers found"
+        },
+        {
+          "left": "news telegraph had continued with the",
+          "keyword": "years",
+          "right": "facilities had been improved the morse"
+        },
+        {
+          "left": "morse keys was transition that required",
+          "keyword": "years",
+          "right": "and until was completed both morse"
+        },
+        {
+          "left": "telegraph and picture transmitting systems prior",
+          "keyword": "years",
+          "right": "overline synchronization send and receive apparatus"
+        },
+        {
+          "left": "run reliably the current after several",
+          "keyword": "years",
+          "right": "extensive experimentation warren developed motor which"
+        },
+        {
+          "left": "inventive energy the kleinschmidt electric the",
+          "keyword": "years",
+          "right": "from the kleinschmidt and the morkrum"
+        },
+        {
+          "left": "nationwide intercommunicating telegraph service for many",
+          "keyword": "years",
+          "right": "soon after the tape printer was"
+        },
+        {
+          "left": "typewriter which were used over the",
+          "keyword": "years",
+          "right": "literature the early find that the"
+        }
+      ]
+    },
+    "line": {
+      "pg32677.txt": [
+        {
+          "left": "using the saddler stitch appears neat",
+          "keyword": "line",
+          "right": "touching stitches both sides even when"
+        },
+        {
+          "left": "over the edge the fabric the",
+          "keyword": "line",
+          "right": "the needle thread two threads needle"
+        },
+        {
+          "left": "have been changed avoid very long",
+          "keyword": "line",
+          "right": "lengths footnotes have been moved chapter"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "mankind ray light then consists single",
+          "keyword": "line",
+          "right": "undulations definite wave length such that"
+        },
+        {
+          "left": "required varies nearly the length the",
+          "keyword": "line",
+          "right": "and any case much greater quantity"
+        },
+        {
+          "left": "signal the electro magnet the extremity",
+          "keyword": "line",
+          "right": "miles iron wire about seconds and"
+        },
+        {
+          "left": "greater proportion than the length the",
+          "keyword": "line",
+          "right": "for example line miles length amounts"
+        },
+        {
+          "left": "the length the line for example",
+          "keyword": "line",
+          "right": "miles length amounts about seconds also"
+        },
+        {
+          "left": "concert pitch for the the added",
+          "keyword": "line",
+          "right": "shown the staff now when properly"
+        },
+        {
+          "left": "assume some peculiar form either straight",
+          "keyword": "line",
+          "right": "with some knots light some curve"
+        },
+        {
+          "left": "talk and heard with distinctness the",
+          "keyword": "line",
+          "right": "thousand feet the end the tube"
+        },
+        {
+          "left": "made sheepskin tightly stretched and the",
+          "keyword": "line",
+          "right": "made cotton thread the greater the"
+        },
+        {
+          "left": "membrane wind and rain affect this",
+          "keyword": "line",
+          "right": "disadvantageously the other line five hundred"
+        },
+        {
+          "left": "affect this line disadvantageously the other",
+          "keyword": "line",
+          "right": "five hundred feet between passenger and"
+        },
+        {
+          "left": "ordinates are connected there drawn curved",
+          "keyword": "line",
+          "right": "with regularly recurring loops this cannot"
+        },
+        {
+          "left": "the intermittent current traverses the whole",
+          "keyword": "line",
+          "right": "going through all four the receiving"
+        },
+        {
+          "left": "the movement the armature therefore the",
+          "keyword": "line",
+          "right": "wire between two places will filled"
+        },
+        {
+          "left": "free terminals were connected with the",
+          "keyword": "line",
+          "right": "wires course there were two these"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "telegraph company chapter page the land",
+          "keyword": "line",
+          "right": "newfoundland four hundred miles road built"
+        },
+        {
+          "left": "john cape ray there difficulty establishing",
+          "keyword": "line",
+          "right": "passing near holy rood along the"
+        },
+        {
+          "left": "and was then engaged constructing telegraph",
+          "keyword": "line",
+          "right": "nova scotia whether therefore the idea"
+        },
+        {
+          "left": "details his plan which was overland",
+          "keyword": "line",
+          "right": "from john cape ray nearly four"
+        },
+        {
+          "left": "gisborne make exploratory survey the proposed",
+          "keyword": "line",
+          "right": "cape ray and passed act authorizing"
+        },
+        {
+          "left": "the purpose constructing the first telegraph",
+          "keyword": "line",
+          "right": "the island from john carbonear distance"
+        },
+        {
+          "left": "the arduous expedition survey the proposed",
+          "keyword": "line",
+          "right": "cape ray which occupied upward three"
+        },
+        {
+          "left": "work complete his favorite project the",
+          "keyword": "line",
+          "right": "which intended should chiefly underground from"
+        },
+        {
+          "left": "distress which the poor laborers the",
+          "keyword": "line",
+          "right": "had been involved this testimony most"
+        },
+        {
+          "left": "original project plans were run subterranean",
+          "keyword": "line",
+          "right": "from cape race cape ray fly"
+        },
+        {
+          "left": "had coupled that time with atlantic",
+          "keyword": "line",
+          "right": "all confidence the prior undertaking would"
+        },
+        {
+          "left": "fifty thousand dollars chiefly laborers the",
+          "keyword": "line",
+          "right": "and ended its existence ignominious failure"
+        },
+        {
+          "left": "and waves and stretch one long",
+          "keyword": "line",
+          "right": "from continent continent and then after"
+        },
+        {
+          "left": "himself this opportunity carry along also",
+          "keyword": "line",
+          "right": "deep sea soundings from the shores"
+        },
+        {
+          "left": "make the subject special report this",
+          "keyword": "line",
+          "right": "deep sea soundings seems decisive the"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "four messages each direction over single",
+          "keyword": "line",
+          "right": "circuit later baudot designed tape printer"
+        },
+        {
+          "left": "describes the code arrangement four different",
+          "keyword": "line",
+          "right": "conditions three signal groups produce different"
+        },
+        {
+          "left": "the following letter space carriage return",
+          "keyword": "line",
+          "right": "space type wheel shift type wheel"
+        },
+        {
+          "left": "could used for transmitting three different",
+          "keyword": "line",
+          "right": "conditions from group four different frequencies"
+        },
+        {
+          "left": "printing errors would occur due variation",
+          "keyword": "line",
+          "right": "circuit conditions and variation the mechanical"
+        },
+        {
+          "left": "this segment the two ends the",
+          "keyword": "line",
+          "right": "such adjustment known finding the letter"
+        },
+        {
+          "left": "commutator brushes the two ends the",
+          "keyword": "line",
+          "right": "start afresh were for each signal"
+        },
+        {
+          "left": "station station one way operation the",
+          "keyword": "line",
+          "right": "current normally being closed the positive"
+        },
+        {
+          "left": "being closed the positive side the",
+          "keyword": "line",
+          "right": "battery transmission under control keyboard with"
+        },
+        {
+          "left": "typewriter upon the depression key the",
+          "keyword": "line",
+          "right": "battery reversed thereby transmitting negative pulse"
+        },
+        {
+          "left": "battery reversed thereby transmitting negative pulse",
+          "keyword": "line",
+          "right": "which effects the start both transmitter"
+        },
+        {
+          "left": "pulses are transmitted followed positive current",
+          "keyword": "line",
+          "right": "thus restoring the circuit system normally"
+        },
+        {
+          "left": "restoring the circuit system normally closed",
+          "keyword": "line",
+          "right": "condition the name pendel telegraph would"
+        },
+        {
+          "left": "and the distributors both ends the",
+          "keyword": "line",
+          "right": "step through six spaces the combiner"
+        },
+        {
+          "left": "few kleinschmidt also set couple side",
+          "keyword": "line",
+          "right": "businesses one for manufacturing automatic fishing"
+        }
+      ]
+    },
+    "board": {
+      "pg32677.txt": [
+        {
+          "left": "these shoes were received february when",
+          "keyword": "board",
+          "right": "survey which convened hart island new"
+        },
+        {
+          "left": "leased those days they received their",
+          "keyword": "board",
+          "right": "and keep exchange for chores they"
+        },
+        {
+          "left": "the development the machine fisher agreed",
+          "keyword": "board",
+          "right": "howe and his family which now"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "permanently magnetic now there brought near",
+          "keyword": "board",
+          "right": "nail the latter will become magnet"
+        },
+        {
+          "left": "instance the piano has extensive thin",
+          "keyword": "board",
+          "right": "spruce underneath all the strings which"
+        },
+        {
+          "left": "the strings which called the sounding",
+          "keyword": "board",
+          "right": "this board takes the vibrations the"
+        },
+        {
+          "left": "which called the sounding board this",
+          "keyword": "board",
+          "right": "takes the vibrations the strings but"
+        },
+        {
+          "left": "inch thick was made fast upright",
+          "keyword": "board",
+          "right": "having hole cut through three and"
+        },
+        {
+          "left": "the plate was screwed tightly this",
+          "keyword": "board",
+          "right": "cover the hole and the middle"
+        },
+        {
+          "left": "were sent through the coils upright",
+          "keyword": "board",
+          "right": "fig six seven inches square having"
+        },
+        {
+          "left": "fixed near the end the base",
+          "keyword": "board",
+          "right": "and over this hole screwed tightly"
+        },
+        {
+          "left": "one fiftieth inch thick the upright",
+          "keyword": "board",
+          "right": "carrying this plate must very rigid"
+        },
+        {
+          "left": "but not touch therefore fix the",
+          "keyword": "board",
+          "right": "tight and adjust the magnets means"
+        },
+        {
+          "left": "may made fast the front the",
+          "keyword": "board",
+          "right": "line with the centre the plate"
+        },
+        {
+          "left": "upon the rim the hole the",
+          "keyword": "board",
+          "right": "just front the plate noticeable that"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "american new cable made and shipped",
+          "keyword": "board",
+          "right": "the great eastern chapter xvi page"
+        },
+        {
+          "left": "cable england was finished and shipped",
+          "keyword": "board",
+          "right": "the bark sarah bryant cross the"
+        },
+        {
+          "left": "come from england with the cable",
+          "keyword": "board",
+          "right": "their disappointment had not arrived canning"
+        },
+        {
+          "left": "the bark which had the cable",
+          "keyword": "board",
+          "right": "was wholly unfitted for the purpose"
+        },
+        {
+          "left": "made display the cable was placed",
+          "keyword": "board",
+          "right": "steamer fitted for the purpose from"
+        },
+        {
+          "left": "this expedition but several others was",
+          "keyword": "board",
+          "right": "the niagara and again both the"
+        },
+        {
+          "left": "the organization the company the choice",
+          "keyword": "board",
+          "right": "directors and make contract for the"
+        },
+        {
+          "left": "chosen fill his place the whole",
+          "keyword": "board",
+          "right": "was full zeal and energy all"
+        },
+        {
+          "left": "are commission they have their coal",
+          "keyword": "board",
+          "right": "and their full armament they will"
+        },
+        {
+          "left": "this formidable armament was not taken",
+          "keyword": "board",
+          "right": "she was built with what known"
+        },
+        {
+          "left": "regular ship crew one was received",
+          "keyword": "board",
+          "right": "except field and professor morse who"
+        },
+        {
+          "left": "thames was supposed she would take",
+          "keyword": "board",
+          "right": "her half the cable from the"
+        },
+        {
+          "left": "and sundays when none were received",
+          "keyword": "board",
+          "right": "the river boats sought gratify public"
+        },
+        {
+          "left": "kept shore hard work was done",
+          "keyword": "board",
+          "right": "the ship coil thirteen hundred miles"
+        },
+        {
+          "left": "part the same scene was repeated",
+          "keyword": "board",
+          "right": "the agamemnon which was still lying"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "happened new york they bought drawing",
+          "keyword": "board",
+          "right": "hired room the princeton club and"
+        },
+        {
+          "left": "whom turned out well the drawing",
+          "keyword": "board",
+          "right": "and were great help working out"
+        }
+      ]
+    },
+    "used": {
+      "pg32677.txt": [
+        {
+          "left": "the sharp bone stick other object",
+          "keyword": "used",
+          "right": "pierce hole through which lacing then"
+        },
+        {
+          "left": "household furnishings the needle was also",
+          "keyword": "used",
+          "right": "for decorative stitching commonly called embroidery"
+        },
+        {
+          "left": "called aguja spain the hook was",
+          "keyword": "used",
+          "right": "making type lace known punto aguja"
+        },
+        {
+          "left": "embroideries from india this hook was",
+          "keyword": "used",
+          "right": "produce chainstitch designs net ground the"
+        },
+        {
+          "left": "and inserted into handle and was",
+          "keyword": "used",
+          "right": "chainstitch embroider woven fabrics france the"
+        },
+        {
+          "left": "thread this time the chainstitch was",
+          "keyword": "used",
+          "right": "exclusively for decorative embroidery and from"
+        },
+        {
+          "left": "but entirely different principle than that",
+          "keyword": "used",
+          "right": "with either needle just described although"
+        },
+        {
+          "left": "applicable the manufacture clothing the machine",
+          "keyword": "used",
+          "right": "common needle and made overcast stitch"
+        },
+        {
+          "left": "design the principle developed duncan was",
+          "keyword": "used",
+          "right": "embroidery machines modified form for many"
+        },
+        {
+          "left": "side two needles were required and",
+          "keyword": "used",
+          "right": "alternately one needle was threaded and"
+        },
+        {
+          "left": "operation repeated the needles could also",
+          "keyword": "used",
+          "right": "draw the thread rather than push"
+        },
+        {
+          "left": "sewing another early machine reported have",
+          "keyword": "used",
+          "right": "the eye pointed needle form the"
+        },
+        {
+          "left": "that this device may have been",
+          "keyword": "used",
+          "right": "early but the inventor did not"
+        },
+        {
+          "left": "that formed backstitch identical the one",
+          "keyword": "used",
+          "right": "hand sewing was invented monkton vermont"
+        },
+        {
+          "left": "invented and constructed sewing machine which",
+          "keyword": "used",
+          "right": "single thread and two pointed needle"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "the legs themselves but the metals",
+          "keyword": "used",
+          "right": "the first form the galvanic battery"
+        },
+        {
+          "left": "use steel needle has generally been",
+          "keyword": "used",
+          "right": "for the needle compass the directive"
+        },
+        {
+          "left": "iron bar fifty nine pounds weight",
+          "keyword": "used",
+          "right": "twenty six coils wire thirteen each"
+        },
+        {
+          "left": "different metals were immersed the metals",
+          "keyword": "used",
+          "right": "were generally plates zinc and copper"
+        },
+        {
+          "left": "the iron the silver other metals",
+          "keyword": "used",
+          "right": "having the same size and the"
+        },
+        {
+          "left": "other either these two theories may",
+          "keyword": "used",
+          "right": "illustrate the phenomena and have done"
+        },
+        {
+          "left": "that where prism glass other material",
+          "keyword": "used",
+          "right": "produce spectrum distributes the rays very"
+        },
+        {
+          "left": "electricity great abundance which again can",
+          "keyword": "used",
+          "right": "produce any the effects electricity moving"
+        },
+        {
+          "left": "would only permanent long was not",
+          "keyword": "used",
+          "right": "for use implies consumption the force"
+        },
+        {
+          "left": "lessening the power magnet when properly",
+          "keyword": "used",
+          "right": "also matter fact that neither motion"
+        },
+        {
+          "left": "second ordinary telegraphic lines the electricity",
+          "keyword": "used",
+          "right": "give signals ordinary telegraphy the time"
+        },
+        {
+          "left": "varies much with the kind magnet",
+          "keyword": "used",
+          "right": "some forms magnets being much more"
+        },
+        {
+          "left": "any the others other sounds are",
+          "keyword": "used",
+          "right": "the octave above below this one"
+        },
+        {
+          "left": "musical effects whistles made bone were",
+          "keyword": "used",
+          "right": "pre historic men some them having"
+        },
+        {
+          "left": "transmitted and reproduced the actual mechanism",
+          "keyword": "used",
+          "right": "quite complex and requires considerable familiarity"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "had also the heart prince and",
+          "keyword": "used",
+          "right": "his wealth with noble generosity the"
+        },
+        {
+          "left": "simple contrivance which the heavy weight",
+          "keyword": "used",
+          "right": "sink the measuring line detached soon"
+        },
+        {
+          "left": "that laid from varna balaklava and",
+          "keyword": "used",
+          "right": "during the war the crimea less"
+        },
+        {
+          "left": "dollars year had not then got",
+          "keyword": "used",
+          "right": "the colossal expenditures war when grew"
+        },
+        {
+          "left": "done the sailors themselves compulsion was",
+          "keyword": "used",
+          "right": "and none was needed sooner was"
+        },
+        {
+          "left": "perfect was this expedition that was",
+          "keyword": "used",
+          "right": "for the first time the marine"
+        },
+        {
+          "left": "buffalo address meetings merchants and others",
+          "keyword": "used",
+          "right": "amuse with the account his visit"
+        },
+        {
+          "left": "iron rather soft steel like that",
+          "keyword": "used",
+          "right": "the making whitworth cannon this made"
+        },
+        {
+          "left": "sights not admire them our imagination",
+          "keyword": "used",
+          "right": "the echo the sailors song the"
+        },
+        {
+          "left": "between life and death the method",
+          "keyword": "used",
+          "right": "the electricians discover fault one such"
+        },
+        {
+          "left": "she had been provided with machinery",
+          "keyword": "used",
+          "right": "case necessity for picking the cable"
+        },
+        {
+          "left": "between the natural current and that",
+          "keyword": "used",
+          "right": "artificially sending messages this magnetic storm"
+        },
+        {
+          "left": "attached that the paying out machinery",
+          "keyword": "used",
+          "right": "board the great eastern worked perfectly"
+        },
+        {
+          "left": "tons probably the largest fishing line",
+          "keyword": "used",
+          "right": "since the days noah the cable"
+        },
+        {
+          "left": "daytime red and blue flags are",
+          "keyword": "used",
+          "right": "all through the night the sea"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "its users everywhere will doubt continue",
+          "keyword": "used",
+          "right": "for some time come long have"
+        },
+        {
+          "left": "designation system counting the powers two",
+          "keyword": "used",
+          "right": "where larger groups yes positions are"
+        },
+        {
+          "left": "improved upon modified speeded but could",
+          "keyword": "used",
+          "right": "only the point point transmission messages"
+        },
+        {
+          "left": "step stock tickers and bulletin printers",
+          "keyword": "used",
+          "right": "various types code signaling devices which"
+        },
+        {
+          "left": "letter although the baudot multiplex was",
+          "keyword": "used",
+          "right": "extensively europe engineers and inventors the"
+        },
+        {
+          "left": "promise and did not require synchronism",
+          "keyword": "used",
+          "right": "four different electrical pulse conditions high"
+        },
+        {
+          "left": "accordance with the present invention have",
+          "keyword": "used",
+          "right": "the following letter space carriage return"
+        },
+        {
+          "left": "techniques frequency division and electronics could",
+          "keyword": "used",
+          "right": "for transmitting three different line conditions"
+        },
+        {
+          "left": "intercommunicating systems and while some were",
+          "keyword": "used",
+          "right": "message service the telegraph companies they"
+        },
+        {
+          "left": "telegraph western union began investigating systems",
+          "keyword": "used",
+          "right": "europe the first tested was the"
+        },
+        {
+          "left": "with governors maintain correct speed some",
+          "keyword": "used",
+          "right": "tuning fork controlled impulse motors system"
+        },
+        {
+          "left": "arrangements cause cascade operation was also",
+          "keyword": "used",
+          "right": "provide correct timing later when correctly"
+        },
+        {
+          "left": "well for point point transmission was",
+          "keyword": "used",
+          "right": "the telegraph companies and news distributing"
+        },
+        {
+          "left": "multiple operations the springs and weights",
+          "keyword": "used",
+          "right": "provide synchronous action the operating speed"
+        },
+        {
+          "left": "the casing the standard baudot alphabet",
+          "keyword": "used",
+          "right": "but each letter character prefixed positive"
+        }
+      ]
+    },
+    "american": {
+      "pg32677.txt": [
+        {
+          "left": "and commercial use the sewing machine",
+          "keyword": "american",
+          "right": "sewing machine companies the century iii"
+        },
+        {
+          "left": "united states produce mechanical stitching device",
+          "keyword": "american",
+          "right": "records this period are incomplete result"
+        },
+        {
+          "left": "work the manufacture gloves the earliest",
+          "keyword": "american",
+          "right": "patent specifically recorded sewing machine was"
+        },
+        {
+          "left": "march benjamin bean received the second",
+          "keyword": "american",
+          "right": "sewing machine patent patent like greenough"
+        },
+        {
+          "left": "rodgers was granted patent the fourth",
+          "keyword": "american",
+          "right": "sewing machine patent the patent model"
+        },
+        {
+          "left": "same year that rodgers secured his",
+          "keyword": "american",
+          "right": "patent john fisher and james gibbons"
+        },
+        {
+          "left": "edward knight sewing machines vol knight",
+          "keyword": "american",
+          "right": "mechanical dictionary seam using the saddler"
+        },
+        {
+          "left": "privately printed for mary corliss the",
+          "keyword": "american",
+          "right": "historical society the corliss family records"
+        },
+        {
+          "left": "the successful sewing machine can credited",
+          "keyword": "american",
+          "right": "invention although the invention the practical"
+        },
+        {
+          "left": "was issued this was the first",
+          "keyword": "american",
+          "right": "patent for chainstitch machine the stitch"
+        },
+        {
+          "left": "the machine was featured the scientific",
+          "keyword": "american",
+          "right": "january fig morey and johnson machine"
+        },
+        {
+          "left": "and johnson sewing machine illustrated scientific",
+          "keyword": "american",
+          "right": "january smithsonian photo this adjustment the"
+        },
+        {
+          "left": "numerous ads the and issues scientific",
+          "keyword": "american",
+          "right": "typical one reads wilson sewing machine"
+        },
+        {
+          "left": "that appeared the june issue scientific",
+          "keyword": "american",
+          "right": "there are these machines now operation"
+        },
+        {
+          "left": "the hire purchase plan into the",
+          "keyword": "american",
+          "right": "economy thus came the now familiar"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "its inception the faith and daring",
+          "keyword": "american",
+          "right": "will also record that all his"
+        },
+        {
+          "left": "page formation new company the anglo",
+          "keyword": "american",
+          "right": "new cable made and shipped board"
+        },
+        {
+          "left": "that the nearest telegraphic station the",
+          "keyword": "american",
+          "right": "side halifax twenty one hundred and"
+        },
+        {
+          "left": "the ocean steamers and establishing the",
+          "keyword": "american",
+          "right": "telegraphic station news could communicated the"
+        },
+        {
+          "left": "station news could communicated the whole",
+          "keyword": "american",
+          "right": "continent forty eight hours least sooner"
+        },
+        {
+          "left": "every facility the company either english",
+          "keyword": "american",
+          "right": "who will undertake will incalculable advantage"
+        },
+        {
+          "left": "the purpose intercepting the european and",
+          "keyword": "american",
+          "right": "steamships that opportunity may lost forwarding"
+        },
+        {
+          "left": "having reached the farthest point the",
+          "keyword": "american",
+          "right": "coast they now stood upon the"
+        },
+        {
+          "left": "and died was the honor the",
+          "keyword": "american",
+          "right": "navy have led the way these"
+        },
+        {
+          "left": "pass the sea had been purely",
+          "keyword": "american",
+          "right": "enterprise had been begun and for"
+        },
+        {
+          "left": "two years had been carried wholly",
+          "keyword": "american",
+          "right": "capital our little company said field"
+        },
+        {
+          "left": "not the discredit england for the",
+          "keyword": "american",
+          "right": "public had done better not dollar"
+        },
+        {
+          "left": "the company fully organized with true",
+          "keyword": "american",
+          "right": "eagerness and impatience wrote letter the"
+        },
+        {
+          "left": "answer field which amused him truly",
+          "keyword": "american",
+          "right": "reply conclusion desired him put his"
+        },
+        {
+          "left": "the amount held all the other",
+          "keyword": "american",
+          "right": "shareholders put together this was least"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "contacts and cardwell backers formed the",
+          "keyword": "american",
+          "right": "telegraph typewriter company and sold shares"
+        },
+        {
+          "left": "set apparatus was exhibited operation the",
+          "keyword": "american",
+          "right": "association railroads communications convention held los"
+        },
+        {
+          "left": "edward moore son judge moore the",
+          "keyword": "american",
+          "right": "can company eldon bisbee new york"
+        },
+        {
+          "left": "important all contributions horology the work",
+          "keyword": "american",
+          "right": "who has earned the title father"
+        },
+        {
+          "left": "the edward moore son judge moore",
+          "keyword": "american",
+          "right": "can fame eldon bisbee new york"
+        },
+        {
+          "left": "feuerhahn argued for the adoption the",
+          "keyword": "american",
+          "right": "murray alphabet and code stating that"
+        },
+        {
+          "left": "service early twx apparatus reproduced permission",
+          "keyword": "american",
+          "right": "telephone telegraph there are approximately subscribers"
+        },
+        {
+          "left": "facilities rcac radio corporation america communications",
+          "keyword": "american",
+          "right": "cable and radio and wui western"
+        },
+        {
+          "left": "haven conn copies may purchased from",
+          "keyword": "american",
+          "right": "clock watch museum inc maple street"
+        },
+        {
+          "left": "sons ltd london from brochure published",
+          "keyword": "american",
+          "right": "telephone and telegraph company communications from"
+        }
+      ]
+    },
+    "current": {
+      "pg32677.txt": [
+        {
+          "left": "although the bradshaw machine was not",
+          "keyword": "current",
+          "right": "manufacture machine based received the seventh"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "the last copper means wire powerful",
+          "keyword": "current",
+          "right": "electricity was obtained this form battery"
+        },
+        {
+          "left": "the magnetic needle when acted upon",
+          "keyword": "current",
+          "right": "electricity traversing wire were successfully investigated"
+        },
+        {
+          "left": "observed that whenever wire through which",
+          "keyword": "current",
+          "right": "electricity was passing was held over"
+        },
+        {
+          "left": "and therefore pointed the north the",
+          "keyword": "current",
+          "right": "was moving towards the north the"
+        },
+        {
+          "left": "pole was deflected the west the",
+          "keyword": "current",
+          "right": "was moving towards the south the"
+        },
+        {
+          "left": "tended set itself right angles the",
+          "keyword": "current",
+          "right": "also that this angular displacement depended"
+        },
+        {
+          "left": "displacement depended upon the strength the",
+          "keyword": "current",
+          "right": "thus originated the galvanometer instrument that"
+        },
+        {
+          "left": "not only detects the existence electric",
+          "keyword": "current",
+          "right": "but enables determine its direction and"
+        },
+        {
+          "left": "involved their structure that the action",
+          "keyword": "current",
+          "right": "electricity upon magnet which was first"
+        },
+        {
+          "left": "wound around piece soft iron and",
+          "keyword": "current",
+          "right": "electricity sent through the wire the"
+        },
+        {
+          "left": "its magnetism longer than while the",
+          "keyword": "current",
+          "right": "electricity was passing through the coil"
+        },
+        {
+          "left": "the liquid will give very good",
+          "keyword": "current",
+          "right": "electricity but will not last long"
+        },
+        {
+          "left": "the reason this easy understand whenever",
+          "keyword": "current",
+          "right": "electricity generated chemical action liquid upon"
+        },
+        {
+          "left": "act upon the plates and generate",
+          "keyword": "current",
+          "right": "electricity the opposite direction this will"
+        },
+        {
+          "left": "will course interfere with the first",
+          "keyword": "current",
+          "right": "and very soon the battery useless"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "mastered the sea and the electric",
+          "keyword": "current",
+          "right": "letters lieutenant maury and professor morse"
+        },
+        {
+          "left": "encountered the ocean and the electric",
+          "keyword": "current",
+          "right": "could they controlled any power man"
+        },
+        {
+          "left": "the tropical regions poured its warm",
+          "keyword": "current",
+          "right": "sixty miles broad right through the"
+        },
+        {
+          "left": "but what use were the electric",
+          "keyword": "current",
+          "right": "should shrink from the dark abyss"
+        },
+        {
+          "left": "wit the perceptible retardation the electric",
+          "keyword": "current",
+          "right": "threatened perplex our operations and required"
+        },
+        {
+          "left": "the apparatus for transmitting the electric",
+          "keyword": "current",
+          "right": "and sensitive galvanometer being attached the"
+        },
+        {
+          "left": "with the land every moment the",
+          "keyword": "current",
+          "right": "was passing between ship and shore"
+        },
+        {
+          "left": "room told the passage the electric",
+          "keyword": "current",
+          "right": "but monday evening about nine clock"
+        },
+        {
+          "left": "was impossible provide the return the",
+          "keyword": "current",
+          "right": "was like life from the dead"
+        },
+        {
+          "left": "this was supposed owing powerful under",
+          "keyword": "current",
+          "right": "check this waste the engineer applied"
+        },
+        {
+          "left": "found that was easy with the",
+          "keyword": "current",
+          "right": "popular enthusiasm but very hard stem"
+        },
+        {
+          "left": "about forty miles when suddenly the",
+          "keyword": "current",
+          "right": "ceased says the writer the agamemnon"
+        },
+        {
+          "left": "the fatal announcement that the electric",
+          "keyword": "current",
+          "right": "had ceased flow afterward appeared that"
+        },
+        {
+          "left": "the galvanometer needed other evidence electric",
+          "keyword": "current",
+          "right": "that had passed through the cable"
+        },
+        {
+          "left": "went which showed that the electric",
+          "keyword": "current",
+          "right": "passed from shore shore and gave"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "later when correctly timed cycle alternating",
+          "keyword": "current",
+          "right": "became available see page synchronous motors"
+        },
+        {
+          "left": "station one way operation the line",
+          "keyword": "current",
+          "right": "normally being closed the positive side"
+        },
+        {
+          "left": "combination pulses are transmitted followed positive",
+          "keyword": "current",
+          "right": "line thus restoring the circuit system"
+        },
+        {
+          "left": "progressed howard studied the various systems",
+          "keyword": "current",
+          "right": "use and with his father decided"
+        },
+        {
+          "left": "later when accurately timed cycle alternating",
+          "keyword": "current",
+          "right": "became available the problem synchronous operation"
+        },
+        {
+          "left": "the supply electric power from direct",
+          "keyword": "current",
+          "right": "cycle alternating current and the final"
+        },
+        {
+          "left": "power from direct current cycle alternating",
+          "keyword": "current",
+          "right": "and the final timing exactly cycles"
+        },
+        {
+          "left": "change electric power service from direct",
+          "keyword": "current",
+          "right": "cycle alternating current set about build"
+        },
+        {
+          "left": "service from direct current cycle alternating",
+          "keyword": "current",
+          "right": "set about build motor operate cycle"
+        },
+        {
+          "left": "activities which led synchronizing cycle alternating",
+          "keyword": "current",
+          "right": "exact time synchronous electric time one"
+        },
+        {
+          "left": "was not his goal for direct",
+          "keyword": "current",
+          "right": "offered means accurate regulation direct current"
+        },
+        {
+          "left": "current offered means accurate regulation direct",
+          "keyword": "current",
+          "right": "flows constantly one direction only like"
+        },
+        {
+          "left": "passage time the other hand alternating",
+          "keyword": "current",
+          "right": "changes direction regularly like the oscillation"
+        },
+        {
+          "left": "second the balance wheel most alternating",
+          "keyword": "current",
+          "right": "completes its trip forward and backward"
+        },
+        {
+          "left": "such frequency would run reliably the",
+          "keyword": "current",
+          "right": "after several years extensive experimentation warren"
+        }
+      ]
+    },
+    "men": {
+      "pg32677.txt": [
+        {
+          "left": "history too quick credit one two",
+          "keyword": "men",
+          "right": "for important invention and forget the"
+        },
+        {
+          "left": "known other sources state that two",
+          "keyword": "men",
+          "right": "adams and dodge produced this machine"
+        },
+        {
+          "left": "societies have been unable identify the",
+          "keyword": "men",
+          "right": "named verify the story the invention"
+        },
+        {
+          "left": "the seams two woolen suits for",
+          "keyword": "men",
+          "right": "clothing continued demonstrate his machine but"
+        },
+        {
+          "left": "united states patent was issued both",
+          "keyword": "men",
+          "right": "october the patent the machine was"
+        },
+        {
+          "left": "should never allow its use monopolized",
+          "keyword": "men",
+          "right": "smithsonian photo few machines were manufactured"
+        },
+        {
+          "left": "proved too small and light the",
+          "keyword": "men",
+          "right": "the shop dubbed the machine the"
+        },
+        {
+          "left": "the manufacture shirts collars and related",
+          "keyword": "men",
+          "right": "furnishings the machine was also used"
+        },
+        {
+          "left": "machine was also used the production",
+          "keyword": "men",
+          "right": "and boy suits and reportedly gave"
+        },
+        {
+          "left": "the mckay patent issued the enlisted",
+          "keyword": "men",
+          "right": "that post the acting quartermaster general"
+        },
+        {
+          "left": "said have been one the noisiest",
+          "keyword": "men",
+          "right": "boston one day howe overheard his"
+        },
+        {
+          "left": "fortune for you davis like most",
+          "keyword": "men",
+          "right": "many words often talked more than"
+        },
+        {
+          "left": "became joint owners with howe these",
+          "keyword": "men",
+          "right": "helped howe procure witnesses the furtherance"
+        },
+        {
+          "left": "the philadelphia centennial exposition hubert philip",
+          "keyword": "men",
+          "right": "achievement inventors new york charles scribner"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "being such sort that the eyes",
+          "keyword": "men",
+          "right": "are affected can produce magnetism current"
+        },
+        {
+          "left": "danger bridge when heavily loaded with",
+          "keyword": "men",
+          "right": "with cattle when few men marching"
+        },
+        {
+          "left": "with men with cattle when few",
+          "keyword": "men",
+          "right": "marching over when the iron bridge"
+        },
+        {
+          "left": "made bone were used pre historic",
+          "keyword": "men",
+          "right": "some them having finger holes that"
+        },
+        {
+          "left": "years invented the reason probably this",
+          "keyword": "men",
+          "right": "science rule not feel called upon"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "the elements and against the unbelief",
+          "keyword": "men",
+          "right": "this long struggle the new generation"
+        },
+        {
+          "left": "doubted and despaired and furnished anew",
+          "keyword": "men",
+          "right": "and money and ships for the"
+        },
+        {
+          "left": "undertaking original party consisting six white",
+          "keyword": "men",
+          "right": "were exchanged for four indians the"
+        },
+        {
+          "left": "which even that early day scientific",
+          "keyword": "men",
+          "right": "were beginning arrive national observatory washington"
+        },
+        {
+          "left": "they have nothing lose but would",
+          "keyword": "men",
+          "right": "sense and character men who had"
+        },
+        {
+          "left": "but would men sense and character",
+          "keyword": "men",
+          "right": "who had fortunes keep and the"
+        },
+        {
+          "left": "advantages education desired that the young",
+          "keyword": "men",
+          "right": "new york the apprentices and mechanics"
+        },
+        {
+          "left": "the good gray head that all",
+          "keyword": "men",
+          "right": "knew and that was sadly missed"
+        },
+        {
+          "left": "was marked spirit commercial daring which",
+          "keyword": "men",
+          "right": "called rashness until they saw its"
+        },
+        {
+          "left": "the last two three days the",
+          "keyword": "men",
+          "right": "who had been engaged the last"
+        },
+        {
+          "left": "seemed light affair for half dozen",
+          "keyword": "men",
+          "right": "meet the early morning and toss"
+        },
+        {
+          "left": "sanguine spirit but kind providence gives",
+          "keyword": "men",
+          "right": "strength for their day imposes burdens"
+        },
+        {
+          "left": "latter soon organized force six hundred",
+          "keyword": "men",
+          "right": "which pushed forward detachments the scene"
+        },
+        {
+          "left": "the bays and thence carried chiefly",
+          "keyword": "men",
+          "right": "backs over the hills the line"
+        },
+        {
+          "left": "expedition moved forward great camp the",
+          "keyword": "men",
+          "right": "were sheltered tents when sheltered all"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "carry the teletypewriter itself while two",
+          "keyword": "men",
+          "right": "can carry all three units the"
+        },
+        {
+          "left": "and vehicle not available requires four",
+          "keyword": "men",
+          "right": "carry with power unit and accessories"
+        },
+        {
+          "left": "more than pounds and requires seven",
+          "keyword": "men",
+          "right": "carry while development work for the"
+        }
+      ]
+    },
+    "second": {
+      "pg32677.txt": [
+        {
+          "left": "and caught the thread again pulling",
+          "keyword": "second",
+          "right": "loop through the first which became"
+        },
+        {
+          "left": "contains descriptions three separate machines the",
+          "keyword": "second",
+          "right": "these was for stitching quilting sewing"
+        },
+        {
+          "left": "set upright frame capable sliding vertically",
+          "keyword": "second",
+          "right": "frame arranged have longitudinal motion the"
+        },
+        {
+          "left": "first needle before was withdrawn the",
+          "keyword": "second",
+          "right": "needle was threaded and the operation"
+        },
+        {
+          "left": "machine stitched straight curving lines his",
+          "keyword": "second",
+          "right": "machine stitched small semicircles shown the"
+        },
+        {
+          "left": "this author has found was the",
+          "keyword": "second",
+          "right": "edition eighty years progress the united"
+        },
+        {
+          "left": "when the process was repeated the",
+          "keyword": "second",
+          "right": "loop became enchained the first the"
+        },
+        {
+          "left": "needle working combination with shuttle carrying",
+          "keyword": "second",
+          "right": "thread future inventors were thus longer"
+        },
+        {
+          "left": "forgotten america josef madersperger austria made",
+          "keyword": "second",
+          "right": "attempt solve the mechanical stitching problem"
+        },
+        {
+          "left": "solve the mechanical stitching problem received",
+          "keyword": "second",
+          "right": "patent machine entirely different from his"
+        },
+        {
+          "left": "year march benjamin bean received the",
+          "keyword": "second",
+          "right": "american sewing machine patent patent like"
+        },
+        {
+          "left": "eye the point each also had",
+          "keyword": "second",
+          "right": "eye the bottom the curve the"
+        },
+        {
+          "left": "permitted the pointed shuttle carrying the",
+          "keyword": "second",
+          "right": "thread pass freely through the loop"
+        },
+        {
+          "left": "the spanish punto aguja about the",
+          "keyword": "second",
+          "right": "quarter the century sewing machine news"
+        },
+        {
+          "left": "fabric and stitching into place with",
+          "keyword": "second",
+          "right": "less conspicuous thread chapter two illustration"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "first was broken another current the",
+          "keyword": "second",
+          "right": "coil would flow the opposite direction"
+        },
+        {
+          "left": "soft iron will rendered magnetic and",
+          "keyword": "second",
+          "right": "current electricity will generated the secondary"
+        },
+        {
+          "left": "the first part being inch the",
+          "keyword": "second",
+          "right": "part and the third part with"
+        },
+        {
+          "left": "was found have velocity over miles",
+          "keyword": "second",
+          "right": "while the electricity from battery may"
+        },
+        {
+          "left": "from battery may move slowly miles",
+          "keyword": "second",
+          "right": "but this very largely matter conductors"
+        },
+        {
+          "left": "conductors its velocity seldom above miles",
+          "keyword": "second",
+          "right": "ordinary telegraphic lines the electricity used"
+        },
+        {
+          "left": "spark was less than one millionth",
+          "keyword": "second",
+          "right": "when swiftly moving body can only"
+        },
+        {
+          "left": "energy light which equal about miles",
+          "keyword": "second",
+          "right": "sound before explaining the relation that"
+        },
+        {
+          "left": "accurately measured and found feet per",
+          "keyword": "second",
+          "right": "when the temperature the air the"
+        },
+        {
+          "left": "that deg the velocity feet per",
+          "keyword": "second",
+          "right": "this the velocity air water the"
+        },
+        {
+          "left": "rate eleven hundred feet more per",
+          "keyword": "second",
+          "right": "the instant explosion the gunpowder the"
+        },
+        {
+          "left": "sound repeated that apparently lasts for",
+          "keyword": "second",
+          "right": "more but when the first case"
+        },
+        {
+          "left": "the fork vibrates great many times",
+          "keyword": "second",
+          "right": "and will consequently generate many these"
+        },
+        {
+          "left": "fork make one hundred vibrations per",
+          "keyword": "second",
+          "right": "the end the second the wave"
+        },
+        {
+          "left": "vibrations per second the end the",
+          "keyword": "second",
+          "right": "the wave generated the vibration the"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "cable across the gulf lawrence fails",
+          "keyword": "second",
+          "right": "attempt successful chapter page deep sea"
+        },
+        {
+          "left": "project one last effort chapter page",
+          "keyword": "second",
+          "right": "expedition successful cable landed ireland and"
+        },
+        {
+          "left": "sweep through the waters below the",
+          "keyword": "second",
+          "right": "problem was purely scientific involving questions"
+        },
+        {
+          "left": "the government behalf the company for",
+          "keyword": "second",
+          "right": "expedition the request was granted and"
+        },
+        {
+          "left": "deep sea soundings but after this",
+          "keyword": "second",
+          "right": "voyage exploration field applied the british"
+        },
+        {
+          "left": "attempts lay the cable thus the",
+          "keyword": "second",
+          "right": "expedition the agamemnon was approaching the"
+        },
+        {
+          "left": "his friend lieutenant berryman off his",
+          "keyword": "second",
+          "right": "voyage make soundings across the atlantic"
+        },
+        {
+          "left": "london new york answered possibly one",
+          "keyword": "second",
+          "right": "thus fortified the highest scientific and"
+        },
+        {
+          "left": "other director london except brooking the",
+          "keyword": "second",
+          "right": "vice chairman who however retired from"
+        },
+        {
+          "left": "occupied four five weeks the twenty",
+          "keyword": "second",
+          "right": "april she made trial trip down"
+        },
+        {
+          "left": "left for liverpool and the twenty",
+          "keyword": "second",
+          "right": "june cast anchor the mersey here"
+        },
+        {
+          "left": "renewed and vigorous efforts prepare for",
+          "keyword": "second",
+          "right": "expedition the directors gave orders for"
+        },
+        {
+          "left": "aid america field went washington ask",
+          "keyword": "second",
+          "right": "time the use the ships which"
+        },
+        {
+          "left": "night was almost dead calm the",
+          "keyword": "second",
+          "right": "day was like the first there"
+        },
+        {
+          "left": "and mysterious fact that the same",
+          "keyword": "second",
+          "right": "time each vessel discovered that total"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "speed limited four five letters per",
+          "keyword": "second",
+          "right": "england too there was work being"
+        },
+        {
+          "left": "the final timing exactly cycles per",
+          "keyword": "second",
+          "right": "all power supplies that our electric"
+        },
+        {
+          "left": "but instead the usual five times",
+          "keyword": "second",
+          "right": "the balance wheel most alternating current"
+        },
+        {
+          "left": "trip forward and backward sixty times",
+          "keyword": "second",
+          "right": "obviously clock geared such frequency would"
+        },
+        {
+          "left": "factory was off half cycle per",
+          "keyword": "second",
+          "right": "and not cycles this slight deflection"
+        },
+        {
+          "left": "the current cycles were exactly per",
+          "keyword": "second",
+          "right": "set power station this allowed the"
+        },
+        {
+          "left": "lab and moved florida during the",
+          "keyword": "second",
+          "right": "world war son bernard abandoned his"
+        }
+      ]
+    },
+    "london": {
+      "pg32677.txt": [
+        {
+          "left": "was charles weisenthal german mechanic living",
+          "keyword": "london",
+          "right": "who was granted british patent for"
+        },
+        {
+          "left": "using the patent description newton wilson",
+          "keyword": "london",
+          "right": "attempted build model saint machine wilson"
+        },
+        {
+          "left": "bequeathed wilson the south kensington museum",
+          "keyword": "london",
+          "right": "england sewing machine news vol ibid"
+        },
+        {
+          "left": "per minute and consider superior the",
+          "keyword": "london",
+          "right": "sewing machine the specification which our"
+        },
+        {
+          "left": "together with many flattering testimonials the",
+          "keyword": "london",
+          "right": "international exhibition after the publication this"
+        },
+        {
+          "left": "biographical sketch the machine referred the",
+          "keyword": "london",
+          "right": "sewing machine the british patent the"
+        },
+        {
+          "left": "marie magnin and was published newton",
+          "keyword": "london",
+          "right": "journal vol magnin invention the exact"
+        },
+        {
+          "left": "amasa won the prize medal the",
+          "keyword": "london",
+          "right": "international exhibition this immensely increased the"
+        },
+        {
+          "left": "thimonnier invention the crystal palace exhibition",
+          "keyword": "london",
+          "right": "but because was late arriving was"
+        },
+        {
+          "left": "better sight the brothers sailed for",
+          "keyword": "london",
+          "right": "february taking with them howe first"
+        },
+        {
+          "left": "machine and patent papers from the",
+          "keyword": "london",
+          "right": "pawnshop was easy matter for howe"
+        },
+        {
+          "left": "but summer had managed was sent",
+          "keyword": "london",
+          "right": "with anson burlingame who redeemed the"
+        },
+        {
+          "left": "construction and application transl upfield green",
+          "keyword": "london",
+          "right": "spon howe henry adventures and achievements"
+        },
+        {
+          "left": "reports the juries class vii section",
+          "keyword": "london",
+          "right": "johnson clark and company sewing machines"
+        },
+        {
+          "left": "weale rudimentary scientific and educational series",
+          "keyword": "london",
+          "right": "crosby lockwood and van slyck new"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "bring the battery standstill prof daniell",
+          "keyword": "london",
+          "right": "contrived battery which has been called"
+        },
+        {
+          "left": "action for long time grove also",
+          "keyword": "london",
+          "right": "invented battery which still goes his"
+        },
+        {
+          "left": "three large cells bichromate battery spottiswood",
+          "keyword": "london",
+          "right": "has just had completed for him"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "charter the new york newfoundland and",
+          "keyword": "london",
+          "right": "telegraph company chapter page the land"
+        },
+        {
+          "left": "the telegraphic plateau chapter page field",
+          "keyword": "london",
+          "right": "the english engineers and electricians result"
+        },
+        {
+          "left": "down the new york newfoundland and",
+          "keyword": "london",
+          "right": "telegraph company the spring the following"
+        },
+        {
+          "left": "comprehensive title new york newfoundland and",
+          "keyword": "london",
+          "right": "this charter which had been drawn"
+        },
+        {
+          "left": "new york the united states and",
+          "keyword": "london",
+          "right": "the kingdom great britain these points"
+        },
+        {
+          "left": "communication between the latter city and",
+          "keyword": "london",
+          "right": "liverpool will effected six days less"
+        },
+        {
+          "left": "charter the new york newfoundland and",
+          "keyword": "london",
+          "right": "telegraph company which was now obtained"
+        },
+        {
+          "left": "and directors held new york newfoundland",
+          "keyword": "london",
+          "right": "obtain such concessions was work some"
+        },
+        {
+          "left": "telegraph followed more than forty others",
+          "keyword": "london",
+          "right": "met for the first time john"
+        },
+        {
+          "left": "largely indebted crampton well known engineer",
+          "keyword": "london",
+          "right": "who aided him both with advice"
+        },
+        {
+          "left": "wrote the secretary the royal society",
+          "keyword": "london",
+          "right": "declaring his belief its practicability the"
+        },
+        {
+          "left": "very much steeper than holborn hill",
+          "keyword": "london",
+          "right": "murray hill new york but the"
+        },
+        {
+          "left": "results obtained are thus summed the",
+          "keyword": "london",
+          "right": "times the dangerous part this course"
+        },
+        {
+          "left": "voyage make soundings across the atlantic",
+          "keyword": "london",
+          "right": "sought once brett with whom his"
+        },
+        {
+          "left": "believe even after messages were received",
+          "keyword": "london",
+          "right": "from paris there were those who"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "trial order these perforators were shipped",
+          "keyword": "london",
+          "right": "due time and gave satisfactory service"
+        },
+        {
+          "left": "kleinschmidt company asking for demonstration their",
+          "keyword": "london",
+          "right": "headquarters now happened that time that"
+        },
+        {
+          "left": "two this developmental work for trip",
+          "keyword": "london",
+          "right": "his answer this important invitation was"
+        },
+        {
+          "left": "hundred and request that kleinschmidt come",
+          "keyword": "london",
+          "right": "the next year negotiate contract supply"
+        },
+        {
+          "left": "with creed for certain territories while",
+          "keyword": "london",
+          "right": "the summer kleinschmidt visited the managing"
+        },
+        {
+          "left": "their purchase through the creed company",
+          "keyword": "london",
+          "right": "then owned edward kleinschmidt was sent"
+        },
+        {
+          "left": "then owned edward kleinschmidt was sent",
+          "keyword": "london",
+          "right": "close the deal some changes the"
+        },
+        {
+          "left": "operating speed the time kleinschmidt stay",
+          "keyword": "london",
+          "right": "close negotiations with creed for the"
+        },
+        {
+          "left": "addendum sir isaac pitman sons ltd",
+          "keyword": "london",
+          "right": "teletype salty past the world autumn"
+        },
+        {
+          "left": "sir isaac pitman and sons ltd",
+          "keyword": "london",
+          "right": "from brochure published american telephone and"
+        }
+      ]
+    },
+    "wire": {
+      "pg32677.txt": [
+        {
+          "left": "the cap which was suspended from",
+          "keyword": "wire",
+          "right": "pins moving wheel the needle the"
+        },
+        {
+          "left": "roller pressed the cloth onto the",
+          "keyword": "wire",
+          "right": "points curved piece metal was bent"
+        },
+        {
+          "left": "with succeeding stitch form embroidery stitch",
+          "keyword": "wire",
+          "right": "lock stitch thread locked place with"
+        },
+        {
+          "left": "lock stitch thread locked place with",
+          "keyword": "wire",
+          "right": "three threads two shuttles each locking"
+        },
+        {
+          "left": "with his brothers and sisters sticking",
+          "keyword": "wire",
+          "right": "teeth into strips leather make these"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "connected with the last copper means",
+          "keyword": "wire",
+          "right": "powerful current electricity was obtained this"
+        },
+        {
+          "left": "oersted copenhagen announced that the conducting",
+          "keyword": "wire",
+          "right": "voltaic circuit acts upon magnetic needle"
+        },
+        {
+          "left": "tends set itself right angles the",
+          "keyword": "wire",
+          "right": "this was kind action altogether unexpected"
+        },
+        {
+          "left": "when acted upon current electricity traversing",
+          "keyword": "wire",
+          "right": "were successfully investigated ampere the french"
+        },
+        {
+          "left": "the french academy observed that whenever",
+          "keyword": "wire",
+          "right": "through which current electricity was passing"
+        },
+        {
+          "left": "sturgeon woolwich eng discovered that copper",
+          "keyword": "wire",
+          "right": "were wound around piece soft iron"
+        },
+        {
+          "left": "and current electricity sent through the",
+          "keyword": "wire",
+          "right": "the soft iron would become magnet"
+        },
+        {
+          "left": "electro magnet was made winding bare",
+          "keyword": "wire",
+          "right": "upon the soft iron this method"
+        },
+        {
+          "left": "strong magnets prof henry insulated the",
+          "keyword": "wire",
+          "right": "covering with silk and was the"
+        },
+        {
+          "left": "pounds weight used twenty six coils",
+          "keyword": "wire",
+          "right": "thirteen each leg all joined common"
+        },
+        {
+          "left": "plates the plates are now connected",
+          "keyword": "wire",
+          "right": "running between them through the air"
+        },
+        {
+          "left": "time current electricity travels through the",
+          "keyword": "wire",
+          "right": "from the platinum the zinc the"
+        },
+        {
+          "left": "turn tended set itself right angles",
+          "keyword": "wire",
+          "right": "which current electricity was passing thus"
+        },
+        {
+          "left": "fact namely that magnet moving across",
+          "keyword": "wire",
+          "right": "the ends which were connected with"
+        },
+        {
+          "left": "otherwise closed originated current electricity the",
+          "keyword": "wire",
+          "right": "the direction which depended upon the"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "calm enough the sea smooth enough",
+          "keyword": "wire",
+          "right": "long enough ship big enough lay"
+        },
+        {
+          "left": "enough ship big enough lay coil",
+          "keyword": "wire",
+          "right": "sixteen hundred miles length though have"
+        },
+        {
+          "left": "line and not the deep sea",
+          "keyword": "wire",
+          "right": "laid across from either the above"
+        },
+        {
+          "left": "disturbed either waves currents consequently telegraphic",
+          "keyword": "wire",
+          "right": "once laid there there would remain"
+        },
+        {
+          "left": "prize the company through whose telegraphic",
+          "keyword": "wire",
+          "right": "the first message shall passed across"
+        },
+        {
+          "left": "which includes labrador with telegraphic cable",
+          "keyword": "wire",
+          "right": "from any point whatever for fifty"
+        },
+        {
+          "left": "glass rings the points where the",
+          "keyword": "wire",
+          "right": "passes through the iron staples which"
+        },
+        {
+          "left": "rapidly through unbroken circuit subterranean conducting",
+          "keyword": "wire",
+          "right": "over two thousand miles length sit"
+        },
+        {
+          "left": "that with cable containing single conducting",
+          "keyword": "wire",
+          "right": "size not exceeding that through which"
+        },
+        {
+          "left": "day such are the capabilities single",
+          "keyword": "wire",
+          "right": "cable fairly and moderately computed however"
+        },
+        {
+          "left": "consists not one single straight copper",
+          "keyword": "wire",
+          "right": "but seven wires copper the best"
+        },
+        {
+          "left": "eighteen strands the best quality iron",
+          "keyword": "wire",
+          "right": "each strand composed seven distinct wires"
+        },
+        {
+          "left": "attempt insulate more than one conducting",
+          "keyword": "wire",
+          "right": "medium would not only have increased"
+        },
+        {
+          "left": "cable the tensile power the outer",
+          "keyword": "wire",
+          "right": "covering the cable being very much"
+        },
+        {
+          "left": "use one our steamships convey the",
+          "keyword": "wire",
+          "right": "when does not cost one farthing"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "which would send the printed word",
+          "keyword": "wire",
+          "right": "greater speed without the intermediary code"
+        },
+        {
+          "left": "extension morkrum transmission the whole leased",
+          "keyword": "wire",
+          "right": "system replacing the brass pounding morse"
+        },
+        {
+          "left": "telephone typewriter service service that typewrites",
+          "keyword": "wire",
+          "right": "method inter office communication that has"
+        },
+        {
+          "left": "existing types and will operate both",
+          "keyword": "wire",
+          "right": "and radio circuits waterproof and should"
+        },
+        {
+          "left": "satellites george shaw rca communications inc",
+          "keyword": "wire",
+          "right": "and radio communications sept telex the"
+        }
+      ]
+    },
+    "sound": {
+      "pg33154.txt": [
+        {
+          "left": "account the phenomena electricity magnetism and",
+          "keyword": "sound",
+          "right": "involved its action with directions for"
+        },
+        {
+          "left": "intelligible the phenomena electricity magnetism and",
+          "keyword": "sound",
+          "right": "cuts have been inserted where they"
+        },
+        {
+          "left": "also gave out peculiar hissing crackling",
+          "keyword": "sound",
+          "right": "newton experimented little with electricity and"
+        },
+        {
+          "left": "soon these conditions are fulfilled hissing",
+          "keyword": "sound",
+          "right": "will heard coming from the cell"
+        },
+        {
+          "left": "permanent magnet suspended give out musical",
+          "keyword": "sound",
+          "right": "when struck the magnetism will much"
+        },
+        {
+          "left": "will ring that give out musical",
+          "keyword": "sound",
+          "right": "will once become decidedly magnetic evidently"
+        },
+        {
+          "left": "light which equal about miles second",
+          "keyword": "sound",
+          "right": "before explaining the relation that sound"
+        },
+        {
+          "left": "sound before explaining the relation that",
+          "keyword": "sound",
+          "right": "has telephony will necessary make quite"
+        },
+        {
+          "left": "will necessary make quite plain what",
+          "keyword": "sound",
+          "right": "and how affects the substance the"
+        },
+        {
+          "left": "hill strike tree with axe the",
+          "keyword": "sound",
+          "right": "does not reach until some appreciable"
+        },
+        {
+          "left": "farther away the place where called",
+          "keyword": "sound",
+          "right": "originates the longer time does take"
+        },
+        {
+          "left": "does take reach any listener hence",
+          "keyword": "sound",
+          "right": "has air certain velocity which has"
+        },
+        {
+          "left": "water the temperature increases the velocity",
+          "keyword": "sound",
+          "right": "will increase little more than one"
+        },
+        {
+          "left": "wood about ten times constitution single",
+          "keyword": "sound",
+          "right": "wave person stands the distance fifteen"
+        },
+        {
+          "left": "will felt tremble and lastly the",
+          "keyword": "sound",
+          "right": "will reach his ear the same"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "daily observation all sorts enterprises both",
+          "keyword": "sound",
+          "right": "and visionary made him perhaps severer"
+        },
+        {
+          "left": "with his rise fortune they would",
+          "keyword": "sound",
+          "right": "more like romance than reality was"
+        },
+        {
+          "left": "rumble the ship that dull heavy",
+          "keyword": "sound",
+          "right": "music their ears tells them that"
+        },
+        {
+          "left": "wake night has only hear the",
+          "keyword": "sound",
+          "right": "the old coffee mill and his"
+        },
+        {
+          "left": "requested captain wainwright order the cyclops",
+          "keyword": "sound",
+          "right": "here where the cable parted and"
+        },
+        {
+          "left": "where the ships were lying the",
+          "keyword": "sound",
+          "right": "was saturday the fifth june and"
+        },
+        {
+          "left": "the ships were then lying the",
+          "keyword": "sound",
+          "right": "only waiting orders from the admiralty"
+        },
+        {
+          "left": "tranquil the middle the atlantic plymouth",
+          "keyword": "sound",
+          "right": "this evening the four vessels lay"
+        },
+        {
+          "left": "all were now there safe and",
+          "keyword": "sound",
+          "right": "and field and samuel gurney went"
+        },
+        {
+          "left": "many remained awake listening for the",
+          "keyword": "sound",
+          "right": "that all most dreaded hear namely"
+        },
+        {
+          "left": "not see the ship approaching the",
+          "keyword": "sound",
+          "right": "the first gun came like thunderbolt"
+        },
+        {
+          "left": "gave most valuable aid bringing his",
+          "keyword": "sound",
+          "right": "judgment and great business talent the"
+        },
+        {
+          "left": "out sight land that the last",
+          "keyword": "sound",
+          "right": "from the shore should the blessed"
+        },
+        {
+          "left": "when the trouble occurred before grating",
+          "keyword": "sound",
+          "right": "was heard piece wire had caught"
+        },
+        {
+          "left": "minutes past eight signalled the terrible",
+          "keyword": "sound",
+          "right": "and received reply one hundred and"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "data phone enables not only the",
+          "keyword": "sound",
+          "right": "the human voice sent over telephone"
+        }
+      ]
+    },
+    "received": {
+      "pg32677.txt": [
+        {
+          "left": "machine the approbation which his machine",
+          "keyword": "received",
+          "right": "everywhere has induced his royal imperial"
+        },
+        {
+          "left": "fruitless effort invented machine for which",
+          "keyword": "received",
+          "right": "french patent the machine fig made"
+        },
+        {
+          "left": "the two french patents thimonnier also",
+          "keyword": "received",
+          "right": "british patent with his associate jean"
+        },
+        {
+          "left": "attempt solve the mechanical stitching problem",
+          "keyword": "received",
+          "right": "second patent machine entirely different from"
+        },
+        {
+          "left": "the succeeding year march benjamin bean",
+          "keyword": "received",
+          "right": "the second american sewing machine patent"
+        },
+        {
+          "left": "the booklet madersperger reports that had",
+          "keyword": "received",
+          "right": "patent for his first machine adapted"
+        },
+        {
+          "left": "museum fuer industrie und gewerbe vienna",
+          "keyword": "received",
+          "right": "was stated that the original madersperger"
+        },
+        {
+          "left": "effect that model his sewing machine",
+          "keyword": "received",
+          "right": "with the collection was turned over"
+        },
+        {
+          "left": "was not current manufacture machine based",
+          "keyword": "received",
+          "right": "the seventh united states sewing machine"
+        },
+        {
+          "left": "terms the combination applied for and",
+          "keyword": "received",
+          "right": "seven year extension his patent illustration"
+        },
+        {
+          "left": "the machine was excellent one and",
+          "keyword": "received",
+          "right": "the highest medal for sewing machines"
+        },
+        {
+          "left": "the machine allen wilson wilson machine",
+          "keyword": "received",
+          "right": "only bronze medal but his inventive"
+        },
+        {
+          "left": "improving the rotary hook for which",
+          "keyword": "received",
+          "right": "his second patent august figs and"
+        },
+        {
+          "left": "these attracted considerable attention orders began",
+          "keyword": "received",
+          "right": "advance production the pending patent application"
+        },
+        {
+          "left": "singer decided withdraw from active work",
+          "keyword": "received",
+          "right": "percent the stock and retired paris"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "been derived however generally believed have",
+          "keyword": "received",
+          "right": "its name from the ancient city"
+        },
+        {
+          "left": "this normal quantity was disturbed body",
+          "keyword": "received",
+          "right": "more than its due share was"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "maury which began singularly enough just",
+          "keyword": "received",
+          "right": "your letter was closing one the"
+        },
+        {
+          "left": "field shall never forget how taylor",
+          "keyword": "received",
+          "right": "fixed his keen eye would look"
+        },
+        {
+          "left": "answer the governor and council was",
+          "keyword": "received",
+          "right": "consenting recommend the assembly guarantee the"
+        },
+        {
+          "left": "that point the bare suggestion was",
+          "keyword": "received",
+          "right": "with smile incredulity but brett had"
+        },
+        {
+          "left": "sailed for john where they were",
+          "keyword": "received",
+          "right": "the provincial government and the people"
+        },
+        {
+          "left": "that the intelligence its success was",
+          "keyword": "received",
+          "right": "with surprise and incredulity many could"
+        },
+        {
+          "left": "not believe even after messages were",
+          "keyword": "received",
+          "right": "london from paris there were those"
+        },
+        {
+          "left": "this visit was the following letter",
+          "keyword": "received",
+          "right": "few days later treasury chambers nov"
+        },
+        {
+          "left": "england had sent home the letter",
+          "keyword": "received",
+          "right": "from the lords commissioners the treasury"
+        },
+        {
+          "left": "recognition and aid which they had",
+          "keyword": "received",
+          "right": "england this surely was not very"
+        },
+        {
+          "left": "own government which they had already",
+          "keyword": "received",
+          "right": "from foreign power was therefore not"
+        },
+        {
+          "left": "was bear when the orders were",
+          "keyword": "received",
+          "right": "from washington she was lying the"
+        },
+        {
+          "left": "the regular ship crew one was",
+          "keyword": "received",
+          "right": "board except field and professor morse"
+        },
+        {
+          "left": "sides everybody was welcome all were",
+          "keyword": "received",
+          "right": "with the utmost courtesy and allowed"
+        },
+        {
+          "left": "week and sundays when none were",
+          "keyword": "received",
+          "right": "board the river boats sought gratify"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "and five stationary elements selectively movable",
+          "keyword": "received",
+          "right": "code positions each element having extending"
+        },
+        {
+          "left": "transmission any selected group three when",
+          "keyword": "received",
+          "right": "succession teleprinter will cause printing letter"
+        },
+        {
+          "left": "used set the stops according the",
+          "keyword": "received",
+          "right": "code combinations this arrangement operated well"
+        },
+        {
+          "left": "for the post office engineers consequently",
+          "keyword": "received",
+          "right": "order for twenty kleinschmidt perforators further"
+        },
+        {
+          "left": "the kleinschmidt model and the company",
+          "keyword": "received",
+          "right": "order for five machines include spare"
+        },
+        {
+          "left": "numbered the the kleinschmidt electric company",
+          "keyword": "received",
+          "right": "order for one hundred typebar page"
+        },
+        {
+          "left": "other reasons well that printing the",
+          "keyword": "received",
+          "right": "messages tape would more economical since"
+        },
+        {
+          "left": "rotating brush pick and transmit the",
+          "keyword": "received",
+          "right": "code signals the printing unit this"
+        },
+        {
+          "left": "ltd through whom the kleinschmidt company",
+          "keyword": "received",
+          "right": "orders from japan for the morse"
+        },
+        {
+          "left": "kleinschmidt company and later morkrum kleinschmidt",
+          "keyword": "received",
+          "right": "continuing orders for the six unit"
+        },
+        {
+          "left": "the receiving members then set the",
+          "keyword": "received",
+          "right": "start pulse the most favorable position"
+        },
+        {
+          "left": "quite shock therefore when letter was",
+          "keyword": "received",
+          "right": "from howard krum son charles september"
+        },
+        {
+          "left": "not long afterwards that word was",
+          "keyword": "received",
+          "right": "howard krum death november illustration fig"
+        },
+        {
+          "left": "were these each the old companies",
+          "keyword": "received",
+          "right": "half interest the common stock shares"
+        },
+        {
+          "left": "was put into service morkrum kleinschmidt",
+          "keyword": "received",
+          "right": "request from the police department berlin"
+        }
+      ]
+    },
+    "twenty": {
+      "pg32677.txt": [
+        {
+          "left": "three four hours day out the",
+          "keyword": "twenty",
+          "right": "four and eating generally but once"
+        },
+        {
+          "left": "abandoned files requiring them kept for",
+          "keyword": "twenty",
+          "right": "years only there are singer company"
+        },
+        {
+          "left": "the first requirement was that least",
+          "keyword": "twenty",
+          "right": "four manufacturers were licensed the second"
+        },
+        {
+          "left": "number factories had reached value over",
+          "keyword": "twenty",
+          "right": "one million which four and half"
+        },
+        {
+          "left": "establish sewing machine factory for about",
+          "keyword": "twenty",
+          "right": "years early the and later through"
+        }
+      ],
+      "pg33154.txt": [
+        {
+          "left": "bar fifty nine pounds weight used",
+          "keyword": "twenty",
+          "right": "six coils wire thirteen each leg"
+        },
+        {
+          "left": "having aggregate length seven hundred and",
+          "keyword": "twenty",
+          "right": "eight feet this apparatus was found"
+        },
+        {
+          "left": "apparatus was found able sustain weight",
+          "keyword": "twenty",
+          "right": "five hundred pounds this electro magnet"
+        },
+        {
+          "left": "diameter this instrument has given spark",
+          "keyword": "twenty",
+          "right": "one inches length with three large"
+        },
+        {
+          "left": "wave person stands the distance fifteen",
+          "keyword": "twenty",
+          "right": "rods from cannon that fired will"
+        },
+        {
+          "left": "had diameter less than the one",
+          "keyword": "twenty",
+          "right": "fifth inch the length could varied"
+        },
+        {
+          "left": "the fingers large hall there should",
+          "keyword": "twenty",
+          "right": "more such wires resonance when tuning"
+        },
+        {
+          "left": "room hall not more than fifteen",
+          "keyword": "twenty",
+          "right": "feet long person can find some"
+        },
+        {
+          "left": "fourth the wave length would give",
+          "keyword": "twenty",
+          "right": "four inches the wave length that"
+        },
+        {
+          "left": "voice called quality tone timbre about",
+          "keyword": "twenty",
+          "right": "years ago that great german physicist"
+        },
+        {
+          "left": "heard suppose then one has series",
+          "keyword": "twenty",
+          "right": "more these graduated the proper size"
+        }
+      ],
+      "pg34765.txt": [
+        {
+          "left": "telegraphic station the american side halifax",
+          "keyword": "twenty",
+          "right": "one hundred and fifty five miles"
+        },
+        {
+          "left": "industry and indomitable will the age",
+          "keyword": "twenty",
+          "right": "was embarked business for himself and"
+        },
+        {
+          "left": "the south atlantic where attained depth",
+          "keyword": "twenty",
+          "right": "six hundred and sixty seven fathoms"
+        },
+        {
+          "left": "necessary cast the line only every",
+          "keyword": "twenty",
+          "right": "thirty miles thus the survey was"
+        },
+        {
+          "left": "ranging from fourteen hundred and fifty",
+          "keyword": "twenty",
+          "right": "four hundred fathoms these are comparatively"
+        },
+        {
+          "left": "can safely calculate upon the transmission",
+          "keyword": "twenty",
+          "right": "word message three minutes twenty such"
+        },
+        {
+          "left": "transmission twenty word message three minutes",
+          "keyword": "twenty",
+          "right": "such messages the hour four hundred"
+        },
+        {
+          "left": "hour four hundred and eighty the",
+          "keyword": "twenty",
+          "right": "four hours fourteen thousand four hundred"
+        },
+        {
+          "left": "ten thousand pounds year for period",
+          "keyword": "twenty",
+          "right": "five years however understood that the"
+        },
+        {
+          "left": "eighty six liverpool thirty seven glasgow",
+          "keyword": "twenty",
+          "right": "eight manchester and few other parts"
+        },
+        {
+          "left": "exertions continued through many months dispose",
+          "keyword": "twenty",
+          "right": "seven shares thus was far the"
+        },
+        {
+          "left": "for america reaching new york the",
+          "keyword": "twenty",
+          "right": "fifth december after absence more than"
+        },
+        {
+          "left": "atlantic the depth winter and within",
+          "keyword": "twenty",
+          "right": "four hours after his arrival new"
+        },
+        {
+          "left": "intimately acquainted having resided for upward",
+          "keyword": "twenty",
+          "right": "years and enabled speak the hazards"
+        },
+        {
+          "left": "contract binding the government for period",
+          "keyword": "twenty",
+          "right": "five years and involving annual appropriation"
+        }
+      ],
+      "pg53481.txt": [
+        {
+          "left": "office engineers consequently received order for",
+          "keyword": "twenty",
+          "right": "kleinschmidt perforators further correspondence with creed"
+        },
+        {
+          "left": "the device and that order for",
+          "keyword": "twenty",
+          "right": "had been placed with him however"
+        },
+        {
+          "left": "sent the signals the circuits rate",
+          "keyword": "twenty",
+          "right": "five thirty five words minute member"
+        },
+        {
+          "left": "the princeton club and worked for",
+          "keyword": "twenty",
+          "right": "four hours trying design such machine"
+        },
+        {
+          "left": "agreement was later made over into",
+          "keyword": "twenty",
+          "right": "five page legal document which concluded"
+        }
+      ]
+    }
+  }
+}

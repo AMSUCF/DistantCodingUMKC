@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distant Reading: Technology Texts</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Distant Reading: Technology Texts</h1>
+  <p class="subtitle">Comparing word distributions and concordances across four Project Gutenberg texts about technology and invention.</p>
+</header>
+
+<main>
+
+  <!-- Corpus overview -->
+  <section id="corpus">
+    <h2>Corpus Overview</h2>
+    <div id="corpus-cards" class="card-row"></div>
+  </section>
+
+  <!-- Top words per text -->
+  <section id="distributions">
+    <h2>Word Frequency Distributions</h2>
+    <p class="section-desc">Top 30 content words per text (stop words removed). Bar width shows raw count; hover for details.</p>
+    <div class="controls">
+      <label>Show as:
+        <select id="freq-mode">
+          <option value="raw">Raw count</option>
+          <option value="relative">Per 1,000 words</option>
+        </select>
+      </label>
+    </div>
+    <div id="freq-charts"></div>
+  </section>
+
+  <!-- Key term comparison -->
+  <section id="comparison">
+    <h2>Key Term Comparison</h2>
+    <p class="section-desc">Terms appearing across 3 or more texts. Bar segments show each text's contribution. Click a term for its concordance below.</p>
+    <div id="comparison-chart"></div>
+  </section>
+
+  <!-- Concordance (KWIC) -->
+  <section id="concordance">
+    <h2>Concordance (Keyword in Context)</h2>
+    <p class="section-desc">Select a key term to see how it is used in each text.</p>
+    <div class="controls">
+      <label>Term:
+        <select id="kwic-select"></select>
+      </label>
+    </div>
+    <div id="kwic-results"></div>
+  </section>
+
+</main>
+
+<footer>
+  <p>Preprocessing: Python &middot; Visualization: vanilla HTML/CSS/JS &middot; Source texts from <a href="https://www.gutenberg.org" target="_blank" rel="noopener">Project Gutenberg</a></p>
+</footer>
+
+<script>
+let DATA = null;
+
+// ── Palette ──────────────────────────────────────────────────────────────────
+const COLORS = ['#e07a5f','#3d405b','#81b29a','#f2cc8f'];
+
+// ── Load data ────────────────────────────────────────────────────────────────
+fetch('data.json')
+  .then(r => r.json())
+  .then(d => { DATA = d; init(); });
+
+function init() {
+  renderCorpus();
+  renderFreqCharts();
+  renderComparison();
+  initConcordance();
+}
+
+// ── Helpers ──────────────────────────────────────────────────────────────────
+function el(tag, cls, html) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (html !== undefined) e.innerHTML = html;
+  return e;
+}
+
+function shortTitle(t) {
+  return t.title.length > 35 ? t.title.slice(0, 32) + '...' : t.title;
+}
+
+// ── Corpus cards ─────────────────────────────────────────────────────────────
+function renderCorpus() {
+  const wrap = document.getElementById('corpus-cards');
+  DATA.texts.forEach((t, i) => {
+    const card = el('div', 'corpus-card');
+    card.style.borderTopColor = COLORS[i];
+    card.innerHTML = `
+      <h3>${t.title}</h3>
+      <p class="author">${t.author} (${t.year})</p>
+      <div class="stats">
+        <span><strong>${t.wordCount.toLocaleString()}</strong> words</span>
+        <span><strong>${t.uniqueWords.toLocaleString()}</strong> unique</span>
+      </div>`;
+    wrap.appendChild(card);
+  });
+}
+
+// ── Frequency bar charts ─────────────────────────────────────────────────────
+function renderFreqCharts() {
+  const wrap = document.getElementById('freq-charts');
+  wrap.innerHTML = '';
+  const mode = document.getElementById('freq-mode').value;
+
+  DATA.texts.forEach((t, i) => {
+    const section = el('div', 'freq-block');
+    const heading = el('h3', '', `<span class="color-dot" style="background:${COLORS[i]}"></span>${shortTitle(t)}`);
+    section.appendChild(heading);
+
+    const items = t.top50.slice(0, 30);
+    const maxVal = mode === 'raw'
+      ? items[0].count
+      : (items[0].count / t.wordCount) * 1000;
+
+    items.forEach(item => {
+      const val = mode === 'raw' ? item.count : (item.count / t.wordCount) * 1000;
+      const pct = (val / maxVal) * 100;
+      const row = el('div', 'bar-row');
+      row.innerHTML = `
+        <span class="bar-label">${item.word}</span>
+        <div class="bar-track">
+          <div class="bar-fill" style="width:${pct}%;background:${COLORS[i]}" title="${item.word}: ${mode === 'raw' ? item.count : val.toFixed(2) + ' per 1k'}"></div>
+        </div>
+        <span class="bar-val">${mode === 'raw' ? item.count : val.toFixed(1)}</span>`;
+      section.appendChild(row);
+    });
+    wrap.appendChild(section);
+  });
+}
+
+document.getElementById('freq-mode').addEventListener('change', renderFreqCharts);
+
+// ── Key term comparison (stacked horizontal bars) ────────────────────────────
+function renderComparison() {
+  const wrap = document.getElementById('comparison-chart');
+  wrap.innerHTML = '';
+
+  const terms = DATA.keyTerms;
+  // Find max total across all terms
+  let maxTotal = 0;
+  terms.forEach(term => {
+    let total = 0;
+    DATA.texts.forEach(t => { total += DATA.keyTermMatrix[t.id][term] || 0; });
+    if (total > maxTotal) maxTotal = total;
+  });
+
+  // Legend
+  const legend = el('div', 'legend');
+  DATA.texts.forEach((t, i) => {
+    legend.innerHTML += `<span class="legend-item"><span class="color-dot" style="background:${COLORS[i]}"></span>${shortTitle(t)}</span>`;
+  });
+  wrap.appendChild(legend);
+
+  terms.forEach(term => {
+    const row = el('div', 'comp-row');
+    row.style.cursor = 'pointer';
+    row.addEventListener('click', () => {
+      document.getElementById('kwic-select').value = term;
+      renderKWIC(term);
+      document.getElementById('concordance').scrollIntoView({ behavior: 'smooth' });
+    });
+
+    let label = el('span', 'comp-label', term);
+    row.appendChild(label);
+
+    let track = el('div', 'comp-track');
+    let total = 0;
+    DATA.texts.forEach(t => { total += DATA.keyTermMatrix[t.id][term] || 0; });
+
+    DATA.texts.forEach((t, i) => {
+      const count = DATA.keyTermMatrix[t.id][term] || 0;
+      if (count === 0) return;
+      const pct = (count / maxTotal) * 100;
+      const seg = el('div', 'comp-seg');
+      seg.style.width = pct + '%';
+      seg.style.background = COLORS[i];
+      seg.title = `${shortTitle(t)}: ${count}`;
+      track.appendChild(seg);
+    });
+    row.appendChild(track);
+    row.appendChild(el('span', 'comp-total', total.toString()));
+    wrap.appendChild(row);
+  });
+}
+
+// ── Concordance (KWIC) ──────────────────────────────────────────────────────
+function initConcordance() {
+  const select = document.getElementById('kwic-select');
+  DATA.keyTerms.forEach(term => {
+    const opt = document.createElement('option');
+    opt.value = term;
+    opt.textContent = term;
+    select.appendChild(opt);
+  });
+  select.addEventListener('change', () => renderKWIC(select.value));
+  renderKWIC(DATA.keyTerms[0]);
+}
+
+function renderKWIC(term) {
+  const wrap = document.getElementById('kwic-results');
+  wrap.innerHTML = '';
+  const concData = DATA.concordance[term];
+  if (!concData || Object.keys(concData).length === 0) {
+    wrap.innerHTML = '<p class="empty">No concordance data for this term.</p>';
+    return;
+  }
+
+  DATA.texts.forEach((t, i) => {
+    const snippets = concData[t.id];
+    if (!snippets || snippets.length === 0) return;
+
+    const block = el('div', 'kwic-block');
+    block.innerHTML = `<h3><span class="color-dot" style="background:${COLORS[i]}"></span>${shortTitle(t)}</h3>`;
+
+    const table = el('table', 'kwic-table');
+    snippets.forEach(s => {
+      const tr = el('tr');
+      tr.innerHTML = `
+        <td class="kwic-left">${s.left}</td>
+        <td class="kwic-kw">${s.keyword}</td>
+        <td class="kwic-right">${s.right}</td>`;
+      table.appendChild(tr);
+    });
+    block.appendChild(table);
+    wrap.appendChild(block);
+  });
+}
+</script>
+
+</body>
+</html>
