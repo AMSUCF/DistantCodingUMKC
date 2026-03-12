@@ -128,4 +128,62 @@ The source files, preprocessing script (`preprocess.py`), and generated data (`d
 
 ---
 
+## Example 3: Image Metadata and Slideshow from Photographs
+
+<div class="example-card" markdown="1">
+<span class="tag">Beginner</span>
+
+### From Raw Photos to Accessible Slideshow
+
+This example demonstrates a two-step workflow for working with images: first generating structured metadata (identification, alt text, and descriptive filenames), then building a presentation from that metadata. The source material is a set of personal photographs of Florida butterflies, uploaded as generic screenshots.
+
+Claude Code analyzes each image visually, identifies the species, writes detailed descriptive alt text suitable for accessibility, renames the files to meaningful names, and then builds a themed reveal.js slideshow.
+
+</div>
+
+### Steps
+
+<ol class="steps">
+<li>
+
+**Select a set of images** in need of metadata. Use images you have rights to -- personal photographs, public domain images, or Creative Commons materials. For this example, eight butterfly photographs from garden walks and hikes in Florida were uploaded as generic screenshots (e.g. `Screenshot 2026-03-12 122511.png`).
+
+</li>
+<li>
+
+**Upload to a subfolder** in your GitHub repository. Here, the images were placed in an `images/` folder.
+
+</li>
+<li>
+
+**Request identification, alt text, and renaming.** The prompt for this step was:
+
+<div class="prompt-block">
+"these images need to be analyzed. Create a file with detailed descriptive alt text for each image, and rename the image files to match the butterfly in each"
+</div>
+
+Claude examines each photograph, identifies the species (Spicebush Swallowtail, Eastern Tiger Swallowtail, Painted Lady, White Peacock, Monarch, Zebra Longwing, Ceraunus Blue, and Great Southern White), writes detailed alt text describing wing patterns, colors, posture, and surroundings, renames each file from its generic screenshot name, and saves all descriptions in a structured markdown file.
+
+</li>
+<li>
+
+**Build a slideshow** from the processed images and metadata:
+
+<div class="prompt-block">
+"build a reveal.js slideshow with a Florida native plant inspired aesthetic featuring each of the butterflies, with the identification in the caption and the alt text beneath it"
+</div>
+
+Claude builds a reveal.js presentation with a custom color palette inspired by Florida native plants (live oak canopy shadow, saw palmetto green, coreopsis gold, sandy pine flatwoods cream), decorative frond-like corner borders, fade transitions, and each species displayed with its common name, scientific name, and full descriptive alt text panel.
+
+</li>
+</ol>
+
+### Sample Output
+
+View the slideshow: **[Florida Butterflies](images/index.html)**
+
+The renamed images, alt text file (`alt-text.md`), and slideshow are all in the [`images/`](images/) subfolder.
+
+---
+
 *More examples coming soon.*
