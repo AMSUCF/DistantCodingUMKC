@@ -145,6 +145,27 @@
       min-height: 0;
     }
 
+    /* Custom scrollbar for alt-desc boxes */
+    .reveal .alt-desc::-webkit-scrollbar {
+      width: 6px;
+    }
+    .reveal .alt-desc::-webkit-scrollbar-track {
+      background: rgba(26,46,26,0.3);
+      border-radius: 3px;
+    }
+    .reveal .alt-desc::-webkit-scrollbar-thumb {
+      background: var(--fl-leaf);
+      border-radius: 3px;
+    }
+    .reveal .alt-desc::-webkit-scrollbar-thumb:hover {
+      background: var(--fl-gold);
+    }
+    /* Firefox */
+    .reveal .alt-desc {
+      scrollbar-width: thin;
+      scrollbar-color: var(--fl-leaf) rgba(26,46,26,0.3);
+    }
+
     /* Navigation & progress */
     .reveal .controls { color: var(--fl-gold); }
     .reveal .progress { color: var(--fl-leaf); height: 3px; }
