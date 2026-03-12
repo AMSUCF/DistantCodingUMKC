@@ -1,0 +1,326 @@
+/* ===================================================
+   Jordan M. Castillo — ePortfolio
+   A clean, scholarly design with a subtle digital-
+   humanities / electronic-literature aesthetic.
+   =================================================== */
+
+/* --- Reset & Base --- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:        #fafaf7;
+  --surface:   #ffffff;
+  --text:      #1b1b1b;
+  --muted:     #555;
+  --accent:    #2d6a4f;
+  --accent-lt: #d8f3dc;
+  --accent-dk: #1b4332;
+  --border:    #e0ddd5;
+  --font-body: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  --font-head: Georgia, 'Times New Roman', serif;
+  --max-w:     820px;
+  --nav-w:     56px;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body);
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover, a:focus { color: var(--accent-dk); text-decoration: underline; }
+
+/* --- Side Navigation --- */
+#sidenav {
+  position: fixed;
+  top: 0; left: 0;
+  width: var(--nav-w);
+  height: 100vh;
+  background: var(--accent-dk);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.2rem 0;
+  z-index: 100;
+}
+
+.nav-name {
+  color: var(--accent-lt);
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+  margin-bottom: 1.5rem;
+}
+
+#sidenav ul { list-style: none; }
+
+#sidenav li { margin-bottom: 0.6rem; }
+
+.nav-link {
+  display: block;
+  color: rgba(255,255,255,0.55);
+  font-size: 0.58rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  text-align: center;
+  padding: 0.35rem 0.2rem;
+  border-left: 3px solid transparent;
+  transition: all 0.2s;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #fff;
+  text-decoration: none;
+}
+.nav-link.active {
+  color: #fff;
+  border-left-color: var(--accent-lt);
+}
+
+/* --- Main content --- */
+main {
+  margin-left: var(--nav-w);
+  max-width: calc(var(--max-w) + 6rem);
+  padding: 0 3rem 4rem;
+}
+
+section {
+  padding: 3.5rem 0 2.5rem;
+  border-bottom: 1px solid var(--border);
+}
+section:last-child { border-bottom: none; }
+
+h2 {
+  font-family: var(--font-head);
+  font-size: 1.6rem;
+  color: var(--accent-dk);
+  margin-bottom: 1.2rem;
+  letter-spacing: 0.01em;
+}
+
+h3 {
+  font-size: 1rem;
+  margin: 1.4rem 0 0.6rem;
+  color: var(--accent);
+}
+
+/* --- Hero --- */
+.hero {
+  position: relative;
+  padding: 6rem 0 4rem;
+  border-bottom: 1px solid var(--border);
+  overflow: hidden;
+}
+.hero-inner { position: relative; z-index: 2; }
+
+.tagline {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.hero h1 {
+  font-family: var(--font-head);
+  font-size: 2.8rem;
+  color: var(--accent-dk);
+  line-height: 1.15;
+  margin-bottom: 0.8rem;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  color: var(--muted);
+  max-width: 540px;
+  margin-bottom: 1.2rem;
+}
+
+.hero-links { font-size: 0.95rem; }
+.hero-links a { font-weight: 600; }
+.dot { margin: 0 0.5rem; color: var(--border); }
+.masto { color: var(--muted); font-size: 0.9rem; }
+
+#pixel-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* --- Tag Cloud (Research) --- */
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+  margin-bottom: 1.2rem;
+}
+.tag-cloud li {
+  background: var(--accent-lt);
+  color: var(--accent-dk);
+  font-size: 0.82rem;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* --- Publication List --- */
+.pub-list {
+  list-style: none;
+  counter-reset: pub;
+  padding: 0;
+}
+.pub-list li {
+  position: relative;
+  padding-left: 1.6rem;
+  margin-bottom: 1rem;
+  line-height: 1.65;
+}
+.pub-list li::before {
+  counter-increment: pub;
+  content: counter(pub) ".";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+.pub-title { font-weight: 600; }
+.pub-venue { font-style: italic; }
+
+/* --- Talk List --- */
+.talk-list {
+  list-style: none;
+  padding: 0;
+}
+.talk-list li {
+  margin-bottom: 0.9rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--accent-lt);
+}
+.talk-title { font-weight: 600; }
+.talk-venue { font-style: italic; color: var(--muted); }
+
+/* --- Teaching --- */
+.teaching-block { margin-bottom: 1.4rem; }
+.teaching-block ul { padding-left: 1.4rem; }
+.teaching-block li { margin-bottom: 0.3rem; }
+.inst { font-weight: 400; color: var(--muted); font-size: 0.9rem; }
+.note { font-size: 0.85rem; color: var(--muted); }
+
+/* --- Project Cards --- */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.2rem;
+  margin-bottom: 1.4rem;
+}
+.project-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.2rem 1.3rem;
+  transition: box-shadow 0.25s, transform 0.25s;
+}
+.project-card:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.07);
+  transform: translateY(-3px);
+}
+.card-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  margin-bottom: 0.3rem;
+}
+.project-card h3 {
+  margin: 0 0 0.4rem;
+  font-family: var(--font-head);
+  color: var(--accent-dk);
+}
+.project-card p { font-size: 0.9rem; color: var(--muted); line-height: 1.55; }
+
+/* --- Skill Pills --- */
+.skill-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  list-style: none;
+}
+.skill-pills li {
+  background: var(--accent-dk);
+  color: #fff;
+  font-size: 0.78rem;
+  padding: 0.25rem 0.7rem;
+  border-radius: 4px;
+}
+
+/* --- Awards / Service --- */
+.award-list {
+  padding-left: 1.2rem;
+  margin-bottom: 1.4rem;
+}
+.award-list li { margin-bottom: 0.45rem; }
+
+/* --- Education --- */
+.edu-block { margin-bottom: 1rem; }
+.diss {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-top: 0.15rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--accent-lt);
+}
+
+/* --- CV Download --- */
+.cv-download {
+  margin-top: 2rem;
+  text-align: center;
+}
+.cv-download a {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  padding: 0.7rem 1.8rem;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+.cv-download a:hover {
+  background: var(--accent-dk);
+  text-decoration: none;
+}
+
+/* --- Footer --- */
+footer {
+  margin-left: var(--nav-w);
+  text-align: center;
+  padding: 2rem 1rem 2.5rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  border-top: 1px solid var(--border);
+}
+.memberships { margin-top: 0.3rem; font-size: 0.8rem; }
+
+/* --- Responsive --- */
+@media (max-width: 700px) {
+  #sidenav { display: none; }
+  main { margin-left: 0; padding: 0 1.2rem 3rem; }
+  footer { margin-left: 0; }
+  .hero h1 { font-size: 2rem; }
+  .project-grid { grid-template-columns: 1fr; }
+}
