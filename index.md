@@ -2,11 +2,9 @@
 layout: default
 ---
 
-## About This Guide
+## About This Workshop
 
-This guide walks through practical examples of using AI-assisted coding tools for digital humanities work. Each example demonstrates a real workflow -- from preparing source materials to generating a finished digital project -- using **Claude Code** connected to a GitHub repository.
-
-These examples are designed for humanities researchers, graduate students, and faculty who want to explore what AI-assisted development looks like in practice, without requiring prior programming experience.
+In this workshop, we'll be walking through pragmatic approaches to using agentic AI tools as assistants for digital humanities projects: this approach introduces [distant coding](https://dl.acm.org/doi/10.1007/978-3-032-12408-1_15), a method John Murray and I define as akin to distant reading, as it involves the manipulation of code and data at a distance. To follow along, you will need a subscription to Anthropic's Claude.
 
 ---
 
@@ -17,7 +15,7 @@ These examples are designed for humanities researchers, graduate students, and f
 
 ### From Word Document to Professional Website
 
-This example demonstrates the most fundamental workflow: turning an existing document into a deployed website. Starting with a CV in `.docx` format, Claude Code reads the content, designs a site appropriate to the person's field, and builds it -- complete with responsive navigation, styled sections, and a downloadable link to the original document.
+This example demonstrates the most fundamental workflow: turning an existing document into a deployed website. Starting with a CV in `.docx` format, Claude Code reads the content, designs a site appropriate to the person's field, and builds it.
 
 The result is a single-page ePortfolio with sections for publications, conference presentations, teaching, digital projects, awards, and education, all extracted directly from the CV content.
 
@@ -59,7 +57,7 @@ Claude reads the `.docx` file, identifies the person's field and research intere
 </li>
 <li>
 
-**Review and iterate.** Claude pushes the generated site to the repository. You can follow up with additional prompts to adjust the design, fix issues, or add features -- just as you would in conversation.
+**Review and iterate.** Claude pushes the generated site to the repository. You can follow up with additional prompts to adjust the design, fix issues, or add features -- just as you would in conversation. To deploy the portfolio to the web, go to GitHub.com, commit the changes, and select Pages under settings - deploy from main branch.
 
 </li>
 </ol>
@@ -90,7 +88,7 @@ The corpus includes four texts: *The Invention of the Sewing Machine* (1968), *T
 <ol class="steps">
 <li>
 
-**Gather source texts** in plain text format. For this example, four technology-related texts were downloaded from Project Gutenberg and uploaded to a `distantread/` subfolder in the repository.
+**Gather source texts** in plain text format. For this example, five technology-related texts were downloaded from Project Gutenberg and uploaded to a `distantread/` subfolder in the repository. One source text was chosen to be misleading (it has no content) - Claude handles this by eliminating it from the dataset.
 
 </li>
 <li>
@@ -204,22 +202,18 @@ This opens up significantly more capability: Claude can read and write files acr
 <ol class="steps">
 <li>
 
-**Download and install Claude Code.** Visit [claude.ai/code](https://claude.ai/code) and follow the installation instructions for your operating system. This requires Node.js (v18+). On most systems, you can install it with:
-
-```
-npm install -g @anthropic-ai/claude-code
-```
+**Download and install Claude Code.** Visit the [Claude Code documentation](https://code.claude.com/docs/en/overview) and follow the installation instructions for your operating system. This is a command line or terminal tool, so you will need to install it from the terminal.
 
 </li>
 <li>
 
-**Open your terminal** (Terminal on Mac, Command Prompt or PowerShell on Windows) and navigate to a project folder -- ideally a GitHub repository you've already cloned or initialized:
+**Open a project through your command line.** Use Terminal on Mac, Command Prompt or PowerShell on Windows and navigate to a project folder -- ideally a GitHub repository you've already cloned or initialized: you can use GitHub Desktop options and select "open project in Terminal/Command Line" to do this directly.
 
 ```
 cd ~/projects/my-dh-project
 ```
 
-If you don't have a project folder yet, create one and initialize a git repository:
+If you don't have a project folder yet, you can also create one and initialize a git repository from the command line if you have git installed:
 
 ```
 mkdir my-dh-project && cd my-dh-project && git init
@@ -237,13 +231,13 @@ claude
 </li>
 <li>
 
-**Activate the brainstorming plugin.** Once inside the Claude Code session, type `/install` and select the **superpowers** plugin. This adds extended capabilities for project planning and brainstorming. After installation, use the `/brainstorm` command to begin designing a project collaboratively:
+**Install and activate the "superpowers" workflow** Once inside the Claude Code session, type `/plugin` and select the **superpowers** plugin. This [adds skills](https://github.com/obra/superpowers) to support planning and management of more complex projects. After installation, use the `/brainstorm` command to begin designing a project. Here's an example:
 
 <div class="prompt-block">
-/brainstorm I want to build an interactive timeline of women in computing from Ada Lovelace to the present, with primary source excerpts, portraits, and a network visualization showing mentorship and collaboration connections between figures
+/brainstorm I want to build a tool that takes my class video and creates excellent course captions using a local model to process. This tool should also detect filler words (um, uh, etc) and edit the video to remove them before finalize the captions.
 </div>
 
-The brainstorming mode helps you think through architecture, scope, data sources, and implementation strategy before writing code. Claude will ask clarifying questions, suggest approaches, identify potential challenges, and help you break an ambitious idea into manageable pieces.
+The brainstorming mode will ask questions about architecture, scope, data sources, and implementation strategy before writing code. It will also break the project down into more manageable parts, and deploy subagents to handle tasks.
 
 </li>
 <li>
@@ -257,7 +251,7 @@ The brainstorming mode helps you think through architecture, scope, data sources
 - Commit and push to GitHub
 - Iterate based on your feedback in real time
 
-This is where the workflow shifts from single-prompt generation (as in Examples 1-3) to an ongoing collaborative development process -- closer to pair programming than to filling out a form.
+This is where the workflow shifts from single-prompt generation (as in Examples 1-3) to supervising a developer with direct access to the system.
 
 </li>
 </ol>
@@ -273,7 +267,7 @@ With Claude Code on the desktop and brainstorming tools, the scope of possible p
 - **Digital exhibits** with multimedia, timelines, and curatorial commentary
 - **Pedagogical tools** -- interactive exercises, annotation platforms, or game-based learning environments
 
-The key difference from the web-based workflow is that Claude Code on the desktop can handle projects with many files, complex dependencies, and iterative development cycles -- the kind of work that typically requires a dedicated developer.
+The key difference from the web-based workflow is that Claude Code on the desktop can handle projects with many files, complex dependencies, and iterative development cycles.
 
 ---
 
@@ -303,7 +297,7 @@ This requires Claude Code running on the desktop (see Example 4) and a local ins
 <ol class="steps">
 <li>
 
-**Install the Zotero MCP server.** Open your terminal and install the [zotero-mcp](https://github.com/54yyyu/zotero-mcp) package. The recommended method uses `uv`, but `pip` or `pipx` also work:
+**Install the Zotero MCP server.** You can do this yourself, or you can direct Claude Code to read the directions on the repository and install it for you. To install it yourself, open your terminal and install the [zotero-mcp](https://github.com/54yyyu/zotero-mcp) package. The recommended method uses `uv`, but `pip` or `pipx` also work:
 
 ```
 uv tool install zotero-mcp-server
@@ -371,12 +365,9 @@ Search my Zotero library for papers about procedural rhetoric in video games. Su
 </li>
 </ol>
 
-### Why This Matters for Humanities Research
+### Use Cases
 
-Reference management is central to humanities scholarship, but libraries often grow large enough that researchers lose track of what they have. Semantic search means you can ask conceptual questions ("what do I have on affect theory and digital media?") rather than relying on exact keyword matches. Combined with Claude's ability to read and summarize, this turns your Zotero library into an active research partner rather than a passive archive.
+Reference management is central to humanities scholarship, but libraries often grow large enough that researchers lose track of what they have. Semantic search means you can ask conceptual questions ("what do I have on affect theory and digital media?") rather than relying on exact keyword matches. 
 
 The MCP architecture is also extensible -- the same pattern of connecting Claude to external tools works for databases, APIs, file systems, and other services. Zotero is one example, but it illustrates the broader principle of bringing domain-specific tools into the AI workflow.
 
----
-
-*More examples coming soon.*
