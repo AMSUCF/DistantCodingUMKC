@@ -277,4 +277,106 @@ The key difference from the web-based workflow is that Claude Code on the deskto
 
 ---
 
+## Example 5: Searching Your Research Library with the Zotero MCP
+
+<div class="example-card" markdown="1">
+<span class="tag">Advanced</span>
+
+### Connecting Claude to Your Zotero Library
+
+This example demonstrates how to extend Claude Code's capabilities by connecting it to external tools through the Model Context Protocol (MCP). Specifically, we connect Claude to [Zotero](https://www.zotero.org/) -- the open-source reference manager widely used in humanities research -- so that Claude can search your library semantically, extract annotations, retrieve full-text content, and work with your citations directly.
+
+This requires Claude Code running on the desktop (see Example 4) and a local installation of Python and Zotero.
+
+</div>
+
+### Prerequisites
+
+- **Claude Code** installed on your machine (see Example 4)
+- **Python 3.10+** installed
+- **Zotero 7+** installed and running, with the local API enabled:
+  - In Zotero, go to Preferences and enable *"Allow other applications on this computer to communicate with Zotero"*
+- Optional but recommended: the [Better BibTeX](https://retorque.re/zotero-better-bibtex/) plugin for enhanced annotation and citation export
+
+### Steps
+
+<ol class="steps">
+<li>
+
+**Install the Zotero MCP server.** Open your terminal and install the [zotero-mcp](https://github.com/54yyyu/zotero-mcp) package. The recommended method uses `uv`, but `pip` or `pipx` also work:
+
+```
+uv tool install zotero-mcp-server
+```
+
+or:
+
+```
+pip install zotero-mcp-server
+```
+
+</li>
+<li>
+
+**Run the setup command.** This auto-configures the connection between the Zotero MCP server and Claude:
+
+```
+zotero-mcp setup
+```
+
+The setup wizard will ask whether to use the local Zotero API (recommended -- requires Zotero to be running) or the web API (requires an API key). It will also configure semantic search settings, including which embedding model to use. The default model (`all-MiniLM-L6-v2`) is free and runs locally.
+
+</li>
+<li>
+
+**Build the semantic search database.** This indexes your Zotero library so Claude can perform AI-powered similarity searches, not just keyword matching:
+
+```
+zotero-mcp update-db
+```
+
+For a more thorough index that includes full-text content of PDFs (slower but much more useful for research queries):
+
+```
+zotero-mcp update-db --fulltext
+```
+
+</li>
+<li>
+
+**Launch Claude Code** and verify the connection. Start Claude Code in any project folder:
+
+```
+claude
+```
+
+Claude now has access to tools for searching your Zotero library, retrieving item metadata, reading annotations, extracting full text, and browsing collections. Try a research query:
+
+<div class="prompt-block">
+Search my Zotero library for papers about procedural rhetoric in video games. Summarize the key arguments across the top results and identify which ones discuss environmental themes.
+</div>
+
+</li>
+<li>
+
+**Explore what's possible.** With the Zotero MCP connected, you can ask Claude to:
+
+- **Semantic search**: find papers related to a concept even if they don't use the exact keywords
+- **Annotation review**: pull all your highlights and notes from a specific PDF
+- **Literature mapping**: identify clusters of related work in your library
+- **Citation export**: retrieve BibTeX entries for specific items
+- **Research synthesis**: summarize findings across multiple papers on a topic
+- **Gap analysis**: ask what's missing from your library on a given subject
+
+</li>
+</ol>
+
+### Why This Matters for Humanities Research
+
+Reference management is central to humanities scholarship, but libraries often grow large enough that researchers lose track of what they have. Semantic search means you can ask conceptual questions ("what do I have on affect theory and digital media?") rather than relying on exact keyword matches. Combined with Claude's ability to read and summarize, this turns your Zotero library into an active research partner rather than a passive archive.
+
+The MCP architecture is also extensible -- the same pattern of connecting Claude to external tools works for databases, APIs, file systems, and other services. Zotero is one example, but it illustrates the broader principle of bringing domain-specific tools into the AI workflow.
+
+---
+
 *More examples coming soon.*
