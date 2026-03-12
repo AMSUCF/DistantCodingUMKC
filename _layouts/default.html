@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    {% include head-custom.html %}
+    <style>
+      /* --- Custom overrides for Humanities AI course page --- */
+      body {
+        font-size: 16px;
+        line-height: 1.75;
+      }
+      .wrapper {
+        max-width: 860px;
+      }
+      #title h1 {
+        font-size: 2.4em;
+        letter-spacing: 0.01em;
+      }
+      #title p {
+        font-size: 1.15em;
+        opacity: 0.85;
+      }
+      section h2 {
+        margin-top: 2em;
+        padding-bottom: 0.3em;
+        border-bottom: 1px solid rgba(255,255,255,0.08);
+      }
+      section h3 {
+        margin-top: 1.6em;
+      }
+      /* Step list styling */
+      .steps {
+        counter-reset: step;
+        list-style: none;
+        padding-left: 0;
+      }
+      .steps li {
+        counter-increment: step;
+        position: relative;
+        padding: 0.8em 0 0.8em 3.2em;
+        margin-bottom: 0.4em;
+        border-left: 2px solid rgba(255,255,255,0.08);
+      }
+      .steps li::before {
+        content: counter(step);
+        position: absolute;
+        left: 0;
+        top: 0.7em;
+        width: 2em;
+        height: 2em;
+        background: #87ceeb;
+        color: #141414;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 2em;
+        font-weight: 700;
+        font-size: 0.85em;
+      }
+      /* Example card */
+      .example-card {
+        background: rgba(255,255,255,0.04);
+        border: 1px solid rgba(255,255,255,0.1);
+        border-radius: 6px;
+        padding: 1.5em 1.8em;
+        margin: 1.5em 0;
+      }
+      .example-card h3 {
+        margin-top: 0;
+        color: #87ceeb;
+      }
+      .example-card .tag {
+        display: inline-block;
+        background: rgba(135,206,235,0.15);
+        color: #87ceeb;
+        font-size: 0.78em;
+        padding: 0.2em 0.7em;
+        border-radius: 999px;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        margin-bottom: 0.6em;
+      }
+      /* Prompt block */
+      .prompt-block {
+        background: rgba(0,0,0,0.3);
+        border-left: 3px solid #87ceeb;
+        padding: 1em 1.2em;
+        border-radius: 0 4px 4px 0;
+        margin: 1em 0;
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <ul>
+            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+            {% if site.show_downloads %}
+              <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
+              <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
+              <li class="title">DOWNLOADS</li>
+            {% endif %}
+          </ul>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
+
+        {{ content }}
+
+      </section>
+
+    </div>
+  </body>
+</html>
