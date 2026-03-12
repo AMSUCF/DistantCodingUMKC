@@ -72,4 +72,60 @@ The source files are in the [`eportfolio/`](eportfolio/) subfolder of this repos
 
 ---
 
+## Example 2: Distant Reading a Text Corpus
+
+<div class="example-card" markdown="1">
+<span class="tag">Intermediate</span>
+
+### Visualizing Word Distributions and Concordances
+
+This example demonstrates a classic digital humanities workflow: distant reading. Starting with a set of plain-text files from Project Gutenberg -- all on the theme of technology and invention -- Claude Code preprocesses the texts, computes word frequency distributions, identifies key terms shared across the corpus, extracts keyword-in-context concordances, and builds an interactive web visualization.
+
+The corpus includes four texts: *The Invention of the Sewing Machine* (1968), *The Telephone* (1877), *The Story of the Atlantic Telegraph* (1866), and *Printing Telegraphy... A New Era Begins* (1967).
+
+</div>
+
+### Steps
+
+<ol class="steps">
+<li>
+
+**Gather source texts** in plain text format. For this example, four technology-related texts were downloaded from Project Gutenberg and uploaded to a `distantread/` subfolder in the repository.
+
+</li>
+<li>
+
+**Open Claude Code** and select the repository, as in Example 1.
+
+</li>
+<li>
+
+**Use a prompt** describing the analysis you want:
+
+<div class="prompt-block">
+"preprocess these texts (all of which are about technology) and create a web visualization comparing the word distribution of each (ignoring stop words) as well as the concordance of key terms appropriate across the set"
+</div>
+
+Claude writes a Python preprocessing script that strips Gutenberg boilerplate, tokenizes text, removes stop words, computes word frequencies, identifies key terms appearing across multiple texts, and extracts keyword-in-context concordances -- then outputs structured JSON. It then builds an interactive HTML/CSS/JS visualization that loads that data.
+
+</li>
+<li>
+
+**Explore the results.** The visualization includes:
+- **Corpus overview cards** showing word counts per text
+- **Word frequency bar charts** for each text (toggling raw count vs. per-1,000-word normalization)
+- **Key term comparison** with stacked bars showing each text's contribution
+- **Concordance view** (keyword-in-context) for any selected term
+
+</li>
+</ol>
+
+### Sample Output
+
+View the visualization: **[Distant Reading: Technology Texts](distantread/index.html)**
+
+The source files, preprocessing script (`preprocess.py`), and generated data (`data.json`) are all in the [`distantread/`](distantread/) subfolder.
+
+---
+
 *More examples coming soon.*
